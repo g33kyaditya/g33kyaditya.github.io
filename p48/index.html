@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title> #8 : Updates ! &middot;  </title>
+
+        <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="generator" content="Hugo 0.31" />
+
+
+<script   src="https://code.jquery.com/jquery-3.1.1.min.js"   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="   crossorigin="anonymous"></script>
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
+
+<link rel="stylesheet" href="https://aditya-dev.xyz/css/nix.css">
+
+
+<link href="https://fonts.googleapis.com/css?family=Inconsolata%7COpen+Sans%7CConcert+One" rel="stylesheet">
+
+
+
+
+    </head>
+
+    <body>
+        <header>
+<nav class="navbar navbar-default navbar-fixed-top navbar-inverse font-header">
+	<div class="container-fluid">
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			<a class="navbar-brand" id="green-terminal" href=https://aditya-dev.xyz>g33kyaditya@aditya-dev.xyz ~ $</a>
+		</div>
+
+		
+		<div class="collapse navbar-collapse" id="navbar-collapse-1">
+			<ul class="nav navbar-nav navbar-right">
+				<li>
+					<a href="https://aditya-dev.xyz">/home/g33kyaditya</a>
+				</li>
+				
+				
+				<li class="dropdown">
+                    
+            		<a href="https://aditya-dev.xyz/posts">~/posts</a>
+            		
+        		</li>
+        		
+
+			</ul>
+		</div>
+	</div>
+</nav>
+</header>
+
+        <div class="container wrapper">
+            <h1><a href="https://aditya-dev.xyz/p48/">#8 : Updates !</a></h1>
+            <span class="post-date">Jul 25, 2015 </span>
+            <div class="post-content">
+                <p>So, I&#8217;m gonna be blogging at a stretch for a day or two. I still can&#8217;t figure out why. Anyways, I am now a Sophomore. It feels good to be. At the same time it&#8217;s freaking me out a bit. I just joined College some time back. There&#8217;s so much to do. But I&#8217;ll calm down in some time.</p>
+
+<p>I pretty much spent my summer vacation on my laptop. Hahah. I watched 5 seasons of Breaking Bad. Finished the 3rd season of Arrow and 5th Season of Game of Thrones</p>
+
+<p>*SPOILER* {Jon Snow will be back. He&#8217;s in Belfast now where the shooting for season 6 is taking place. Why else would he be there anyway ?}</p>
+
+<p>I am halfway through Season 9 on Friends. Finished Daredevil and True Detective. Apart from it, I spent a lot of time on Coding. Learnt a lot of new stuff. It was enjoyable. Went to Delhi to meet an old friend.</p>
+
+<p>Owing to the geek I am, this post wouldn&#8217;t be complete without an in depth analysis of something geeky. My Primary OS was Ubuntu. I was running the 14.04 LTS version. Thought of switching to KDE. Why ? I still don&#8217;t know. Anyways, I don&#8217;t regret it. KDE way of doing things is far better than Unity. At least according to me. It takes some time getting used to, but in the end it&#8217;s not so big a deal. I still have to find out what are Activities and Activity Manager. I&#8217;ll update when I know.</p>
+
+<p>I changed my basic Terminal Shell to Yakuake. First because it offers the option of multiple tabs on the terminal and second because it looks really cool, dropping down from the top. You can bring it at the first view in any of the Workspaces. However, one thing I am really disappointed about is the lack of good looking Workspace Navigation. Unity used to split the screen into the number of Workspaces and then you could easily choose one. In KDE it&#8217;s just pure minimal. Or crappy to say. Just an arrow. With bugs sometimes.</p>
+
+<p>Initially I installed KDE alongside Ubuntu, that gave me a choice of choosing the desktop environment at login. But a day later, I realized I no longer needed Unity. So I chose to remove it. This is where things go nasty.</p>
+
+<pre><code>sudo apt-add-repository ppa:kubuntu-ppa/next
+sudo apt update
+sudo apt install kubuntu-plasma5-desktop
+sudo apt full-upgrade
+</code></pre>
+
+<p>Pretty Easy. Now restart and you are good to go. You&#8217;ll be asked to choose either of the two Desktop Environents at startup.</p>
+
+<p>Now, if you have to remove Ubuntu, things get exciting.</p>
+
+<pre><code>sudo apt-get remove --purge unity
+sudo apt-get remove --purge gnome-shell
+sudo apt-get remove --purge lightdm
+sudo apt-get autoremove
+</code></pre>
+
+<p>If you are lucky, the next time you restart, your OS will automatically detect the Desktop Environment. I wasn&#8217;t that lucky. It had the OS, the kernel, everything. But I had ripped off the top layer of my distro. Imagine logging into your laptop and seeing nothing. A blank white screen. Nothing else. No error messages. Not even the godly terminal opens.</p>
+
+<p>I couldn&#8217;t afford to lose my precious data. Spent that day surfing. I finally figured out that I didn&#8217;t completely remove Unity. WTF ? I created a live USB, fired up the terminal and</p>
+
+<pre><code>sudo apt-get autoremove --purge unity-*
+</code></pre>
+
+<p>Restarted and I was good to go.</p>
+
+<p>*Happy*</p>
+
+<p>More blog posts follow.</p>
+
+<p>Thanks for Reading</p>
+
+            </div>
+            
+            <div class="post-comments">
+                
+            </div>
+            
+            <div class="push"></div>
+        </div>
+        <footer class="footer text-center">
+<p>Copyright &copy; 2018 Aditya -
+<span class="credit">
+	Powered by
+	<a target="_blank" href="https://gohugo.io">Hugo</a>
+	and
+	<a target="_blank" href="https://github.com/LordMathis/hugo-theme-nix/">Nix</a> theme.
+</span>
+</p>
+</footer>
+
+    </body>

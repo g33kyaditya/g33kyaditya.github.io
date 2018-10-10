@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title> #31: GSoC with KDE Now – 9 &middot;  </title>
+
+        <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="generator" content="Hugo 0.31" />
+
+
+<script   src="https://code.jquery.com/jquery-3.1.1.min.js"   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="   crossorigin="anonymous"></script>
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
+
+<link rel="stylesheet" href="https://aditya-dev.xyz/css/nix.css">
+
+
+<link href="https://fonts.googleapis.com/css?family=Inconsolata%7COpen+Sans%7CConcert+One" rel="stylesheet">
+
+
+
+
+    </head>
+
+    <body>
+        <header>
+<nav class="navbar navbar-default navbar-fixed-top navbar-inverse font-header">
+	<div class="container-fluid">
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			<a class="navbar-brand" id="green-terminal" href=https://aditya-dev.xyz>g33kyaditya@aditya-dev.xyz ~ $</a>
+		</div>
+
+		
+		<div class="collapse navbar-collapse" id="navbar-collapse-1">
+			<ul class="nav navbar-nav navbar-right">
+				<li>
+					<a href="https://aditya-dev.xyz">/home/g33kyaditya</a>
+				</li>
+				
+				
+				<li class="dropdown">
+                    
+            		<a href="https://aditya-dev.xyz/posts">~/posts</a>
+            		
+        		</li>
+        		
+
+			</ul>
+		</div>
+	</div>
+</nav>
+</header>
+
+        <div class="container wrapper">
+            <h1><a href="https://aditya-dev.xyz/p674/">#31: GSoC with KDE Now – 9</a></h1>
+            <span class="post-date">Aug 15, 2016 </span>
+            <div class="post-content">
+                <p>Hey ! I’m making KDE Now, an application for the Plasma Desktop. It would help the user see important stuff from his email, on a plasmoid. It’s similar to what Google Now does on Android. To know more, click <a href="https://g33kyaditya.wordpress.com/2016/04/23/21-google-summer-of-code-2016/">here</a>.</p>
+
+<p>&nbsp;</p>
+
+<p>Roughly three weeks have passed since I last blogged about my project. School started and it was tough finding time for everything let alone blogging. This year&#8217;s Summer of Code is reaching it&#8217;s end and I have much to talk about this time around. In the end I also have a surprise for you.</p>
+
+<p>&nbsp;</p>
+
+<p>To start with, I worked on the Database I talked about earlier. Now all plugins save their maps into a Sqlite database and when the daemon runs, it finds these maps and prepares to load it into a card. There&#8217;s a catch here though, as I will have to pass the maps over to D-Bus and there are synchronizations issues. There&#8217;s still  a way to solve it but that involves editing an auto generated xml file manually. We wish to avoid this manual editing however, for easy maintenance in future. This might be some bug in the Qt based parsing/generation tool I use. But I need to still figure this out with my mentor.</p>
+
+<p>Since I had worked on all the points I had proposed, my mentor asked me to add support for more than one email account. So, now you can add multiple accounts to KDE Now and the daemon will fetch emails from all those accounts.</p>
+
+<p>I also worked on the credentials input mechanism. It has improved largely since I last blogged. Now the user is presented with a kind of form when KDE Now is started for the first time. You will be required to add your email credentials in the form. It adds your data to KWallet and the daemon retrieves it later.</p>
+
+<p>Finally, have a look at the demo below.</p>
+
+
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
+  <iframe src="//www.youtube.com/embed/a5bJdDuQRIQ" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen frameborder="0" title="YouTube Video"></iframe>
+ </div>
+
+
+<p>As soon as the application logs into your account, it fetches all emails within a span of one month and if it finds an email of Event, Flight, Hotel or Restaurant reservation that confirms to the schemas of Google Now, a card will appear. In the later part of the video, I have shown you how KDE Now works when an email arrives and a new card is generated dynamically with that information. I send raw html much like how a vendor sends to you.</p>
+
+<p>&nbsp;</p>
+
+<p>I will add another blog post regarding my final project report in a couple of days so be on the lookout.</p>
+
+<p>PS: I&#8217;m still looking for a graphics designer familiar with svg for KDE Now. If you are interested in helping me, drop a comment below with your contact details. Don&#8217;t worry your contact details will be kept private, as I monitor all comments before publishing.</p>
+
+<p>That&#8217;s all folks. Cheers !</p>
+
+            </div>
+            
+            <div class="post-comments">
+                
+            </div>
+            
+            <div class="push"></div>
+        </div>
+        <footer class="footer text-center">
+<p>Copyright &copy; 2018 Aditya -
+<span class="credit">
+	Powered by
+	<a target="_blank" href="https://gohugo.io">Hugo</a>
+	and
+	<a target="_blank" href="https://github.com/LordMathis/hugo-theme-nix/">Nix</a> theme.
+</span>
+</p>
+</footer>
+
+    </body>

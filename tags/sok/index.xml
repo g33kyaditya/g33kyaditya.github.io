@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sok on </title>
+    <link>https://aditya-dev.xyz/tags/sok/</link>
+    <description>Recent content in Sok on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 19 Mar 2016 07:47:43 +0000</lastBuildDate>
+    
+	<atom:link href="https://aditya-dev.xyz/tags/sok/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>#18: SoK with PMC – 4</title>
+      <link>https://aditya-dev.xyz/p169/</link>
+      <pubDate>Sat, 19 Mar 2016 07:47:43 +0000</pubDate>
+      
+      <guid>https://aditya-dev.xyz/p169/</guid>
+      <description>Well, I agree it&amp;#8217;s a bit late now. But, I checked my Season of KDE project status just now and was glad to know that I had passed. So, this post goes to it. My previous posts on SoK with PMC can be found here .
+Working on PMC was a really good experience. For someone like me, who takes time to get the hang of things, I really enjoyed all that I learnt during the past four months.</description>
+    </item>
+    
+    <item>
+      <title>#16: SoK with PMC – 3</title>
+      <link>https://aditya-dev.xyz/p116/</link>
+      <pubDate>Sun, 17 Jan 2016 11:06:19 +0000</pubDate>
+      
+      <guid>https://aditya-dev.xyz/p116/</guid>
+      <description>A very Happy New Year fellas ! Last time I said, that I&amp;#8217;d be working on Bhushan&amp;#8217;s new UI branch. This post is about it. He started working on it as part of his GSoC. I took the work of finishing it and merging it into master. However, my work&amp;#8217;s still not fully done. So I am for now just working on my branch. I will merge it into master later.</description>
+    </item>
+    
+    <item>
+      <title>#15: SoK with PMC – 2</title>
+      <link>https://aditya-dev.xyz/p81/</link>
+      <pubDate>Tue, 29 Dec 2015 11:12:37 +0000</pubDate>
+      
+      <guid>https://aditya-dev.xyz/p81/</guid>
+      <description>December was a particularly hectic month. I had my semester exams so could not make time for this project. It was only after 20th of the month that I was back into it.
+Anyways, like I said, I implemented the lastfm image fetcher as a plugin. It has an added advantage that you could turn it off if you want to. It&amp;#8217;s compiled as a different component, and on runtime acts independently of the main application.</description>
+    </item>
+    
+    <item>
+      <title>#14: SoK with PMC – 1</title>
+      <link>https://aditya-dev.xyz/p79/</link>
+      <pubDate>Thu, 12 Nov 2015 20:05:08 +0000</pubDate>
+      
+      <guid>https://aditya-dev.xyz/p79/</guid>
+      <description>Welcome my readers. This one&amp;#8217;s going to be about PMC so you can skip right away if you are not interested in the technicalities.
+PMC is a &amp;#8216;Media Center&amp;#8217; in essence. A one stop solution for music,pictures and videos. It was recently ported to Qt5/KF5. It&amp;#8217;s based on Model View Controller Concept and its UI is in QML with the complete backend in C++ and Qt.
+My aim is to &amp;#8216;Improve it&amp;#8217;s Architecture&amp;#8217; .</description>
+    </item>
+    
+    <item>
+      <title>#13 : SoK with Plasma Media Center – An Introduction</title>
+      <link>https://aditya-dev.xyz/p77/</link>
+      <pubDate>Thu, 12 Nov 2015 19:42:58 +0000</pubDate>
+      
+      <guid>https://aditya-dev.xyz/p77/</guid>
+      <description>Hello people . Back with another post. This time about Season of KDE . For those who don&amp;#8217;t know, SoK is a Google Summer of Code SpinOff in which students work on a project for an open source organization directly under the guidance of a seaoned mentor.
+I got selected for my proposed idea of improving the Plasma Media Center Architecture. To be precise, it&amp;#8217;s not just one task but a collection of tasks that I&amp;#8217;ll be doing through my SoK period.</description>
+    </item>
+    
+  </channel>
+</rss>

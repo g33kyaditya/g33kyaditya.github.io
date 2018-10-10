@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title> #14: SoK with PMC – 1 &middot;  </title>
+
+        <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="generator" content="Hugo 0.31" />
+
+
+<script   src="https://code.jquery.com/jquery-3.1.1.min.js"   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="   crossorigin="anonymous"></script>
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
+
+<link rel="stylesheet" href="https://aditya-dev.xyz/css/nix.css">
+
+
+<link href="https://fonts.googleapis.com/css?family=Inconsolata%7COpen+Sans%7CConcert+One" rel="stylesheet">
+
+
+
+
+    </head>
+
+    <body>
+        <header>
+<nav class="navbar navbar-default navbar-fixed-top navbar-inverse font-header">
+	<div class="container-fluid">
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			<a class="navbar-brand" id="green-terminal" href=https://aditya-dev.xyz>g33kyaditya@aditya-dev.xyz ~ $</a>
+		</div>
+
+		
+		<div class="collapse navbar-collapse" id="navbar-collapse-1">
+			<ul class="nav navbar-nav navbar-right">
+				<li>
+					<a href="https://aditya-dev.xyz">/home/g33kyaditya</a>
+				</li>
+				
+				
+				<li class="dropdown">
+                    
+            		<a href="https://aditya-dev.xyz/posts">~/posts</a>
+            		
+        		</li>
+        		
+
+			</ul>
+		</div>
+	</div>
+</nav>
+</header>
+
+        <div class="container wrapper">
+            <h1><a href="https://aditya-dev.xyz/p79/">#14: SoK with PMC – 1</a></h1>
+            <span class="post-date">Nov 12, 2015 </span>
+            <div class="post-content">
+                <p>Welcome my readers. This one&#8217;s going to be about PMC so you can skip right away if you are not interested in the technicalities.</p>
+
+<p>PMC is a &#8216;Media Center&#8217; in essence. A one stop solution for music,pictures and videos. It was recently ported to Qt5/KF5. It&#8217;s based on Model View Controller Concept and its UI is in QML with the complete backend in C++ and Qt.</p>
+
+<p>My aim is to &#8216;Improve it&#8217;s Architecture&#8217; . A lot of functionality and code is lying around in different branches that needs to be pushed to master. So yeah, it&#8217;s my job to make it all fall together nice and crisp.</p>
+
+<p>PMC is a shell. For the sake of simplicity, in the simplest terms, a shell is what the user uses to interact with a program. Your desktop is a shell for example. Now to know about what media you have on your local hard drive, PMC relies on baloo and also does a recursive file system search. This way when you open up PMC, you get a nicely laid out UI with your media contents it has fetched metadata of. Also, among other things is LastFm. PMC uses the lastfm API to get relevant info primarily images in this case and feeds it to PMC. Images such as artist or album art. With the previous architecture, this lastfm functionality was inside the core of PMC. In simple words you could say that, PMC had a function that would search for images. Removing this would mean , in a way crippling PMC. Although it&#8217;s pretty logical that such functionality is not a necessity. Likewise baloo. Suppose you have a 1TB Hard Disk filled to 500GB say, running at 5400RPM. Now imagine how much time would baloo take. For this we simply turned it off to avoid the nuisance. The reason being that baloo is implemented as a plugin. Implementing something as a plugin keeps the core independent of it. At run time, the core may need data from the plugin, in the  case of which it could simply load the plugin at run time. If not needed, it would not load the plugin. Simple 🙂</p>
+
+<p>The first of my many tasks was to do this. Make it possible for PMC to load lastfm as a plugin. In this I learned about Pimpl idiom in C++. About Qt Signals and Slots. Precisely that we could connect a signal to another signal. Pretty neat 😀 . And a lot of other things that I don&#8217;t remember.</p>
+
+<p>My mentor Ashish Bansal and the project&#8217;s maintainer Bhushan Shah have been a huge help.</p>
+
+<p>That&#8217;s all for now.</p>
+
+<p>Thanks for Reading.</p>
+
+            </div>
+            
+            <div class="post-comments">
+                
+            </div>
+            
+            <div class="push"></div>
+        </div>
+        <footer class="footer text-center">
+<p>Copyright &copy; 2018 Aditya -
+<span class="credit">
+	Powered by
+	<a target="_blank" href="https://gohugo.io">Hugo</a>
+	and
+	<a target="_blank" href="https://github.com/LordMathis/hugo-theme-nix/">Nix</a> theme.
+</span>
+</p>
+</footer>
+
+    </body>

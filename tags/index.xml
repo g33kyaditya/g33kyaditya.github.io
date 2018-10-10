@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on </title>
+    <link>https://aditya-dev.xyz/tags/</link>
+    <description>Recent content in Tags on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 30 Aug 2016 17:37:14 +0000</lastBuildDate>
+    
+	<atom:link href="https://aditya-dev.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gsoc16</title>
+      <link>https://aditya-dev.xyz/tags/gsoc16/</link>
+      <pubDate>Tue, 30 Aug 2016 17:37:14 +0000</pubDate>
+      
+      <guid>https://aditya-dev.xyz/tags/gsoc16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kde</title>
+      <link>https://aditya-dev.xyz/tags/kde/</link>
+      <pubDate>Tue, 30 Aug 2016 17:37:14 +0000</pubDate>
+      
+      <guid>https://aditya-dev.xyz/tags/kde/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sok</title>
+      <link>https://aditya-dev.xyz/tags/sok/</link>
+      <pubDate>Sat, 19 Mar 2016 07:47:43 +0000</pubDate>
+      
+      <guid>https://aditya-dev.xyz/tags/sok/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

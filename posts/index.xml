@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on </title>
+    <link>https://aditya-dev.xyz/posts/</link>
+    <description>Recent content in Posts on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 17 Oct 2017 19:39:21 +0000</lastBuildDate>
+    
+	<atom:link href="https://aditya-dev.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>#33: Random Blabber</title>
+      <link>https://aditya-dev.xyz/p764/</link>
+      <pubDate>Tue, 17 Oct 2017 19:39:21 +0000</pubDate>
+      
+      <guid>https://aditya-dev.xyz/p764/</guid>
+      <description>A certain someone inspired me to write this down, after so long a time. She doesn&amp;#8217;t know about this, so hopefully she&amp;#8217;ll not be reading it anytime soon. For lack of something good, I&amp;#8217;ll just update y&amp;#8217;all on my life and university (something that&amp;#8217;s a headline for this blog)
+I got into my last year of Engineering this semester. Contrary to my thoughts, I ended up passing all my courses from last semester.</description>
+    </item>
+    
+    <item>
+      <title>#32: Google Summer of Code : Pencils Down</title>
+      <link>https://aditya-dev.xyz/p723/</link>
+      <pubDate>Tue, 30 Aug 2016 17:37:14 +0000</pubDate>
+      
+      <guid>https://aditya-dev.xyz/p723/</guid>
+      <description>Wow ! What a summer !
+Roughly 12 weeks have passed since I started working on KDE Now (well formally). Results came out some couple of hours ago and I passed the full term evaluation. In this post, I&amp;#8217;m going to talk about what I&amp;#8217;m planning for the future of KDE Now. How the past weeks have been and some other stuff.
+&amp;nbsp;
+To start with, the summer was awesome. I got to learn so much and that certainly made me a better programmer.</description>
+    </item>
+    
+    <item>
+      <title>#31: GSoC with KDE Now – 9</title>
+      <link>https://aditya-dev.xyz/p674/</link>
+      <pubDate>Mon, 15 Aug 2016 18:05:16 +0000</pubDate>
+      
+      <guid>https://aditya-dev.xyz/p674/</guid>
+      <description>Hey ! I’m making KDE Now, an application for the Plasma Desktop. It would help the user see important stuff from his email, on a plasmoid. It’s similar to what Google Now does on Android. To know more, click here.
+&amp;nbsp;
+Roughly three weeks have passed since I last blogged about my project. School started and it was tough finding time for everything let alone blogging. This year&amp;#8217;s Summer of Code is reaching it&amp;#8217;s end and I have much to talk about this time around.</description>
+    </item>
+    
+    <item>
+      <title>#30: GSoC with KDE Now – 8</title>
+      <link>https://aditya-dev.xyz/p644/</link>
+      <pubDate>Mon, 25 Jul 2016 18:25:34 +0000</pubDate>
+      
+      <guid>https://aditya-dev.xyz/p644/</guid>
+      <description>Hey ! I’m making KDE Now, an application for the Plasma Desktop. It would help the user see important stuff from his email, on a plasmoid. It’s similar to what Google Now does on Android. To know more, click here.
+&amp;nbsp;
+Time sure passes fast when you are enjoying something. And so, another week has passed and I&amp;#8217;m back with another status update. Things look very very good from here on.</description>
+    </item>
+    
+    <item>
+      <title>#29: GSoC with KDE Now – 7</title>
+      <link>https://aditya-dev.xyz/p606/</link>
+      <pubDate>Sun, 17 Jul 2016 17:39:10 +0000</pubDate>
+      
+      <guid>https://aditya-dev.xyz/p606/</guid>
+      <description>Hey ! I’m making KDE Now, an application for the Plasma Desktop. It would help the user see important stuff from his email, on a plasmoid. It’s similar to what Google Now does on Android. To know more, click here
+&amp;nbsp;
+Another week has passed. And I&amp;#8217;m back with more updates of what I&amp;#8217;ve done over last week. I worked on the plasmoid side of things this time. Andres(Andy) Betts at the KDE-VDG was very generous and had given me some nice mockups for Event and Hotel cards.</description>
+    </item>
+    
+    <item>
+      <title>#28: GSoC with KDE Now – 6</title>
+      <link>https://aditya-dev.xyz/p563/</link>
+      <pubDate>Mon, 11 Jul 2016 08:25:35 +0000</pubDate>
+      
+      <guid>https://aditya-dev.xyz/p563/</guid>
+      <description>Hey ! I’m making KDE Now, an application for the Plasma Desktop. It would help the user see important stuff from his email, on a plasmoid. It’s similar to what Google Now does on Android. To know more, click here
+&amp;nbsp;
+Another week has passed since I last posted about my progress. This week I did more work primarily on the plasmoid side of things.
+I added receivers for the data, that was being thrown over D-Bus.</description>
+    </item>
+    
+    <item>
+      <title>#27: GSoC with KDE Now – 5</title>
+      <link>https://aditya-dev.xyz/p539/</link>
+      <pubDate>Sat, 02 Jul 2016 08:46:46 +0000</pubDate>
+      
+      <guid>https://aditya-dev.xyz/p539/</guid>
+      <description>Hey ! I&amp;#8217;m making KDE Now, an application for the Plasma Desktop. It would help the user see important stuff from his email, on a plasmoid. It&amp;#8217;s similar to what Google Now does on Android. To know more, click here
+&amp;nbsp;
+I know, I know. I haven&amp;#8217;t blogged for a while. But the past couple of weeks have been busy. Not just in terms of my project, but also my personal life, with a lot of things happening lately that demand my attention.</description>
+    </item>
+    
+    <item>
+      <title>#26: GSoC with KDE Now – 4</title>
+      <link>https://aditya-dev.xyz/p465/</link>
+      <pubDate>Sat, 11 Jun 2016 14:34:32 +0000</pubDate>
+      
+      <guid>https://aditya-dev.xyz/p465/</guid>
+      <description>Hey ! I&amp;#8217;m making KDE Now, an application for the Plasma Desktop. It would help the user see important stuff from his email, on a plasmoid. It&amp;#8217;s similar to what Google Now does on Android. To know more, click here
+&amp;nbsp;
+In the past week, I worked on the code reviews I got. Hence, I changed the classes&amp;#8217; design all over. The way it works now, is that there is a central dispatcher, the daemon, that handles all the jobs.</description>
+    </item>
+    
+    <item>
+      <title>#25: Summers !</title>
+      <link>https://aditya-dev.xyz/p432/</link>
+      <pubDate>Wed, 08 Jun 2016 07:59:16 +0000</pubDate>
+      
+      <guid>https://aditya-dev.xyz/p432/</guid>
+      <description>I had my last exam on the 27th of May. And with that, I bid adieu to my sophomore year. Now when I look back, things seem to have flown past. Just the other day, I was excited about starting another year at college, and here I am writing about it&amp;#8217;s end. Life sure moves fast, mate.
+Last year (or academic session) was a mix bag. We had some good courses, and some not so good ones.</description>
+    </item>
+    
+    <item>
+      <title>#24: GSoC with KDE Now – 3</title>
+      <link>https://aditya-dev.xyz/p359/</link>
+      <pubDate>Fri, 03 Jun 2016 19:43:33 +0000</pubDate>
+      
+      <guid>https://aditya-dev.xyz/p359/</guid>
+      <description>Hey ! I&amp;#8217;m making KDE Now, an application for the Plasma Desktop. It would help the user see important stuff from his email, on a plasmoid. It&amp;#8217;s similar to what Google Now does on Android. To know more, click here
+&amp;nbsp;
+It&amp;#8217;s been some time since the coding period started for this year&amp;#8217;s Summer of Code. I had exams till 27th of May, so I started from 28th. My mentor knew about it already, so things went buttery smooth.</description>
+    </item>
+    
+    <item>
+      <title>#23: GSoC with KDE Now- 2</title>
+      <link>https://aditya-dev.xyz/p327/</link>
+      <pubDate>Wed, 11 May 2016 14:38:49 +0000</pubDate>
+      
+      <guid>https://aditya-dev.xyz/p327/</guid>
+      <description>Hey ! I&amp;#8217;m making KDE Now, an application for the Plasma Desktop. It would help the user see important stuff from his email, on a plasmoid. It&amp;#8217;s similar to what Google Now does on Android. To know more, click here
+&amp;nbsp;
+Just an update on what I&amp;#8217;ve planned for the coming weeks. Also, I don&amp;#8217;t think I&amp;#8217;ll be able to do anything else for the next two weeks, since my final semester exams start from 18th of this month, and last till 28th.</description>
+    </item>
+    
+    <item>
+      <title>#22: GSoC with KDE Now – 1</title>
+      <link>https://aditya-dev.xyz/p278/</link>
+      <pubDate>Tue, 03 May 2016 08:02:33 +0000</pubDate>
+      
+      <guid>https://aditya-dev.xyz/p278/</guid>
+      <description>Hey ! I&amp;#8217;m making KDE Now, an application for the Plasma Desktop. It would help the user see important stuff from his email, on a plasmoid. It&amp;#8217;s similar to what Google Now does on Android. To know more, click here
+&amp;nbsp;
+As I said, in my last post, I am one of the student developers for KDE this year during this Google Summer of Code. I&amp;#8217;ll be working on a project related to Plasma.</description>
+    </item>
+    
+    <item>
+      <title>#21: Google Summer of Code 2016</title>
+      <link>https://aditya-dev.xyz/p248/</link>
+      <pubDate>Fri, 22 Apr 2016 20:51:26 +0000</pubDate>
+      
+      <guid>https://aditya-dev.xyz/p248/</guid>
+      <description>Hey all !
+I am happy to let you know that I got into Google Summer of Code this year. I&amp;#8217;ll be working with KDE to create an application, KDE Now. I&amp;#8217;ll go more into details as I move forward with it.
+KDE Now would be a desktop application similar to Google Now cards for Android. It would show relevant and useful information to the user from his Email. Stuff like, his Flight Reservation or Hotel details would be shown in the form of concise cards.</description>
+    </item>
+    
+    <item>
+      <title>#20: Holidays, Game of Thrones and more</title>
+      <link>https://aditya-dev.xyz/p218/</link>
+      <pubDate>Fri, 15 Apr 2016 18:35:21 +0000</pubDate>
+      
+      <guid>https://aditya-dev.xyz/p218/</guid>
+      <description>Well, I am currently at my home. (Again !). Perks of living in a hostel 40 miles from your home, I guess. It&amp;#8217;s holiday time. I have the same 9 days leave that I had during Holi. I still have a couple of days until college reopens.
+All I did in this time was drool over the new Game of Thrones season, practice Data Structure and Algorithmic Questions from SPOJ and well, wake up at 12 in the day.</description>
+    </item>
+    
+    <item>
+      <title>#19</title>
+      <link>https://aditya-dev.xyz/p190/</link>
+      <pubDate>Mon, 21 Mar 2016 21:12:44 +0000</pubDate>
+      
+      <guid>https://aditya-dev.xyz/p190/</guid>
+      <description>Hey there !
+You must have already noticed that I changed the site&amp;#8217;s domain. This looks better to me. The month has been good till now. I am currently at home due to Holi holidays. Holi is an Indian festival in which people play with colors. There&amp;#8217;s a whole story behind why it&amp;#8217;s celebrated but I won&amp;#8217;t go there. This is what it looks like.
+I&amp;#8217;ve never really played Holi that much.</description>
+    </item>
+    
+    <item>
+      <title>#18: SoK with PMC – 4</title>
+      <link>https://aditya-dev.xyz/p169/</link>
+      <pubDate>Sat, 19 Mar 2016 07:47:43 +0000</pubDate>
+      
+      <guid>https://aditya-dev.xyz/p169/</guid>
+      <description>Well, I agree it&amp;#8217;s a bit late now. But, I checked my Season of KDE project status just now and was glad to know that I had passed. So, this post goes to it. My previous posts on SoK with PMC can be found here .
+Working on PMC was a really good experience. For someone like me, who takes time to get the hang of things, I really enjoyed all that I learnt during the past four months.</description>
+    </item>
+    
+    <item>
+      <title>#17: conf.kde.in 2016</title>
+      <link>https://aditya-dev.xyz/p160/</link>
+      <pubDate>Fri, 04 Mar 2016 14:27:42 +0000</pubDate>
+      
+      <guid>https://aditya-dev.xyz/p160/</guid>
+      <description>This will be me log of conf.kde.in 2016. It&amp;#8217;s the KDE India annual conference. This time around it&amp;#8217;ll be at LNMIIT Jaipur. I am going there along with Ashish Bansal.
+0900 hrs &amp;#8211; Chandigarh: I reached Chandigarh Airport. Well its technically Mohali Airport since its in Mohali. Anyways, I reached there well ahead of time. I had already done web check in. I was sleepy and took a nap. Woke up from Bansal&amp;#8217;s call.</description>
+    </item>
+    
+    <item>
+      <title>#16: SoK with PMC – 3</title>
+      <link>https://aditya-dev.xyz/p116/</link>
+      <pubDate>Sun, 17 Jan 2016 11:06:19 +0000</pubDate>
+      
+      <guid>https://aditya-dev.xyz/p116/</guid>
+      <description>A very Happy New Year fellas ! Last time I said, that I&amp;#8217;d be working on Bhushan&amp;#8217;s new UI branch. This post is about it. He started working on it as part of his GSoC. I took the work of finishing it and merging it into master. However, my work&amp;#8217;s still not fully done. So I am for now just working on my branch. I will merge it into master later.</description>
+    </item>
+    
+    <item>
+      <title>#15: SoK with PMC – 2</title>
+      <link>https://aditya-dev.xyz/p81/</link>
+      <pubDate>Tue, 29 Dec 2015 11:12:37 +0000</pubDate>
+      
+      <guid>https://aditya-dev.xyz/p81/</guid>
+      <description>December was a particularly hectic month. I had my semester exams so could not make time for this project. It was only after 20th of the month that I was back into it.
+Anyways, like I said, I implemented the lastfm image fetcher as a plugin. It has an added advantage that you could turn it off if you want to. It&amp;#8217;s compiled as a different component, and on runtime acts independently of the main application.</description>
+    </item>
+    
+    <item>
+      <title>#14: SoK with PMC – 1</title>
+      <link>https://aditya-dev.xyz/p79/</link>
+      <pubDate>Thu, 12 Nov 2015 20:05:08 +0000</pubDate>
+      
+      <guid>https://aditya-dev.xyz/p79/</guid>
+      <description>Welcome my readers. This one&amp;#8217;s going to be about PMC so you can skip right away if you are not interested in the technicalities.
+PMC is a &amp;#8216;Media Center&amp;#8217; in essence. A one stop solution for music,pictures and videos. It was recently ported to Qt5/KF5. It&amp;#8217;s based on Model View Controller Concept and its UI is in QML with the complete backend in C++ and Qt.
+My aim is to &amp;#8216;Improve it&amp;#8217;s Architecture&amp;#8217; .</description>
+    </item>
+    
+    <item>
+      <title>#13 : SoK with Plasma Media Center – An Introduction</title>
+      <link>https://aditya-dev.xyz/p77/</link>
+      <pubDate>Thu, 12 Nov 2015 19:42:58 +0000</pubDate>
+      
+      <guid>https://aditya-dev.xyz/p77/</guid>
+      <description>Hello people . Back with another post. This time about Season of KDE . For those who don&amp;#8217;t know, SoK is a Google Summer of Code SpinOff in which students work on a project for an open source organization directly under the guidance of a seaoned mentor.
+I got selected for my proposed idea of improving the Plasma Media Center Architecture. To be precise, it&amp;#8217;s not just one task but a collection of tasks that I&amp;#8217;ll be doing through my SoK period.</description>
+    </item>
+    
+    <item>
+      <title>#12</title>
+      <link>https://aditya-dev.xyz/p73/</link>
+      <pubDate>Mon, 12 Oct 2015 14:47:40 +0000</pubDate>
+      
+      <guid>https://aditya-dev.xyz/p73/</guid>
+      <description>Welcome my fellow readers !
+As you would have seen, I changed the UI of the blog. This looks much more visually appealing. Its been a long time since my last post. It&amp;#8217;s not easy being a blogger. This makes me wonder how do regular bloggers not run out of topics to write ! *sigh* So here goes.
+Life&amp;#8217;s going well. The first fifteen days of September were a complete mess due to some personal issues but everything is back on track.</description>
+    </item>
+    
+    <item>
+      <title>#11</title>
+      <link>https://aditya-dev.xyz/p68/</link>
+      <pubDate>Tue, 18 Aug 2015 21:17:10 +0000</pubDate>
+      
+      <guid>https://aditya-dev.xyz/p68/</guid>
+      <description>While I write this, I am sitting with two of my friends in my University&amp;#8217;s Reading Hall. It&amp;#8217;s already past 2:30 in the AM, and we are just chilling out , talking of an array of things &amp;#8230; for no apparent reason.
+University Elections are taking place. This time a bit earlier though. All parties have pulled up their socks and are campaigning vigorously. They wake you up at 3 in the morning.</description>
+    </item>
+    
+    <item>
+      <title>#10 : I moved to Kubuntu 15.04</title>
+      <link>https://aditya-dev.xyz/p62/</link>
+      <pubDate>Sat, 01 Aug 2015 13:23:20 +0000</pubDate>
+      
+      <guid>https://aditya-dev.xyz/p62/</guid>
+      <description>Hey Guys !
+Nothing fancy this time. But it seems I am stuck with a problem every week. As if last weekend wasn&amp;#8217;t hectic enough. Last night all was fine. I did what I did and shut down my laptop. All good ! Or so it would seem.
+My WiFi stopped working. I also have a Windows 7 on a separate partition. I logged into it. And the WiFi was working.</description>
+    </item>
+    
+    <item>
+      <title>#9 : KDE Development Platform 4.14.2</title>
+      <link>https://aditya-dev.xyz/p56/</link>
+      <pubDate>Mon, 27 Jul 2015 15:07:30 +0000</pubDate>
+      
+      <guid>https://aditya-dev.xyz/p56/</guid>
+      <description>So here I am as promised. As I write this, I am sitting in my hostel room. One of my friends is playing GTA V. The other is copying GTA V. One is watching Game of Thrones and one is just lying around. And here I am writing this. *Slow claps please :)*
+KDE Development Platform :
+ The KDE Development Platform consists of an integrated set of technologies that help you build applications quickly and efficiently.</description>
+    </item>
+    
+    <item>
+      <title>#8 : Updates !</title>
+      <link>https://aditya-dev.xyz/p48/</link>
+      <pubDate>Sat, 25 Jul 2015 22:54:14 +0000</pubDate>
+      
+      <guid>https://aditya-dev.xyz/p48/</guid>
+      <description>So, I&amp;#8217;m gonna be blogging at a stretch for a day or two. I still can&amp;#8217;t figure out why. Anyways, I am now a Sophomore. It feels good to be. At the same time it&amp;#8217;s freaking me out a bit. I just joined College some time back. There&amp;#8217;s so much to do. But I&amp;#8217;ll calm down in some time.
+I pretty much spent my summer vacation on my laptop. Hahah. I watched 5 seasons of Breaking Bad.</description>
+    </item>
+    
+    <item>
+      <title>#7</title>
+      <link>https://aditya-dev.xyz/p43/</link>
+      <pubDate>Thu, 18 Dec 2014 18:27:17 +0000</pubDate>
+      
+      <guid>https://aditya-dev.xyz/p43/</guid>
+      <description>Writing a blog post after sometime now. Well don&amp;#8217;t give me those looks ! duh !
+Had my Minors from , If I remember correctly , Dec 08. Not that I study too much for it. Just didn&amp;#8217;t get the time. Also, I am having my semesters now. Already gave two examinations, out which Calculus went awful. Why do they even include these subjects in our course syllabus. Vectors and Algebra were understandable from CS view, but why Calculus ?</description>
+    </item>
+    
+    <item>
+      <title>#6 : Panjab University, my experiences till now.</title>
+      <link>https://aditya-dev.xyz/p38/</link>
+      <pubDate>Fri, 14 Nov 2014 19:10:44 +0000</pubDate>
+      
+      <guid>https://aditya-dev.xyz/p38/</guid>
+      <description>Its going to be roughly 3 months for me at Panjab University, Chandigarh (PU). For those of you , who don&amp;#8217;t know, I am a student of 1st Year CSE at the Dept. of Engineering (UIET). So here&amp;#8217;s a post on my experiences till now.
+My first reaction : What the fuck !!! It&amp;#8217;s hugeeee. There are a ton of Departments here. The list includes even Departments of Mandarin and Russian.</description>
+    </item>
+    
+    <item>
+      <title>#5 : Dual Boot Windows 8(8.1) with Linux</title>
+      <link>https://aditya-dev.xyz/p18/</link>
+      <pubDate>Thu, 06 Nov 2014 15:19:32 +0000</pubDate>
+      
+      <guid>https://aditya-dev.xyz/p18/</guid>
+      <description>In the last PULUG session they taught us how to Dual Boot Windows with Linux. Still, I see many of my classmates messing up their systems. One of them had to do a clean installation of Mint 17 (Cinnamon) after literally destroying both his Windows and Mint bootloaders. Ofcourse, he lost all his movies. We were in much despair.
+I myself have been dualbooting since I was in Grade 8. No big deal!</description>
+    </item>
+    
+    <item>
+      <title>#4 : PULUG</title>
+      <link>https://aditya-dev.xyz/p16/</link>
+      <pubDate>Tue, 04 Nov 2014 18:14:16 +0000</pubDate>
+      
+      <guid>https://aditya-dev.xyz/p16/</guid>
+      <description>I am blogging after a week or two I guess. Well, I hadn&amp;#8217;t promised to be a good blogger either :p.
+PULUG stands for Panjab University Linux User Group. It was started by my seniors some time back. If I am correct, then maybe in 2012. KP Sir along with Nitin Sir started it. Unlike the other geeks who blabber on and on about Open Source, these guys are really (by that I mean &amp;#8220;really&amp;#8221;) awesome.</description>
+    </item>
+    
+    <item>
+      <title>#3 : a funny comparison between C and C&#43;&#43;</title>
+      <link>https://aditya-dev.xyz/p9/</link>
+      <pubDate>Wed, 22 Oct 2014 14:58:22 +0000</pubDate>
+      
+      <guid>https://aditya-dev.xyz/p9/</guid>
+      <description>So, I was going through Abhinav Badola&amp;#8217;s Google+ profile, and found out this funny comparison between C and C++. Being a geek myself, I was compelled to post it here. So here it goes&amp;#8230;
+C is the crotchety old man who lives in the engine room. He is perpetually
+tinkering, occasionally mumbling words that make no sense to anyone,
+but might be old Norse (&amp;#8220;scanfing vastart, strtok div frexping calloc! Err,</description>
+    </item>
+    
+    <item>
+      <title>#2 : half girlfriend review</title>
+      <link>https://aditya-dev.xyz/p8/</link>
+      <pubDate>Wed, 22 Oct 2014 08:08:27 +0000</pubDate>
+      
+      <guid>https://aditya-dev.xyz/p8/</guid>
+      <description>Its been a fortnight, since I read half girlfriend by Chetan Bhagat. At 280 pages, its not a fat book. A sitting or two could do the trick. Besides, it got me glued. With each new chapter, you would be craving for more. I have been following Bhagat since his first book. Its the sixth book by Bhagat, and he seems to have worked on his previous flaws or shortcomings. His style remains pretty much the same as his previous fictional works.</description>
+    </item>
+    
+    <item>
+      <title>#1 : Just some stuff…</title>
+      <link>https://aditya-dev.xyz/p7/</link>
+      <pubDate>Wed, 22 Oct 2014 06:15:55 +0000</pubDate>
+      
+      <guid>https://aditya-dev.xyz/p7/</guid>
+      <description>So, I woke up this morning with this feeling of starting a blog(again). TBH, I am not a very good blogger. This is my 3rd blog. Out of the other 2, I deleted one a couple of weeks ago and the very first one is still active. Although I don&amp;#8217;t maintain it.
+This time, i&amp;#8217;ll be a good blogger (maybe), and will try to maintain it to the best of my abilities.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gsoc16 on </title>
+    <link>https://aditya-dev.xyz/tags/gsoc16/</link>
+    <description>Recent content in Gsoc16 on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 30 Aug 2016 17:37:14 +0000</lastBuildDate>
+    
+	<atom:link href="https://aditya-dev.xyz/tags/gsoc16/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>#32: Google Summer of Code : Pencils Down</title>
+      <link>https://aditya-dev.xyz/p723/</link>
+      <pubDate>Tue, 30 Aug 2016 17:37:14 +0000</pubDate>
+      
+      <guid>https://aditya-dev.xyz/p723/</guid>
+      <description>Wow ! What a summer !
+Roughly 12 weeks have passed since I started working on KDE Now (well formally). Results came out some couple of hours ago and I passed the full term evaluation. In this post, I&amp;#8217;m going to talk about what I&amp;#8217;m planning for the future of KDE Now. How the past weeks have been and some other stuff.
+&amp;nbsp;
+To start with, the summer was awesome. I got to learn so much and that certainly made me a better programmer.</description>
+    </item>
+    
+    <item>
+      <title>#31: GSoC with KDE Now – 9</title>
+      <link>https://aditya-dev.xyz/p674/</link>
+      <pubDate>Mon, 15 Aug 2016 18:05:16 +0000</pubDate>
+      
+      <guid>https://aditya-dev.xyz/p674/</guid>
+      <description>Hey ! I’m making KDE Now, an application for the Plasma Desktop. It would help the user see important stuff from his email, on a plasmoid. It’s similar to what Google Now does on Android. To know more, click here.
+&amp;nbsp;
+Roughly three weeks have passed since I last blogged about my project. School started and it was tough finding time for everything let alone blogging. This year&amp;#8217;s Summer of Code is reaching it&amp;#8217;s end and I have much to talk about this time around.</description>
+    </item>
+    
+    <item>
+      <title>#30: GSoC with KDE Now – 8</title>
+      <link>https://aditya-dev.xyz/p644/</link>
+      <pubDate>Mon, 25 Jul 2016 18:25:34 +0000</pubDate>
+      
+      <guid>https://aditya-dev.xyz/p644/</guid>
+      <description>Hey ! I’m making KDE Now, an application for the Plasma Desktop. It would help the user see important stuff from his email, on a plasmoid. It’s similar to what Google Now does on Android. To know more, click here.
+&amp;nbsp;
+Time sure passes fast when you are enjoying something. And so, another week has passed and I&amp;#8217;m back with another status update. Things look very very good from here on.</description>
+    </item>
+    
+    <item>
+      <title>#29: GSoC with KDE Now – 7</title>
+      <link>https://aditya-dev.xyz/p606/</link>
+      <pubDate>Sun, 17 Jul 2016 17:39:10 +0000</pubDate>
+      
+      <guid>https://aditya-dev.xyz/p606/</guid>
+      <description>Hey ! I’m making KDE Now, an application for the Plasma Desktop. It would help the user see important stuff from his email, on a plasmoid. It’s similar to what Google Now does on Android. To know more, click here
+&amp;nbsp;
+Another week has passed. And I&amp;#8217;m back with more updates of what I&amp;#8217;ve done over last week. I worked on the plasmoid side of things this time. Andres(Andy) Betts at the KDE-VDG was very generous and had given me some nice mockups for Event and Hotel cards.</description>
+    </item>
+    
+    <item>
+      <title>#28: GSoC with KDE Now – 6</title>
+      <link>https://aditya-dev.xyz/p563/</link>
+      <pubDate>Mon, 11 Jul 2016 08:25:35 +0000</pubDate>
+      
+      <guid>https://aditya-dev.xyz/p563/</guid>
+      <description>Hey ! I’m making KDE Now, an application for the Plasma Desktop. It would help the user see important stuff from his email, on a plasmoid. It’s similar to what Google Now does on Android. To know more, click here
+&amp;nbsp;
+Another week has passed since I last posted about my progress. This week I did more work primarily on the plasmoid side of things.
+I added receivers for the data, that was being thrown over D-Bus.</description>
+    </item>
+    
+    <item>
+      <title>#27: GSoC with KDE Now – 5</title>
+      <link>https://aditya-dev.xyz/p539/</link>
+      <pubDate>Sat, 02 Jul 2016 08:46:46 +0000</pubDate>
+      
+      <guid>https://aditya-dev.xyz/p539/</guid>
+      <description>Hey ! I&amp;#8217;m making KDE Now, an application for the Plasma Desktop. It would help the user see important stuff from his email, on a plasmoid. It&amp;#8217;s similar to what Google Now does on Android. To know more, click here
+&amp;nbsp;
+I know, I know. I haven&amp;#8217;t blogged for a while. But the past couple of weeks have been busy. Not just in terms of my project, but also my personal life, with a lot of things happening lately that demand my attention.</description>
+    </item>
+    
+    <item>
+      <title>#26: GSoC with KDE Now – 4</title>
+      <link>https://aditya-dev.xyz/p465/</link>
+      <pubDate>Sat, 11 Jun 2016 14:34:32 +0000</pubDate>
+      
+      <guid>https://aditya-dev.xyz/p465/</guid>
+      <description>Hey ! I&amp;#8217;m making KDE Now, an application for the Plasma Desktop. It would help the user see important stuff from his email, on a plasmoid. It&amp;#8217;s similar to what Google Now does on Android. To know more, click here
+&amp;nbsp;
+In the past week, I worked on the code reviews I got. Hence, I changed the classes&amp;#8217; design all over. The way it works now, is that there is a central dispatcher, the daemon, that handles all the jobs.</description>
+    </item>
+    
+    <item>
+      <title>#24: GSoC with KDE Now – 3</title>
+      <link>https://aditya-dev.xyz/p359/</link>
+      <pubDate>Fri, 03 Jun 2016 19:43:33 +0000</pubDate>
+      
+      <guid>https://aditya-dev.xyz/p359/</guid>
+      <description>Hey ! I&amp;#8217;m making KDE Now, an application for the Plasma Desktop. It would help the user see important stuff from his email, on a plasmoid. It&amp;#8217;s similar to what Google Now does on Android. To know more, click here
+&amp;nbsp;
+It&amp;#8217;s been some time since the coding period started for this year&amp;#8217;s Summer of Code. I had exams till 27th of May, so I started from 28th. My mentor knew about it already, so things went buttery smooth.</description>
+    </item>
+    
+    <item>
+      <title>#23: GSoC with KDE Now- 2</title>
+      <link>https://aditya-dev.xyz/p327/</link>
+      <pubDate>Wed, 11 May 2016 14:38:49 +0000</pubDate>
+      
+      <guid>https://aditya-dev.xyz/p327/</guid>
+      <description>Hey ! I&amp;#8217;m making KDE Now, an application for the Plasma Desktop. It would help the user see important stuff from his email, on a plasmoid. It&amp;#8217;s similar to what Google Now does on Android. To know more, click here
+&amp;nbsp;
+Just an update on what I&amp;#8217;ve planned for the coming weeks. Also, I don&amp;#8217;t think I&amp;#8217;ll be able to do anything else for the next two weeks, since my final semester exams start from 18th of this month, and last till 28th.</description>
+    </item>
+    
+    <item>
+      <title>#22: GSoC with KDE Now – 1</title>
+      <link>https://aditya-dev.xyz/p278/</link>
+      <pubDate>Tue, 03 May 2016 08:02:33 +0000</pubDate>
+      
+      <guid>https://aditya-dev.xyz/p278/</guid>
+      <description>Hey ! I&amp;#8217;m making KDE Now, an application for the Plasma Desktop. It would help the user see important stuff from his email, on a plasmoid. It&amp;#8217;s similar to what Google Now does on Android. To know more, click here
+&amp;nbsp;
+As I said, in my last post, I am one of the student developers for KDE this year during this Google Summer of Code. I&amp;#8217;ll be working on a project related to Plasma.</description>
+    </item>
+    
+    <item>
+      <title>#21: Google Summer of Code 2016</title>
+      <link>https://aditya-dev.xyz/p248/</link>
+      <pubDate>Fri, 22 Apr 2016 20:51:26 +0000</pubDate>
+      
+      <guid>https://aditya-dev.xyz/p248/</guid>
+      <description>Hey all !
+I am happy to let you know that I got into Google Summer of Code this year. I&amp;#8217;ll be working with KDE to create an application, KDE Now. I&amp;#8217;ll go more into details as I move forward with it.
+KDE Now would be a desktop application similar to Google Now cards for Android. It would show relevant and useful information to the user from his Email. Stuff like, his Flight Reservation or Hotel details would be shown in the form of concise cards.</description>
+    </item>
+    
+  </channel>
+</rss>

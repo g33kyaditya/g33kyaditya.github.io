@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title> #16: SoK with PMC – 3 &middot;  </title>
+
+        <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="generator" content="Hugo 0.31" />
+
+
+<script   src="https://code.jquery.com/jquery-3.1.1.min.js"   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="   crossorigin="anonymous"></script>
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
+
+<link rel="stylesheet" href="https://aditya-dev.xyz/css/nix.css">
+
+
+<link href="https://fonts.googleapis.com/css?family=Inconsolata%7COpen+Sans%7CConcert+One" rel="stylesheet">
+
+
+
+
+    </head>
+
+    <body>
+        <header>
+<nav class="navbar navbar-default navbar-fixed-top navbar-inverse font-header">
+	<div class="container-fluid">
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			<a class="navbar-brand" id="green-terminal" href=https://aditya-dev.xyz>g33kyaditya@aditya-dev.xyz ~ $</a>
+		</div>
+
+		
+		<div class="collapse navbar-collapse" id="navbar-collapse-1">
+			<ul class="nav navbar-nav navbar-right">
+				<li>
+					<a href="https://aditya-dev.xyz">/home/g33kyaditya</a>
+				</li>
+				
+				
+				<li class="dropdown">
+                    
+            		<a href="https://aditya-dev.xyz/posts">~/posts</a>
+            		
+        		</li>
+        		
+
+			</ul>
+		</div>
+	</div>
+</nav>
+</header>
+
+        <div class="container wrapper">
+            <h1><a href="https://aditya-dev.xyz/p116/">#16: SoK with PMC – 3</a></h1>
+            <span class="post-date">Jan 17, 2016 </span>
+            <div class="post-content">
+                <p style="padding-left:30px;">
+  A very Happy New Year fellas !
+</p>
+
+<p>Last time I said, that I&#8217;d be working on Bhushan&#8217;s new UI branch. This post is about it. He started working on it as part of his GSoC. I took the work of finishing it and merging it into master. However, my work&#8217;s still not fully done. So I am for now just working on my branch. I will merge it into master later.</p>
+
+<p>Have a look at what the old UI looked like :</p>
+
+<p><img class="alignnone size-full wp-image-132" src="https://g33kyaditya.files.wordpress.com/2016/01/oldui_1.png" alt="oldUI_1" width="1366" height="768" /></p>
+
+<p><img class="alignnone size-full wp-image-135" src="https://g33kyaditya.files.wordpress.com/2016/01/oldui_2.png" alt="oldUI_2" width="1366" height="768" /></p>
+
+<p>The new UI has a much more minimalistic design. It features a backend strip with various widget like options. For further options within a particular category, it will have a smaller strip beneath it. However, it&#8217;s still currently in development.</p>
+
+<p>Here&#8217;s how the UI will  somewhat look like after it&#8217;s been merged into master.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>So to start with, I created a backup of Bhushan&#8217;s branch and merged master into it. Since, the more time I took to merge master, the hairier it would become. Next I pushed this branch as my working branch and spent some days analyzing the flow of control for various elements and actions. This was a kind of messy job if not tough since we don&#8217;t have a documentation for it. I added the all so powerful Debug statements everywhere that I could. Ashish and Bhushan were a huge help too, since I didn&#8217;t know what a lot of UI components were doing.</p>
+
+<p>The branch was easily compiled but lacked functionality. So I started with the back button functionality. So that we could go to a previous menu by pressing the backspace button. Now the PMC works in a stack form. Each new page is pushed to the top of the stack and made visible. Every time we press the backspace key, the stack is popped and the previous page is made visible. After this I gave it playback support for Audio and Video. Again figuring out the flow was messy. But finally, it works ! Audio and Video play seamlessly, with the Media Controller and the media controls, both from the controller and keyboard work as expected.</p>
+
+<p>However, there are some issues I am still facing. There is an overlay of different pages during navigation. To be precise, overlay of lists that display the local audio/video content in a list form. I spent some time figuring it out, but then left it aside for now. Also, I&#8217;ll be adding capability to view images as well. They work a bit differently as they don&#8217;t need a Player Engine like Audio/Video but an Image Viewer. Also, we show these images&#8217; thumbnails in a grid so I&#8217;ll have to get that grid browser up and running. If all goes well, we can get at least the current master branch functionality in this new UI. Then I&#8217;ll merge and push. I&#8217;ll stay positive 🙂</p>
+
+<p>&nbsp;</p>
+
+<p>Thanks for reading !</p>
+
+<p>&nbsp;</p>
+
+            </div>
+            
+            <div class="post-comments">
+                
+            </div>
+            
+            <div class="push"></div>
+        </div>
+        <footer class="footer text-center">
+<p>Copyright &copy; 2018 Aditya -
+<span class="credit">
+	Powered by
+	<a target="_blank" href="https://gohugo.io">Hugo</a>
+	and
+	<a target="_blank" href="https://github.com/LordMathis/hugo-theme-nix/">Nix</a> theme.
+</span>
+</p>
+</footer>
+
+    </body>
