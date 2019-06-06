@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gsoc16 on </title>
+    <title>gsoc16 on Aditya Sharma</title>
     <link>https://aditya-dev.xyz/tags/gsoc16/</link>
-    <description>Recent content in Gsoc16 on </description>
+    <description>Recent content in gsoc16 on Aditya Sharma</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
+    <language>en-gb</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Tue, 30 Aug 2016 17:37:14 +0000</lastBuildDate>
     
 	<atom:link href="https://aditya-dev.xyz/tags/gsoc16/index.xml" rel="self" type="application/rss+xml" />
@@ -121,17 +122,6 @@ Just an update on what I&amp;#8217;ve planned for the coming weeks. Also, I don&
       <description>Hey ! I&amp;#8217;m making KDE Now, an application for the Plasma Desktop. It would help the user see important stuff from his email, on a plasmoid. It&amp;#8217;s similar to what Google Now does on Android. To know more, click here
 &amp;nbsp;
 As I said, in my last post, I am one of the student developers for KDE this year during this Google Summer of Code. I&amp;#8217;ll be working on a project related to Plasma.</description>
-    </item>
-    
-    <item>
-      <title>#21: Google Summer of Code 2016</title>
-      <link>https://aditya-dev.xyz/p248/</link>
-      <pubDate>Fri, 22 Apr 2016 20:51:26 +0000</pubDate>
-      
-      <guid>https://aditya-dev.xyz/p248/</guid>
-      <description>Hey all !
-I am happy to let you know that I got into Google Summer of Code this year. I&amp;#8217;ll be working with KDE to create an application, KDE Now. I&amp;#8217;ll go more into details as I move forward with it.
-KDE Now would be a desktop application similar to Google Now cards for Android. It would show relevant and useful information to the user from his Email. Stuff like, his Flight Reservation or Hotel details would be shown in the form of concise cards.</description>
     </item>
     
   </channel>

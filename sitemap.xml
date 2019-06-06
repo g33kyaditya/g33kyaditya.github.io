@@ -8,8 +8,38 @@
   </url>
   
   <url>
+    <loc>https://aditya-dev.xyz/</loc>
+    <lastmod>2017-10-17T19:39:21+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aditya-dev.xyz/posts/</loc>
+    <lastmod>2017-10-17T19:39:21+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://aditya-dev.xyz/p723/</loc>
     <lastmod>2016-08-30T17:37:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aditya-dev.xyz/tags/</loc>
+    <lastmod>2016-08-30T17:37:14+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aditya-dev.xyz/tags/gsoc16/</loc>
+    <lastmod>2016-08-30T17:37:14+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aditya-dev.xyz/tags/kde/</loc>
+    <lastmod>2016-08-30T17:37:14+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -80,6 +110,12 @@
   <url>
     <loc>https://aditya-dev.xyz/p169/</loc>
     <lastmod>2016-03-19T07:47:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aditya-dev.xyz/tags/sok/</loc>
+    <lastmod>2016-03-19T07:47:43+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -165,53 +201,6 @@
   <url>
     <loc>https://aditya-dev.xyz/p7/</loc>
     <lastmod>2014-10-22T06:15:55+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aditya-dev.xyz/</loc>
-    <lastmod>2017-10-17T19:39:21+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aditya-dev.xyz/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aditya-dev.xyz/tags/gsoc16/</loc>
-    <lastmod>2016-08-30T17:37:14+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aditya-dev.xyz/tags/kde/</loc>
-    <lastmod>2016-08-30T17:37:14+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aditya-dev.xyz/posts/</loc>
-    <lastmod>2017-10-17T19:39:21+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aditya-dev.xyz/tags/sok/</loc>
-    <lastmod>2016-03-19T07:47:43+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aditya-dev.xyz/tags/</loc>
-    <lastmod>2016-08-30T17:37:14+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aditya-dev.xyz/categories/uncategorized/</loc>
-    <lastmod>2017-10-17T19:39:21+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>

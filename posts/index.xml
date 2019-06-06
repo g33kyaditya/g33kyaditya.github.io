@@ -1,363 +1,1279 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on </title>
-    <link>https://aditya-dev.xyz/posts/</link>
-    <description>Recent content in Posts on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <lastBuildDate>Tue, 17 Oct 2017 19:39:21 +0000</lastBuildDate>
-    
-	<atom:link href="https://aditya-dev.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>#33: Random Blabber</title>
-      <link>https://aditya-dev.xyz/p764/</link>
-      <pubDate>Tue, 17 Oct 2017 19:39:21 +0000</pubDate>
-      
-      <guid>https://aditya-dev.xyz/p764/</guid>
-      <description>A certain someone inspired me to write this down, after so long a time. She doesn&amp;#8217;t know about this, so hopefully she&amp;#8217;ll not be reading it anytime soon. For lack of something good, I&amp;#8217;ll just update y&amp;#8217;all on my life and university (something that&amp;#8217;s a headline for this blog)
+	<channel>
+		<title>Posts on Aditya Sharma</title>
+		<link>https://aditya-dev.xyz/posts/</link>
+		<description>Recent content in Posts on Aditya Sharma</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-gb</language>
+		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+		<lastBuildDate>Tue, 17 Oct 2017 19:39:21 +0000</lastBuildDate>
+		<atom:link href="https://aditya-dev.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>#33: Random Blabber</title>
+			<link>https://aditya-dev.xyz/p764/</link>
+			<pubDate>Tue, 17 Oct 2017 19:39:21 +0000</pubDate>
+			
+			<guid>https://aditya-dev.xyz/p764/</guid>
+			<description>A certain someone inspired me to write this down, after so long a time. She doesn&amp;#8217;t know about this, so hopefully she&amp;#8217;ll not be reading it anytime soon. For lack of something good, I&amp;#8217;ll just update y&amp;#8217;all on my life and university (something that&amp;#8217;s a headline for this blog)
 I got into my last year of Engineering this semester. Contrary to my thoughts, I ended up passing all my courses from last semester.</description>
-    </item>
-    
-    <item>
-      <title>#32: Google Summer of Code : Pencils Down</title>
-      <link>https://aditya-dev.xyz/p723/</link>
-      <pubDate>Tue, 30 Aug 2016 17:37:14 +0000</pubDate>
-      
-      <guid>https://aditya-dev.xyz/p723/</guid>
-      <description>Wow ! What a summer !
+			<content type="html"><![CDATA[<p>A certain someone inspired me to write this down, after so long a time. She doesn&#8217;t know about this, so hopefully she&#8217;ll not be reading it anytime soon. For lack of something good, I&#8217;ll just update y&#8217;all on my life and university (something that&#8217;s a headline for this blog)</p>
+
+<p>I got into my last year of Engineering this semester. Contrary to my thoughts, I ended up passing all my courses from last semester. I still feel relieved saying. I&#8217;m not a very bright student after all.</p>
+
+<p>I spent my summer in New Delhi. I was interning at <a href="https://provakil.com/">provakil</a>. It was a very fun and rewarding experience. Everyone was very chill and the whole startup environment reminded me a lot about Silicon Valley (the HBO T.V series). Provakil is an early stage SaaS startup that provide legal software and related services to lawyers. For my 2 months, I stayed in Lajpat Nagar. I was a full stack software engineering intern, although I was treated like a full time member of the team. We worked hard and partied harder. They even paid me well, so what else could a 20yo desire in an internship ? Man, it&#8217;s gonna take me another blog post if I had to write about everything that happened in Delhi during summer. But it&#8217;s a post for a different time.</p>
+
+<p>I came back in the last week of July. College had started a week before. Typical college ghissu mates in my class too. And then began my journey of applying and interviewing to companies. It&#8217;s something that I&#8217;m still doing. Just after Diwali, I have a couple of interviews lined up. It&#8217;s hectic and excruciatingly tiring. I was feeling so burned out that I literally took more than a month&#8217;s break. Now that I think of it, although I did manage to get past that physical and mental burn out (since my end sems in May), I&#8217;m feeling out of practice. It&#8217;s gonna take more than a few days now to get back into form.</p>
+
+<p>And the only thing good about this is that I&#8217;ve got a few offers. I&#8217;ve still not made up my mind on where I want to work after graduation, but I&#8217;m gonna keep trying till Jan-Feb period. There&#8217;s more juicy news, although I&#8217;d like to keep it closer to my chest until everything&#8217;s finalized.</p>
+
+<p>&nbsp;</p>
+
+<p>Thanks for reading.</p>
+
+<p>See you later !</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>#32: Google Summer of Code : Pencils Down</title>
+			<link>https://aditya-dev.xyz/p723/</link>
+			<pubDate>Tue, 30 Aug 2016 17:37:14 +0000</pubDate>
+			
+			<guid>https://aditya-dev.xyz/p723/</guid>
+			<description>Wow ! What a summer !
 Roughly 12 weeks have passed since I started working on KDE Now (well formally). Results came out some couple of hours ago and I passed the full term evaluation. In this post, I&amp;#8217;m going to talk about what I&amp;#8217;m planning for the future of KDE Now. How the past weeks have been and some other stuff.
 &amp;nbsp;
 To start with, the summer was awesome. I got to learn so much and that certainly made me a better programmer.</description>
-    </item>
-    
-    <item>
-      <title>#31: GSoC with KDE Now – 9</title>
-      <link>https://aditya-dev.xyz/p674/</link>
-      <pubDate>Mon, 15 Aug 2016 18:05:16 +0000</pubDate>
-      
-      <guid>https://aditya-dev.xyz/p674/</guid>
-      <description>Hey ! I’m making KDE Now, an application for the Plasma Desktop. It would help the user see important stuff from his email, on a plasmoid. It’s similar to what Google Now does on Android. To know more, click here.
+			<content type="html"><![CDATA[<p>Wow ! What a summer !</p>
+
+<p>Roughly 12 weeks have passed since I started working on KDE Now (well formally). Results came out some couple of hours ago and I passed the full term evaluation. In this post, I&#8217;m going to talk about what I&#8217;m planning for the future of KDE Now. How the past weeks have been and some other stuff.</p>
+
+<p>&nbsp;</p>
+
+<p>To start with, the summer was awesome. I got to learn so much and that certainly made me a better programmer. Before this summer, I had worked on some parts of large codebases but never really started one from scratch. KDE Now taught me a lot about all the things you have to face when starting a project. The design choices you have to make. Even down to the bottom most nitty gritty details like using const correctness or avoiding copy of data while function calls. All these tiny bits eventually contribute to a better, working, cohesive whole.</p>
+
+<p>&nbsp;</p>
+
+<p>As for my work, you can find the formal work report <a href="https://community.kde.org/GSoC/2016/StatusReports/AdityaDevSharma">here</a>. KDE Now now has a quickgit <a href="https://quickgit.kde.org/?p=kde-now.git">repository</a> . It&#8217;s currently lying in playground and will continue to do so for a couple of months until I have everything sorted out before a possible release. First off, I&#8217;m gonna work on documentation. This is to attract other developers to contribute to it. Who wants to work on an undocumented software anyway 😛 . Next up, I will write unit tests. I have tested the application but only as a whole in some different scenarios. Unit Testing would be a lot better. But before all that can happen, I want a break. Haha ! I&#8217;ve been working for so long on this, that other things took a lower priority. School has started for much long and a lot of things require my attention. So I think, I should take a month off. You can hear me, with other updates from the start of October again. Meanwhile if you have any doubts/questions or want to contribute to KDE Now, I&#8217;ll be glad to to answer everything. Just comment below or drop me a mail 🙂</p>
+
+<p>&nbsp;</p>
+
+<p>I am very thankful to my mentor, Ashish Bansal. He is simply an awesome mentor. He would point me to some direction and leave the rest to me for finding out on my own. He would tell me what design choices were better, their trade offs but then again, left it to me to choose on my own. We talked on every other (or two) day. There were some times when I wasn&#8217;t very productive but he was pretty cool with that too, as long as I was not terribly behind schedule. I even poked him during his vacation, and he still managed to reply ! I&#8217;m really thankful to him. I couldn&#8217;t have asked for a better mentor. Also I am thankful to KDE for giving me this opportunity and finally to Google for organizing this awesome program.</p>
+
+<p>&nbsp;</p>
+
+<p>Cheers !</p>
+
+<p>See you later.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>#31: GSoC with KDE Now – 9</title>
+			<link>https://aditya-dev.xyz/p674/</link>
+			<pubDate>Mon, 15 Aug 2016 18:05:16 +0000</pubDate>
+			
+			<guid>https://aditya-dev.xyz/p674/</guid>
+			<description>Hey ! I’m making KDE Now, an application for the Plasma Desktop. It would help the user see important stuff from his email, on a plasmoid. It’s similar to what Google Now does on Android. To know more, click here.
 &amp;nbsp;
 Roughly three weeks have passed since I last blogged about my project. School started and it was tough finding time for everything let alone blogging. This year&amp;#8217;s Summer of Code is reaching it&amp;#8217;s end and I have much to talk about this time around.</description>
-    </item>
-    
-    <item>
-      <title>#30: GSoC with KDE Now – 8</title>
-      <link>https://aditya-dev.xyz/p644/</link>
-      <pubDate>Mon, 25 Jul 2016 18:25:34 +0000</pubDate>
-      
-      <guid>https://aditya-dev.xyz/p644/</guid>
-      <description>Hey ! I’m making KDE Now, an application for the Plasma Desktop. It would help the user see important stuff from his email, on a plasmoid. It’s similar to what Google Now does on Android. To know more, click here.
+			<content type="html"><![CDATA[<p>Hey ! I’m making KDE Now, an application for the Plasma Desktop. It would help the user see important stuff from his email, on a plasmoid. It’s similar to what Google Now does on Android. To know more, click <a href="https://g33kyaditya.wordpress.com/2016/04/23/21-google-summer-of-code-2016/">here</a>.</p>
+
+<p>&nbsp;</p>
+
+<p>Roughly three weeks have passed since I last blogged about my project. School started and it was tough finding time for everything let alone blogging. This year&#8217;s Summer of Code is reaching it&#8217;s end and I have much to talk about this time around. In the end I also have a surprise for you.</p>
+
+<p>&nbsp;</p>
+
+<p>To start with, I worked on the Database I talked about earlier. Now all plugins save their maps into a Sqlite database and when the daemon runs, it finds these maps and prepares to load it into a card. There&#8217;s a catch here though, as I will have to pass the maps over to D-Bus and there are synchronizations issues. There&#8217;s still  a way to solve it but that involves editing an auto generated xml file manually. We wish to avoid this manual editing however, for easy maintenance in future. This might be some bug in the Qt based parsing/generation tool I use. But I need to still figure this out with my mentor.</p>
+
+<p>Since I had worked on all the points I had proposed, my mentor asked me to add support for more than one email account. So, now you can add multiple accounts to KDE Now and the daemon will fetch emails from all those accounts.</p>
+
+<p>I also worked on the credentials input mechanism. It has improved largely since I last blogged. Now the user is presented with a kind of form when KDE Now is started for the first time. You will be required to add your email credentials in the form. It adds your data to KWallet and the daemon retrieves it later.</p>
+
+<p>Finally, have a look at the demo below.</p>
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="//www.youtube.com/embed/a5bJdDuQRIQ" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+
+<p>As soon as the application logs into your account, it fetches all emails within a span of one month and if it finds an email of Event, Flight, Hotel or Restaurant reservation that confirms to the schemas of Google Now, a card will appear. In the later part of the video, I have shown you how KDE Now works when an email arrives and a new card is generated dynamically with that information. I send raw html much like how a vendor sends to you.</p>
+
+<p>&nbsp;</p>
+
+<p>I will add another blog post regarding my final project report in a couple of days so be on the lookout.</p>
+
+<p>PS: I&#8217;m still looking for a graphics designer familiar with svg for KDE Now. If you are interested in helping me, drop a comment below with your contact details. Don&#8217;t worry your contact details will be kept private, as I monitor all comments before publishing.</p>
+
+<p>That&#8217;s all folks. Cheers !</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>#30: GSoC with KDE Now – 8</title>
+			<link>https://aditya-dev.xyz/p644/</link>
+			<pubDate>Mon, 25 Jul 2016 18:25:34 +0000</pubDate>
+			
+			<guid>https://aditya-dev.xyz/p644/</guid>
+			<description>Hey ! I’m making KDE Now, an application for the Plasma Desktop. It would help the user see important stuff from his email, on a plasmoid. It’s similar to what Google Now does on Android. To know more, click here.
 &amp;nbsp;
 Time sure passes fast when you are enjoying something. And so, another week has passed and I&amp;#8217;m back with another status update. Things look very very good from here on.</description>
-    </item>
-    
-    <item>
-      <title>#29: GSoC with KDE Now – 7</title>
-      <link>https://aditya-dev.xyz/p606/</link>
-      <pubDate>Sun, 17 Jul 2016 17:39:10 +0000</pubDate>
-      
-      <guid>https://aditya-dev.xyz/p606/</guid>
-      <description>Hey ! I’m making KDE Now, an application for the Plasma Desktop. It would help the user see important stuff from his email, on a plasmoid. It’s similar to what Google Now does on Android. To know more, click here
+			<content type="html"><![CDATA[<p>Hey ! I’m making KDE Now, an application for the Plasma Desktop. It would help the user see important stuff from his email, on a plasmoid. It’s similar to what Google Now does on Android. To know more, click <a href="https://g33kyaditya.wordpress.com/2016/04/23/21-google-summer-of-code-2016/">here</a>.</p>
+
+<p>&nbsp;</p>
+
+<p>Time sure passes fast when you are enjoying something. And so, another week has passed and I&#8217;m back with another status update. Things look very very good from here on. At least, not until we decide to change something drastic that I hadn&#8217;t proposed earlier XD.</p>
+
+<p>Last week was rough. I was struggling with viral fever and throat infection for the better part of the week. Plus I had some other things to attend to. Nonetheless, I managed to devote the needed time on my project. I managed to create the UI of the Flight and Restaurant cards. They look good and work as expected (the dynamically loading up of things and all)</p>
+
+<p>Here are the obligatory screenshots</p>
+
+<p>Other than that, I&#8217;m afraid I don&#8217;t have much to talk about. I still have not made the Database fix I had talked about in my earlier post. But I&#8217;ll do it next.If you look at it, then in a way I have managed to successfully deliver what all I had planned initially in my proposal :). This was a real confidence boost.</p>
+
+<p>For the next few weeks, I plan to work on some tidbits I had left earlier (like the Database thingy I mentioned). I also might refine the UI. Plus, I also need to figure out a convenient way to make the plasmoid available for the end user in terms of his email credentials. I might look into KWallet but me and my mentor have to still talk about it.</p>
+
+<p>Ending it with a request: If you are a graphics designer and have experience with making vector graphic images and want to help me out, feel free to contact me. Just comment your email id below (it&#8217;s private and I moderate comments :)) and I&#8217;ll contact you. I could really use your help.</p>
+
+<p>Till next time</p>
+
+<p>Cheers!</p>
+
+<p>&nbsp;</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>#29: GSoC with KDE Now – 7</title>
+			<link>https://aditya-dev.xyz/p606/</link>
+			<pubDate>Sun, 17 Jul 2016 17:39:10 +0000</pubDate>
+			
+			<guid>https://aditya-dev.xyz/p606/</guid>
+			<description>Hey ! I’m making KDE Now, an application for the Plasma Desktop. It would help the user see important stuff from his email, on a plasmoid. It’s similar to what Google Now does on Android. To know more, click here
 &amp;nbsp;
 Another week has passed. And I&amp;#8217;m back with more updates of what I&amp;#8217;ve done over last week. I worked on the plasmoid side of things this time. Andres(Andy) Betts at the KDE-VDG was very generous and had given me some nice mockups for Event and Hotel cards.</description>
-    </item>
-    
-    <item>
-      <title>#28: GSoC with KDE Now – 6</title>
-      <link>https://aditya-dev.xyz/p563/</link>
-      <pubDate>Mon, 11 Jul 2016 08:25:35 +0000</pubDate>
-      
-      <guid>https://aditya-dev.xyz/p563/</guid>
-      <description>Hey ! I’m making KDE Now, an application for the Plasma Desktop. It would help the user see important stuff from his email, on a plasmoid. It’s similar to what Google Now does on Android. To know more, click here
+			<content type="html"><![CDATA[<p>Hey ! I’m making KDE Now, an application for the Plasma Desktop. It would help the user see important stuff from his email, on a plasmoid. It’s similar to what Google Now does on Android. To know more, click <a href="https://g33kyaditya.wordpress.com/2016/04/23/21-google-summer-of-code-2016/">here</a></p>
+
+<p>&nbsp;</p>
+
+<p>Another week has passed. And I&#8217;m back with more updates of what I&#8217;ve done over last week. I worked on the plasmoid side of things this time. Andres(Andy) Betts at the KDE-VDG was very generous and had given me some nice mockups for Event and Hotel cards.</p>
+
+<p>I wrote the UI of these two cards based on the mockups I got. It was all in QML and went like a breeze. Next up, I worked on the plasmoid to make sure, that the cards get loaded dynamically in the correct way. It was an earlier commit but I figured out, it was not completely correct.</p>
+
+<p>I also made some improvements on the daemon side of things. Mainly, devised a way to load the extractor plugins just once and set different map data. Earlier the plugins were getting loaded every time an update over email was received. My debugging skills were put to test, trying to find this one out. Along with some Database issues, I&#8217;m facing while the daemon is started by the plasmoid (over D-Bus). These two bugs coupled together were not letting the cards generate. I haven&#8217;t yet made the Database fix yet but that&#8217;s because it is low on my priority list. Also, some things are going in my mind regarding it, so I&#8217;ll rather postpone it.</p>
+
+<p>Finally, a working model is ready. Well sort of. Not for the end user. But for the developer. Checkout the screenshots &#8211;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>There are two cards here, Event and the Hotel Card. Both of them were dynamically generated from test emails. The first one (Hotel Card) was generated on the plasmoid, after I pinned the plasmoid to the desktop. The lower one (Event Card) was generated after I sent another test email, while the plasmoid was still on the desktop. This one utilised the IDLE feature of the IMAP client daemon FTW !</p>
+
+<p>Things look good from here. Well I must say, I got a morale boost when I saw those cards &#8220;magically&#8221; generating for the first time. You see, I&#8217;ve been working for this a long time. And all I could see was just the debug output of the daemon. While that is informative and all, but that is not what I intended in the first place. Seeing the results made me very happy and I guess I even announced it on an IRC channel XD</p>
+
+<p>For the next part, I&#8217;ll be working on Flight and Restaurant cards. Now I don&#8217;t have mockups for those. But I know they&#8217;ll be along the lines of what we have right now. It could take me sometime though, to come up and finalize the UI for them. Also, I have to find a way to get the user details. I&#8217;ve been testing with hard-coded values. But this has to change ofcourse.</p>
+
+<p>Thanks for reading.</p>
+
+<p>See you later !</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>#28: GSoC with KDE Now – 6</title>
+			<link>https://aditya-dev.xyz/p563/</link>
+			<pubDate>Mon, 11 Jul 2016 08:25:35 +0000</pubDate>
+			
+			<guid>https://aditya-dev.xyz/p563/</guid>
+			<description>Hey ! I’m making KDE Now, an application for the Plasma Desktop. It would help the user see important stuff from his email, on a plasmoid. It’s similar to what Google Now does on Android. To know more, click here
 &amp;nbsp;
 Another week has passed since I last posted about my progress. This week I did more work primarily on the plasmoid side of things.
 I added receivers for the data, that was being thrown over D-Bus.</description>
-    </item>
-    
-    <item>
-      <title>#27: GSoC with KDE Now – 5</title>
-      <link>https://aditya-dev.xyz/p539/</link>
-      <pubDate>Sat, 02 Jul 2016 08:46:46 +0000</pubDate>
-      
-      <guid>https://aditya-dev.xyz/p539/</guid>
-      <description>Hey ! I&amp;#8217;m making KDE Now, an application for the Plasma Desktop. It would help the user see important stuff from his email, on a plasmoid. It&amp;#8217;s similar to what Google Now does on Android. To know more, click here
+			<content type="html"><![CDATA[<p>Hey ! I’m making KDE Now, an application for the Plasma Desktop. It would help the user see important stuff from his email, on a plasmoid. It’s similar to what Google Now does on Android. To know more, click <a href="https://g33kyaditya.wordpress.com/2016/04/23/21-google-summer-of-code-2016/">here</a></p>
+
+<p>&nbsp;</p>
+
+<p>Another week has passed since I last posted about my progress. This week I did more work primarily on the plasmoid side of things.</p>
+
+<p>I added receivers for the data, that was being thrown over D-Bus. To be a bit more precise, I exposed update signals over D-Bus which are emitted by the extractor plugins. There is a Datahandler that connects to these signals and calls the relevant method over D-Bus that I told you in my last post. Moreover, I made the whole daemon install as an autostart service. So every time, someone starts the plasmoid, it checks whether the daemon is running. If it&#8217;s not, then the daemon is started. This check, is made possible, by detecting whether the relevant interface is registered to D-Bus at the time.</p>
+
+<p>Next up I exposed properties to be used by the cards. For example, properties like name, reservation number, or date. These will be binded to the User Interface elements in the cards. At the time, we hadn&#8217;t finalized the User Interface for the cards. So I skipped those and started writing the plasmoid&#8217;s backend. In essence, we instantiate a datahandler we wrote earlier. On receiving signals, we call relevant functions, which will instantiate a card, set it&#8217;s data and add the card to the current model.</p>
+
+<p>For the next steps, I will write the User Interface for cards. Andres(Andy) Betts at the KDE-VDG was very helpful in providing me mockups for Event and Restaurant cards. I will start with them, and work on the other two, when they are finalized.</p>
+
+<p>I&#8217;m good with my proposed timeline till now, but GSoC timeline doesn&#8217;t match well with the way most of our schools, here in India work. Hence, I plan to do as much as I can before school starts (which it has, already 🙁 ) . That should leave with with just a few more things to do until Final Evaluations.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>#27: GSoC with KDE Now – 5</title>
+			<link>https://aditya-dev.xyz/p539/</link>
+			<pubDate>Sat, 02 Jul 2016 08:46:46 +0000</pubDate>
+			
+			<guid>https://aditya-dev.xyz/p539/</guid>
+			<description>Hey ! I&amp;#8217;m making KDE Now, an application for the Plasma Desktop. It would help the user see important stuff from his email, on a plasmoid. It&amp;#8217;s similar to what Google Now does on Android. To know more, click here
 &amp;nbsp;
 I know, I know. I haven&amp;#8217;t blogged for a while. But the past couple of weeks have been busy. Not just in terms of my project, but also my personal life, with a lot of things happening lately that demand my attention.</description>
-    </item>
-    
-    <item>
-      <title>#26: GSoC with KDE Now – 4</title>
-      <link>https://aditya-dev.xyz/p465/</link>
-      <pubDate>Sat, 11 Jun 2016 14:34:32 +0000</pubDate>
-      
-      <guid>https://aditya-dev.xyz/p465/</guid>
-      <description>Hey ! I&amp;#8217;m making KDE Now, an application for the Plasma Desktop. It would help the user see important stuff from his email, on a plasmoid. It&amp;#8217;s similar to what Google Now does on Android. To know more, click here
+			<content type="html"><![CDATA[<p>Hey ! I&#8217;m making KDE Now, an application for the Plasma Desktop. It would help the user see important stuff from his email, on a plasmoid. It&#8217;s similar to what Google Now does on Android. To know more, click <a href="https://g33kyaditya.wordpress.com/2016/04/23/21-google-summer-of-code-2016/">here</a></p>
+
+<p>&nbsp;</p>
+
+<p>I know, I know. I haven&#8217;t blogged for a while. But the past couple of weeks have been busy. Not just in terms of my project, but also my personal life, with a lot of things happening lately that demand my attention. Thankfully, I have been able to commit proper time to my project.</p>
+
+<p>This time, there&#8217;s a lot to talk about.</p>
+
+<p>I implemented all the extractors as run time plugins this time around. Earlier the daemon was not independent of it, with the extractors implemented as part of processor itself. Now, thanks to plugin architecture they are independent, and the daemon loads the plugins at run time. This was also part of my Season of KDE project for Plasma Media Center last year. It was only a lot more fun this time around, since I was starting from scratch. The advantage of having this architecture is the ease with which you can add support for plugins/extractors in future. At the end of this post, I&#8217;ll describe roughly how you can do this.</p>
+
+<p>Next up, I added support for database. It was always a plan to cache stuff, to avoid unnecessary network usage. But we had not decided on the exact details of this implementation. I wasn&#8217;t sure whether to cache on files or use a database. I went to IRC and asked around. Bhushan (bshah) suggested to use a database since that adds security. Trojita, which is  a Qt based IMAP client also uses a database for this. Hence, I planned to use a database altogether. My mentor suggested something along the lines of MongoDB in which I can save the whole data map and would not have to manually map everything (cheers !). My data was JSON so things would be a cakewalk. Both saving as well as retrieving data. Unfortunately, Qt doesn&#8217;t provide support for it. I looked for some C++ drivers around, but couldn&#8217;t find anything useful. In the end we settled for SQLite since it&#8217;s lightweight, supported by Qt and generally has compiled drivers for most distributions.</p>
+
+<p>Next, I exposed data from these plugins to D-Bus. I must say, I enjoyed learning about D-Bus. I had read about it earlier, during community bonding stage. But I forgot most of it, with all the things going on during my semester exams. Lol :D. Hence, when I read about D-Bus now, it was as good as a fresh start. I wrote small test programs too, for trying out QDBus. I came across a rather nasty problem related to D-Bus however. I was registering the proper service and object, but on calling the method, I repeatedly got the error of D-Bus Unknown object. After many hours, I consulted my mentor. He guessed it might be because, the object was getting destroyed on leaving scope (since it was in stack memory). His guess was spot on. I changed the object to heap memory and it worked like a charm ! We later decided to completely remove the extra interface files I had made, and currently we expose data from the plugin itself.</p>
+
+<p><img class="alignnone size-full wp-image-544" src="https://g33kyaditya.files.wordpress.com/2016/07/1.png" alt="1" width="1366" height="742" /></p>
+
+<p>As I promised earlier (did I ?), here&#8217;s how you can add plugins now.</p>
+
+<ul>
+<li>Get into the reservations directory and create a directory for your plugin</li>
+<li>Include the directory, in reservations/CMakeLists.txt</li>
+<li>In yourPluginDirectory, you need to make four files: yourPlugin.desktop to describe the plugin, yourPlugin.h, yourPlugin.cpp and CMakeLists.txt files</li>
+<li>Make sure that yourPlugin inherits publicly from AbstractReservationPlugin, and make sure to define the start() method in yourPlugin. (I have made it virtual in AbstactReservationPlugin, hence you must implement it).</li>
+<li>Do whatever you need in your plugin.</li>
+<li>Describe your plugin in a yourPlugin.desktop file, and make sure you set the ServiceTypes to KDENow/Plugin (*Hint* Look at the ones already made and make relevant changes )</li>
+<li>You need to store stuff to Database. Cache what you extracted.</li>
+<li>Expose your data map to D-Bus. For this, yourPlugin.h must have this macro: Q_CLASSINFO(&#8220;D-Bus Interface&#8221;, &#8220;org.kde.kdenow.<yourPlugin>&#8221;)</li>
+<li>In yourPlugin.cpp, bind the D-Bus Adaptor, and register the object and service (Look at the ones I already have done)</li>
+<li>Implement a public Q_SLOT for getting the data. It can be whatever, but preferably a QVariantMap. However, if it&#8217;s a custom data type that is not natively handled by Qt DBus then you need to implement the stream operator functions and pass data byte by byte. Look at the Qt D-Bus Type System docs, to see whether your data type is natively handled or not.</li>
+<li>Make a CMakelists.txt describing the build specs. Make sure to call the qt5_generate_dbus_interface and qt5_add_dbus_adaptor and kcoreaddons_desktop_to_json methods with relevant arguments</li>
+<li>Make sure to install all the things at the right place.</li>
+<li>Or, you can just copy the CMakeLists.txt I made and make relevant changes 😉</li>
+<li>Test with relevant data</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p>With all of this, I think most of my backend work regarding emails and all has finished. For the next few things, I plan to write the receivers for the D-Bus data and do something to get data, when the daemon is not running, but the plasmoid is running (Hence, fetch from database). Also, after that I need to write User Interfaces for the plasmoid and cards.</p>
+
+<p>Cheers !</p>
+
+<p>I&#8217;ll catch you in the next one</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>#26: GSoC with KDE Now – 4</title>
+			<link>https://aditya-dev.xyz/p465/</link>
+			<pubDate>Sat, 11 Jun 2016 14:34:32 +0000</pubDate>
+			
+			<guid>https://aditya-dev.xyz/p465/</guid>
+			<description>Hey ! I&amp;#8217;m making KDE Now, an application for the Plasma Desktop. It would help the user see important stuff from his email, on a plasmoid. It&amp;#8217;s similar to what Google Now does on Android. To know more, click here
 &amp;nbsp;
 In the past week, I worked on the code reviews I got. Hence, I changed the classes&amp;#8217; design all over. The way it works now, is that there is a central dispatcher, the daemon, that handles all the jobs.</description>
-    </item>
-    
-    <item>
-      <title>#25: Summers !</title>
-      <link>https://aditya-dev.xyz/p432/</link>
-      <pubDate>Wed, 08 Jun 2016 07:59:16 +0000</pubDate>
-      
-      <guid>https://aditya-dev.xyz/p432/</guid>
-      <description>I had my last exam on the 27th of May. And with that, I bid adieu to my sophomore year. Now when I look back, things seem to have flown past. Just the other day, I was excited about starting another year at college, and here I am writing about it&amp;#8217;s end. Life sure moves fast, mate.
+			<content type="html"><![CDATA[<p>Hey ! I&#8217;m making KDE Now, an application for the Plasma Desktop. It would help the user see important stuff from his email, on a plasmoid. It&#8217;s similar to what Google Now does on Android. To know more, click <a href="https://g33kyaditya.wordpress.com/2016/04/23/21-google-summer-of-code-2016/">here</a></p>
+
+<p>&nbsp;</p>
+
+<p>In the past week, I worked on the code reviews I got. Hence, I changed the classes&#8217; design all over. The way it works now, is that there is a central dispatcher, the <a href="https://github.com/g33kyaditya/KDE-Now/blob/master/src/daemon.h">daemon</a>, that handles all the jobs. I chose this design, since it was how originally KIMAP jobs, was supposed to be managed. My mentor and Daniel Vratil helped me in deciding this.</p>
+
+<p>I previously said, that I&#8217;d change the update to a new thread. That might not have been entirely true 😉 . From what I know, IDLE is an async process, so there might be some actual lag there. I&#8217;ll add this in my TODO during the time I test everything and just move to other things on my list.</p>
+
+<p>The IMAP client was looking good, so I started to implement a parser. Now I must say, this took more time than I expected. I was adamant at using Qt JSON library which is pretty good for parsing JSON. But to parse that JSON, the first thing is that I <strong>need</strong> JSON data. I looked through the <a href="https://wiki.qt.io/Handling_HTML">docs</a>. Nothing seemed good enough. QtWebKit seemed overkill. Of course, me and my mentor were against using it. There&#8217;s no GUI in our application, and using it would have been a waste of precious resources. I checked some other 3&#8217;rd party C++ libraries like SGML for Qt, Gumbo Parser by Google but nothing seemed appropriate. SGML was a bit (well more) on the slower side. Gumbo seemed good at first, but since it was 3rd party, I was worried. Maybe some things about license too. I didn&#8217;t feel like adding a dependency. Finally I settled for regex (No Wait. Whattt ? I know ? Before you all charge at me, I <strong>didn&#8217;t</strong> use it). Yeah, so I settled for regex. I contacted my mentor and Dan, and they were against it (Well me too, but what choice did I have ?). To those of you, who still think, it would have been okay to use regexes, read <a href="http://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags">this</a>. Dan told me to use QXmlStreamReader. My initial reaction was whattt ? How can I parse HTML with an XML parser ? Hence I never even googled about it. On a second thought though, HTML if formatted nicely, is just plain XML. (Now do you get it ? Just the tags !). I tested it with my IMAP client. Everything seemed good. It&#8217;s <a href="http://doc.qt.io/qt-5/qxmlstreamreader.html">fast</a> and reliable. It&#8217;s also in the QtCore module. So, Speed; check. Reliability; check. No added dependencies;check. What else could I have asked for (A tank ?). So, now I had data between those script tags in HTML, after I parsed it through QXmlStreamReader. Next I parsed this data using Qt JSON Library (<a href="http://doc.qt.io/qt-5/qjsondocument.html">QJsonDocument</a>, <a href="http://doc.qt.io/qt-5/qjsonarray.html">QJsonArray</a>, <a href="http://doc.qt.io/qt-5/qjsonobject.html">QJsonObject</a>). I store the required data in Maps. With the power and consistency of QVariant(Map) things became quite easy.</p>
+
+<p>I got code reviews from my mentor. We discussed some stuff for the next stages.In the next part, I&#8217;ll perfect the extractors I have written. Implement them as plugins and load these plugins in the client. This will make writing extractors for other schemas and hence adding support very easy. I&#8217;ll also be working with a database (SQLite) to cache the fetched emails. One of the things, I noticed just now, is that I&#8217;m using the <a href="https://en.wikipedia.org/wiki/Incremental_build_model">Incremental</a> methodology of Software Engineering. I am adding new features one by one. Building and testing at each step. Never thought, I&#8217;d see the impact of the course classes this early 😉</p>
+
+<p>See you later.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>#25: Summers !</title>
+			<link>https://aditya-dev.xyz/p432/</link>
+			<pubDate>Wed, 08 Jun 2016 07:59:16 +0000</pubDate>
+			
+			<guid>https://aditya-dev.xyz/p432/</guid>
+			<description>I had my last exam on the 27th of May. And with that, I bid adieu to my sophomore year. Now when I look back, things seem to have flown past. Just the other day, I was excited about starting another year at college, and here I am writing about it&amp;#8217;s end. Life sure moves fast, mate.
 Last year (or academic session) was a mix bag. We had some good courses, and some not so good ones.</description>
-    </item>
-    
-    <item>
-      <title>#24: GSoC with KDE Now – 3</title>
-      <link>https://aditya-dev.xyz/p359/</link>
-      <pubDate>Fri, 03 Jun 2016 19:43:33 +0000</pubDate>
-      
-      <guid>https://aditya-dev.xyz/p359/</guid>
-      <description>Hey ! I&amp;#8217;m making KDE Now, an application for the Plasma Desktop. It would help the user see important stuff from his email, on a plasmoid. It&amp;#8217;s similar to what Google Now does on Android. To know more, click here
+			<content type="html"><![CDATA[<p>I had my last exam on the 27th of May. And with that, I bid adieu to my sophomore year. Now when I look back, things seem to have flown past. Just the other day, I was excited about starting another year at college, and here I am writing about it&#8217;s end. Life sure moves fast, mate.</p>
+
+<p>Last year (or academic session) was a mix bag. We had some good courses, and some not so good ones. (Yes, Microprocessors and Computer Arch, I&#8217;m referring to you). Well, in my opinion at least.</p>
+
+<p>I&#8217;m happy that finally my exams came to an end. It goes on for a fucking month. Well roughly. We have our Minors &#8211; 2, that takes about  a week. Then practicals for another week. Then about 14-15 days for the University exams. I meant every word of it, when I posted the following on my Facebook wall when my exams ended.</p>
+
+<blockquote>
+<p>Walk into your house like, when the semester ends!</p>
+</blockquote>
+
+<p><img class="alignnone size-full wp-image-453" src="https://g33kyaditya.files.wordpress.com/2016/06/vlcsnap-2016-05-26-18h29m02s781.png" alt="vlcsnap-2016-05-26-18h29m02s781" width="1920" height="1090" /></p>
+
+<p>My University exams went fine. No that I expect something like a 9 CGPA, but anything close to 8 will do.</p>
+
+<p>I haven&#8217;t had much time to blog about anything except my updates with the Google Summer of Code this year. It has been keeping me busy lately. I wonder how things are gonna roll, when the next semester starts. Which reminds me, the last two semesters were awful in terms of schedules. All week, our classes used to end at 5 pm. That makes it kind of a 9-5 job 😛 . Last semester, our labs were 3 hours long. I mean, can you even believe it ? And all we had to do in those 3 hours, was perform just a single experiment. Terrible waste of time. An hour would have been more than enough. As a result, we were exhausted when finally reached hostel at about 6 pm. Then the assignments, lab work, etc took another couple of hours. No wonder, things seemed to have moved very fast ! I kind of cringe at the thought, that even now if it&#8217;s getting difficult to take out time for hobbies, what will happen when we&#8217;ll be working ?</p>
+
+<p>I&#8217;m about 12-13 days in my summer vacations. I have a shitload of things going on. About a month more remains. I need to pull my socks up. And not sit around random subreddits !!! As expected, I&#8217;ve been keenly following Game of Thrones. It&#8217;s already 7 episodes down. (What ? 7 weeks ? How ?) Yeah. Just the other day, I bunked a lecture to watch the first episode with my friend. I will watch it all, one day when this season ends. 10 hours straight.</p>
+
+<p>With that I end my blog(rant ?)</p>
+
+<p>See you later</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>#24: GSoC with KDE Now – 3</title>
+			<link>https://aditya-dev.xyz/p359/</link>
+			<pubDate>Fri, 03 Jun 2016 19:43:33 +0000</pubDate>
+			
+			<guid>https://aditya-dev.xyz/p359/</guid>
+			<description>Hey ! I&amp;#8217;m making KDE Now, an application for the Plasma Desktop. It would help the user see important stuff from his email, on a plasmoid. It&amp;#8217;s similar to what Google Now does on Android. To know more, click here
 &amp;nbsp;
 It&amp;#8217;s been some time since the coding period started for this year&amp;#8217;s Summer of Code. I had exams till 27th of May, so I started from 28th. My mentor knew about it already, so things went buttery smooth.</description>
-    </item>
-    
-    <item>
-      <title>#23: GSoC with KDE Now- 2</title>
-      <link>https://aditya-dev.xyz/p327/</link>
-      <pubDate>Wed, 11 May 2016 14:38:49 +0000</pubDate>
-      
-      <guid>https://aditya-dev.xyz/p327/</guid>
-      <description>Hey ! I&amp;#8217;m making KDE Now, an application for the Plasma Desktop. It would help the user see important stuff from his email, on a plasmoid. It&amp;#8217;s similar to what Google Now does on Android. To know more, click here
+			<content type="html"><![CDATA[<p>Hey ! I&#8217;m making KDE Now, an application for the Plasma Desktop. It would help the user see important stuff from his email, on a plasmoid. It&#8217;s similar to what Google Now does on Android. To know more, click <a href="https://g33kyaditya.wordpress.com/2016/04/23/21-google-summer-of-code-2016/">here</a></p>
+
+<p>&nbsp;</p>
+
+<p>It&#8217;s been some time since the coding period started for this year&#8217;s Summer of Code. I had exams till 27th of May, so I started from 28th. My mentor knew about it already, so things went buttery smooth.</p>
+
+<p>As the first part of my project, I had to implement an IMAP client for fetching emails from an IMAP server. I used KIMAP library in the process. With the help of my mentor and Daniel Vratil and Luca Beltrame, I implemented a working IMAP client. Daniel and Luca helped me with the API details, since the one available was lacking some of the details. Still, most of the methods were fine. The only minor issue related to the API was a specific <a href="https://api.kde.org/4.x-api/pim-apidocs/kimap/html/classKIMAP_1_1FetchJob.html#ae22cf31346db914d17506945a733e427">function overloading</a> in KIMAP::FetchJob. The new Qt signal/slot mechanism is good and all, but since it does static checking, we need to specify the exact methods. In this particular case, to resolve ambiguity, we need to cast it. Which looks not very beautiful. Hence, Qt <a href="https://wiki.qt.io/New_Signal_Slot_Syntax#Overload">recommends</a> not to use function overloading.</p>
+
+<p>There are a lot of details based  on how the whole thing runs. One can look at the <a href="https://github.com/g33kyaditya/KDE-Now/commits/master">commits</a>, I made which are a lot more detailed. But the basic idea is: Start a client session, fetch relevant emails, and go into a laid back state. When the server receives a new email, it notifies our client that a new email has arrived. Our client then fetches the new emails. For future plans, I might as well incorporate information from these commits into docs.</p>
+
+<p>For the coming few weeks, I plan to move the update procedure of the client to a different thread, as when I was writing a processor today, to process the newly fetched emails, I noticed some lag. For this, I will use QThread. I&#8217;m kinda amused that I didn&#8217;t think of this happening before !</p>
+
+<p>Testing the client took time more than I expected. Actually, I tested the whole thing.I exchanged some 60 emails for this purpose. I plan to write unit tests later (in the final stages, which is like 2 months away).</p>
+
+<p>This is the first time, I&#8217;m making a project like this from scratch and it has been a great learning experience till now. I plan to get my current code reviewed by some more people, before I am finally satisfied with it. I&#8217;d like to get tips on how to better refactor it, and any general tips for the code/classes design are welcome. Find the repo <a href="https://github.com/g33kyaditya/KDE-Now">here</a>.</p>
+
+<p>Things are in pretty good shape. I plan to write extractors in the coming weeks and getting code reviews 🙂 I&#8217;m actually a bit ahead from my proposed timeline which was altered due to some changes. That gives me even more time later to work on docs and testing.</p>
+
+<p>Catch you in the next one !</p>
+
+<p>&nbsp;</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>#23: GSoC with KDE Now- 2</title>
+			<link>https://aditya-dev.xyz/p327/</link>
+			<pubDate>Wed, 11 May 2016 14:38:49 +0000</pubDate>
+			
+			<guid>https://aditya-dev.xyz/p327/</guid>
+			<description>Hey ! I&amp;#8217;m making KDE Now, an application for the Plasma Desktop. It would help the user see important stuff from his email, on a plasmoid. It&amp;#8217;s similar to what Google Now does on Android. To know more, click here
 &amp;nbsp;
 Just an update on what I&amp;#8217;ve planned for the coming weeks. Also, I don&amp;#8217;t think I&amp;#8217;ll be able to do anything else for the next two weeks, since my final semester exams start from 18th of this month, and last till 28th.</description>
-    </item>
-    
-    <item>
-      <title>#22: GSoC with KDE Now – 1</title>
-      <link>https://aditya-dev.xyz/p278/</link>
-      <pubDate>Tue, 03 May 2016 08:02:33 +0000</pubDate>
-      
-      <guid>https://aditya-dev.xyz/p278/</guid>
-      <description>Hey ! I&amp;#8217;m making KDE Now, an application for the Plasma Desktop. It would help the user see important stuff from his email, on a plasmoid. It&amp;#8217;s similar to what Google Now does on Android. To know more, click here
+			<content type="html"><![CDATA[<p>Hey ! I&#8217;m making KDE Now, an application for the Plasma Desktop. It would help the user see important stuff from his email, on a plasmoid. It&#8217;s similar to what Google Now does on Android. To know more, click <a href="https://g33kyaditya.wordpress.com/2016/04/23/21-google-summer-of-code-2016/">here</a></p>
+
+<p>&nbsp;</p>
+
+<p>Just an update on what I&#8217;ve planned for the coming weeks. Also, I don&#8217;t think I&#8217;ll be able to do anything else for the next two weeks, since my final semester exams start from 18th of this month, and last till 28th. So, this blog post seems to be the last one for this month.</p>
+
+<p>About two weeks remain, until formal coding period begins. And my fingers are itching for it.</p>
+
+<p>I got in touch with VDG, and Andy will be giving me mockups. I&#8217;m really really thankful to him for it. I don&#8217;t know how much my mockups would have sucked, had I made them. Hahaha</p>
+
+<p>My proposal had some changes in between. Originally, I had proposed to use Akonadi for fetching the emails. After submitting the proposal, my mentor got in touch with me and said it would be better to use KImap library. What this means for me, is that I&#8217;m gonna have to implement an Imap client (not so trivial), but where&#8217;s the fun, if it were easy ;). KImap makes this task easier. Unfortunately, I won&#8217;t have any time, to write some test applications for getting familiar with it&#8217;s API. I think, I&#8217;ll just have to dive in.</p>
+
+<p>Vishesh had written an early prototype for KDE Now. So, to start with, I&#8217;ll be working on his code. He had used KImap to fetch emails. However, it did not update the email cache. That&#8217;s what I&#8217;ll be doing first. I&#8217;ll store UID of the last fetched email in a file. And when I get the notification that a new email has arrived, I&#8217;ll fetch new emails based on the UID&#8217;s larger than the one I stored in the file. This should work, since in IMAP, UID&#8217;s are incremental in nature.</p>
+
+<p>I also went through D-Bus concepts. I&#8217;ll be using it to tell the plasmoid, that &#8220;Hey, I have new mails. Check !&#8221;.</p>
+
+<p>&lt;&lt; Off Topic &gt;&gt;</p>
+
+<p>I download free cover music from Youtube, using youtube-dl. I was bored while I was studying for my semesters yesterday. So I wrote this script yesterday to download songs from youtube. It&#8217;s really a no brainer,  not a big deal, but have a look and let me know if there are some bugs. It can be found <a href="https://github.com/g33kyaditya/Scripts/blob/master/mp3d.py">here</a>.</p>
+
+<p>See you later</p>
+
+<p>Thanks for reading !</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>#22: GSoC with KDE Now – 1</title>
+			<link>https://aditya-dev.xyz/p278/</link>
+			<pubDate>Tue, 03 May 2016 08:02:33 +0000</pubDate>
+			
+			<guid>https://aditya-dev.xyz/p278/</guid>
+			<description>Hey ! I&amp;#8217;m making KDE Now, an application for the Plasma Desktop. It would help the user see important stuff from his email, on a plasmoid. It&amp;#8217;s similar to what Google Now does on Android. To know more, click here
 &amp;nbsp;
 As I said, in my last post, I am one of the student developers for KDE this year during this Google Summer of Code. I&amp;#8217;ll be working on a project related to Plasma.</description>
-    </item>
-    
-    <item>
-      <title>#21: Google Summer of Code 2016</title>
-      <link>https://aditya-dev.xyz/p248/</link>
-      <pubDate>Fri, 22 Apr 2016 20:51:26 +0000</pubDate>
-      
-      <guid>https://aditya-dev.xyz/p248/</guid>
-      <description>Hey all !
+			<content type="html"><![CDATA[<p>Hey ! I&#8217;m making KDE Now, an application for the Plasma Desktop. It would help the user see important stuff from his email, on a plasmoid. It&#8217;s similar to what Google Now does on Android. To know more, click <a href="https://g33kyaditya.wordpress.com/2016/04/23/21-google-summer-of-code-2016/">here</a></p>
+
+<p>&nbsp;</p>
+
+<p>As I said, in my last post, I am one of the student developers for KDE this year during this Google Summer of Code. I&#8217;ll be working on a project related to Plasma. I&#8217;ll go through the details, as I progress with my project.</p>
+
+<p>It&#8217;s currently community bonding period, and we are expected to bond with the community and get to know the people. I&#8217;ve been hanging around IRC as usual. I recently only joined the telegram group kde-soc, and it&#8217;s pretty helpful for those with University blocked ports.</p>
+
+<p>Also, I&#8217;ve been working withe the KDE VDG Group for coming up with some cool UI&#8217;s for my project. I plan to have a plasmoid, which will have different cards. This plasmoid will be scrollable, so we can scroll cards on it. Each card will display some important information pertaining to a user&#8217;s Flight, Hotel, Event or Restaurant reservation. Few days back, I created some basic parts in Inkscape, and sent it to the good folks at VDG. Andres Betts was quick to respond with his views on it, and asked me, how would they would look on a proper desktop.</p>
+
+<p>Here are the Inkscape mockups I came up with. (The flight one is actually Vishesh&#8217;s 😉  )</p>
+
+<p>&nbsp;</p>
+
+<p>He told me to, make these in QML and see, exactly how would they look on a Plasma Desktop.</p>
+
+<p>&nbsp;</p>
+
+<p>They seemed good, and he said, he would come up with some mockups for the same. Also, the typeface needs to be made good. Personally, I also think the cliparts could be better. I used these, since I couldn&#8217;t find anything better from Google Images.</p>
+
+<p>Things that still need to be done, as for the UIs is to find a way, to make these different cards uniform and aligned. Also, I plan to show just a small abstract of the information on the Plasmoid Card. When the user clicks on it, then the card would expand.</p>
+
+<p>I have set up a scratch repository <a href="https://quickgit.kde.org/?p=scratch%2Fadityadevsharma%2Fkdenow.git">here</a>. Also, I maintain a github <a href="https://github.com/g33kyaditya/KDE-Now">mirror</a>, for those who prefer github. It&#8217;s good, that I set up everything and pushed some code beforehand, since I won&#8217;t be able to actually code until a week later, after the formal coding period begins. (Courtesy of final University Exams -_- ).</p>
+
+<p>Your valuable opinions and suggestions are welcome.</p>
+
+<p>Cheers.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>#21: Google Summer of Code 2016</title>
+			<link>https://aditya-dev.xyz/p248/</link>
+			<pubDate>Fri, 22 Apr 2016 20:51:26 +0000</pubDate>
+			
+			<guid>https://aditya-dev.xyz/p248/</guid>
+			<description>Hey all !
 I am happy to let you know that I got into Google Summer of Code this year. I&amp;#8217;ll be working with KDE to create an application, KDE Now. I&amp;#8217;ll go more into details as I move forward with it.
 KDE Now would be a desktop application similar to Google Now cards for Android. It would show relevant and useful information to the user from his Email. Stuff like, his Flight Reservation or Hotel details would be shown in the form of concise cards.</description>
-    </item>
-    
-    <item>
-      <title>#20: Holidays, Game of Thrones and more</title>
-      <link>https://aditya-dev.xyz/p218/</link>
-      <pubDate>Fri, 15 Apr 2016 18:35:21 +0000</pubDate>
-      
-      <guid>https://aditya-dev.xyz/p218/</guid>
-      <description>Well, I am currently at my home. (Again !). Perks of living in a hostel 40 miles from your home, I guess. It&amp;#8217;s holiday time. I have the same 9 days leave that I had during Holi. I still have a couple of days until college reopens.
+			<content type="html"><![CDATA[<p>Hey all !</p>
+
+<p>I am happy to let you know that I got into Google Summer of Code this year. I&#8217;ll be working with KDE to create an application, KDE Now. I&#8217;ll go more into details as I move forward with it.</p>
+
+<p>KDE Now would be a desktop application similar to Google Now cards for Android. It would show relevant and useful information to the user from his Email. Stuff like, his Flight Reservation or Hotel details would be shown in the form of concise cards. Prior reservations for Events or Restaurants will also be shown. This was originally an idea of Vishesh Handa.</p>
+
+<p>So at least I know, what to do in summers. Working on an awesome project, learning from the awesome KDE developers, and getting paid for it. It couldn&#8217;t get any better. I&#8217;m really thankful to my friend and mentor Ashish Bansal for all his guidance and reviews on my proposal.</p>
+
+<p>In the months to come, I&#8217;ll probably blog about my project and it&#8217;s details. I&#8217;ll be tagging these with gsoc16 tags, so you can see them later.</p>
+
+<p>For those interested in other details, here&#8217;s a link to my <a href="https://docs.google.com/document/d/1ze0j1RmCJEW1RmhoVmIz5DGo8ZgSFBNrNst6EmC4Yjk/edit?usp=sharing">proposal</a>.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>#20: Holidays, Game of Thrones and more</title>
+			<link>https://aditya-dev.xyz/p218/</link>
+			<pubDate>Fri, 15 Apr 2016 18:35:21 +0000</pubDate>
+			
+			<guid>https://aditya-dev.xyz/p218/</guid>
+			<description>Well, I am currently at my home. (Again !). Perks of living in a hostel 40 miles from your home, I guess. It&amp;#8217;s holiday time. I have the same 9 days leave that I had during Holi. I still have a couple of days until college reopens.
 All I did in this time was drool over the new Game of Thrones season, practice Data Structure and Algorithmic Questions from SPOJ and well, wake up at 12 in the day.</description>
-    </item>
-    
-    <item>
-      <title>#19</title>
-      <link>https://aditya-dev.xyz/p190/</link>
-      <pubDate>Mon, 21 Mar 2016 21:12:44 +0000</pubDate>
-      
-      <guid>https://aditya-dev.xyz/p190/</guid>
-      <description>Hey there !
+			<content type="html"><![CDATA[<p>Well, I am currently at my home. (Again !). Perks of living in a hostel 40 miles from your home, I guess. It&#8217;s holiday time. I have the same 9 days leave that I had during Holi. I still have a couple of days until college reopens.</p>
+
+<p>All I did in this time was drool over the new Game of Thrones season, practice Data Structure and Algorithmic Questions from <a href="http://www.spoj.com/" target="_blank">SPOJ</a> and well, wake up at 12 in the day. I am really happy that I finally found my motivation again to solve those problems. I know they are important. And I enjoy solving those, but then I eventually moved to Open Source software after 1st year and that kept me busy enough that I slacked off. I must say, solving problems seems not that easy now, after almost a year I left it. I&#8217;ve become rusty. But hey, I have ample time. And I find joy in it. So who cares. Anyways, I have setup a github repository <a href="https://github.com/g33kyaditya/SPOJ" target="_blank">here</a>. I push all my submissions there. My aim, to solve the first 300 classical problems by August end of this year. I already have solved some 70-75. Let&#8217;s see, if I can do it till then. After that, I&#8217;ll start competing in Codechef contests I guess. Let&#8217;s see where the wind blows.</p>
+
+<p>Also, I&#8217;ve been drooling over Game of Thrones a lot. I read every little bit of information about it as soon as it comes out. I am just so pumped about it right now. Man, why is it not 24th yet. And already, we&#8217;ve been waiting for an extra month. Game of Thrones, is premiering a month late due to Vinyl (another HBO show). And now since, I&#8217;m talking about Game of Thrones, I wish (read in Tyrion Trial voice), I wish that, the Indian Censor Board didn&#8217;t suck this much. I wish that we could have original Game of Thrones for India too. I wish we had HBO Now for India too. Man, so many viewers want this to happen. Ending my rant here.</p>
+
+<p>Cheers readers !</p>
+
+<p>Thanks for reading.</p>
+
+<p>&nbsp;</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>#19</title>
+			<link>https://aditya-dev.xyz/p190/</link>
+			<pubDate>Mon, 21 Mar 2016 21:12:44 +0000</pubDate>
+			
+			<guid>https://aditya-dev.xyz/p190/</guid>
+			<description>Hey there !
 You must have already noticed that I changed the site&amp;#8217;s domain. This looks better to me. The month has been good till now. I am currently at home due to Holi holidays. Holi is an Indian festival in which people play with colors. There&amp;#8217;s a whole story behind why it&amp;#8217;s celebrated but I won&amp;#8217;t go there. This is what it looks like.
 I&amp;#8217;ve never really played Holi that much.</description>
-    </item>
-    
-    <item>
-      <title>#18: SoK with PMC – 4</title>
-      <link>https://aditya-dev.xyz/p169/</link>
-      <pubDate>Sat, 19 Mar 2016 07:47:43 +0000</pubDate>
-      
-      <guid>https://aditya-dev.xyz/p169/</guid>
-      <description>Well, I agree it&amp;#8217;s a bit late now. But, I checked my Season of KDE project status just now and was glad to know that I had passed. So, this post goes to it. My previous posts on SoK with PMC can be found here .
+			<content type="html"><![CDATA[<p>Hey there !</p>
+
+<p>You must have already noticed that I changed the site&#8217;s domain. This looks better to me. The month has been good till now. I am currently at home due to Holi holidays. Holi is an Indian festival in which people play with colors. There&#8217;s a whole story behind why it&#8217;s celebrated but I won&#8217;t go there. This is what it looks like.</p>
+
+<p><img class="alignnone size-full wp-image-193" src="https://g33kyaditya.files.wordpress.com/2016/03/holi2.jpg" alt="holi2" width="651" height="386" /></p>
+
+<p>I&#8217;ve never really played Holi that much. As far as I can remember maybe 3 or 4 times. I don&#8217;t like the whole concept of getting dirty and then cleaning up. But more so, the colors and the way they play it is what I can&#8217;t stand. The colors go into my eyes, nose, mouth and I have to cope up with its allergy for the next few days. So I find it better to stay at home.</p>
+
+<p>Well, enough with Holi. I also have applied for Google Summer of Code this year to KDE. Let&#8217;s hope my proposal gets selected. Since I have about a week with me, due to these holidays, I have started learning OpenGL. It&#8217;s fun till now. But a bit above my skills since this is the first time I&#8217;m even reading about computer graphics. But all in all, it&#8217;s fun and interesting to learn. I have to put in quite some hours to understand how things work and believe me, the deeper you get, the complex it gets. I have also set up a github repo <a href="http://github.com/g33kyaditya/learning-opengl">here</a>, where I&#8217;ll be pushing all my programs that I&#8217;ll write during the course of it. In the end I hope to do some cool project in it. What project, I have no idea till now. But for now, I&#8217;ll just learn it.</p>
+
+<p>Also, the past few weeks I have been watching Naruto and Naruto Shippuuden. IMHO, they are the best anime I&#8217;ve watched till now. Of course, leave the fillers. I just skipped them. The characters are portrayed well. Attention is given to detail. The story is not predictive and it is gripping. Battles are awesome. Just about everything I look for in an anime. I am well in sync with the last episode, so when new canon episodes release, I&#8217;ll be right on track.</p>
+
+<p>I&#8217;m also eagerly waiting for Game of Thrones Season 6. Time just doesn&#8217;t pass when it comes to Game of Thrones. And it passes at an instant when I&#8217;m watching an episode. That&#8217;s the kind of effect it has on me.</p>
+
+<p>Sometime back, we had our college annual fest. I didn&#8217;t attend. I simply couldn&#8217;t find my interest in there. The only thing which I really feel regretted for is not being able to try out Oculus Rift. Turns out, folks were letting students try the Rift and some of my friends tried it. Although, I have done Google Cardboard, but what&#8217;s Cardboard compared to a consumer grade Oculus Rift. That&#8217;s like comparing a working model of toy Ferrari to an actual Ferrari.</p>
+
+<p>I have set up one more blog, but I&#8217;d like to keep it anonymous.</p>
+
+<p>That&#8217;s all for now</p>
+
+<p>Thanks for reading.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>#18: SoK with PMC – 4</title>
+			<link>https://aditya-dev.xyz/p169/</link>
+			<pubDate>Sat, 19 Mar 2016 07:47:43 +0000</pubDate>
+			
+			<guid>https://aditya-dev.xyz/p169/</guid>
+			<description>Well, I agree it&amp;#8217;s a bit late now. But, I checked my Season of KDE project status just now and was glad to know that I had passed. So, this post goes to it. My previous posts on SoK with PMC can be found here .
 Working on PMC was a really good experience. For someone like me, who takes time to get the hang of things, I really enjoyed all that I learnt during the past four months.</description>
-    </item>
-    
-    <item>
-      <title>#17: conf.kde.in 2016</title>
-      <link>https://aditya-dev.xyz/p160/</link>
-      <pubDate>Fri, 04 Mar 2016 14:27:42 +0000</pubDate>
-      
-      <guid>https://aditya-dev.xyz/p160/</guid>
-      <description>This will be me log of conf.kde.in 2016. It&amp;#8217;s the KDE India annual conference. This time around it&amp;#8217;ll be at LNMIIT Jaipur. I am going there along with Ashish Bansal.
+			<content type="html"><![CDATA[<p>Well, I agree it&#8217;s a bit late now. But, I checked my Season of KDE project status just now and was glad to know that I had passed. So, this post goes to it. My previous posts on SoK with PMC can be found <a href="https://g33kyaditya.wordpress.com/tag/sok/">here</a> .</p>
+
+<p>Working on PMC was a really good experience. For someone like me, who takes time to get the hang of things, I really enjoyed all that I learnt during the past four months. Also, since it is not GSoC, we can work at our own pace.</p>
+
+<p>In the course of these past four months, I got to learn a lot of things from my mentors. Things that are not written in textbooks. I also had the opportunity of interacting with the great community. People are helping. I agree they do not spoon feed you, but that&#8217;s the whole point of it, right ? You get to learn things on your own.</p>
+
+<p>During my Season of KDE, I was able to implement a plugin for PMC. What I really like though is that its pushed to master now. (Yay !!!). I also got to work on integrating the UI. I faced many weird bugs along the way and learnt from it. Finally, now we have a working new UI with all the basic functionality. We can play music, videos and view pictures. The basic browsers for the three components look good to me. However, still we haven&#8217;t merged it to master yet. We still want to get some more functionality and polish everything before doing that. For testing, it can be found in the branch aditya/shell</p>
+
+<p>In the end, I would like to thank my mentors Ashish Bansal and Bhushan Shah for being patient with me and for their guidance. It was really fun working with them. Also, I have taken a liking to all this FOSS culture. I have strong hopes, I will continue being a part of the FOSS community for a very long time.</p>
+
+<p>Cheers !</p>
+
+<p>Thanks for reading !</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>#17: conf.kde.in 2016</title>
+			<link>https://aditya-dev.xyz/p160/</link>
+			<pubDate>Fri, 04 Mar 2016 14:27:42 +0000</pubDate>
+			
+			<guid>https://aditya-dev.xyz/p160/</guid>
+			<description>This will be me log of conf.kde.in 2016. It&amp;#8217;s the KDE India annual conference. This time around it&amp;#8217;ll be at LNMIIT Jaipur. I am going there along with Ashish Bansal.
 0900 hrs &amp;#8211; Chandigarh: I reached Chandigarh Airport. Well its technically Mohali Airport since its in Mohali. Anyways, I reached there well ahead of time. I had already done web check in. I was sleepy and took a nap. Woke up from Bansal&amp;#8217;s call.</description>
-    </item>
-    
-    <item>
-      <title>#16: SoK with PMC – 3</title>
-      <link>https://aditya-dev.xyz/p116/</link>
-      <pubDate>Sun, 17 Jan 2016 11:06:19 +0000</pubDate>
-      
-      <guid>https://aditya-dev.xyz/p116/</guid>
-      <description>A very Happy New Year fellas ! Last time I said, that I&amp;#8217;d be working on Bhushan&amp;#8217;s new UI branch. This post is about it. He started working on it as part of his GSoC. I took the work of finishing it and merging it into master. However, my work&amp;#8217;s still not fully done. So I am for now just working on my branch. I will merge it into master later.</description>
-    </item>
-    
-    <item>
-      <title>#15: SoK with PMC – 2</title>
-      <link>https://aditya-dev.xyz/p81/</link>
-      <pubDate>Tue, 29 Dec 2015 11:12:37 +0000</pubDate>
-      
-      <guid>https://aditya-dev.xyz/p81/</guid>
-      <description>December was a particularly hectic month. I had my semester exams so could not make time for this project. It was only after 20th of the month that I was back into it.
+			<content type="html"><![CDATA[<p>This will be me log of conf.kde.in 2016. It&#8217;s the KDE India annual conference. This time around it&#8217;ll be at LNMIIT Jaipur. I am going there along with Ashish Bansal.</p>
+
+<p>0900 hrs &#8211; Chandigarh: I reached Chandigarh Airport. Well its technically Mohali Airport since its in Mohali. Anyways, I reached there well ahead of time. I had already done web check in. I was sleepy and took a nap. Woke up from Bansal&#8217;s call. Soon we were discussing all sorts of things. He told me about this awesome Xposed Framework for Android. It sounded pretty cool. I took a mental note to try it if and when I dwelve into Android. Midway this discussion we boarded.</p>
+
+<p>1230 hrs &#8211; Delhi: We reached Delhi right on time. Then began the gruelling wait for our next flight to Jaipur. We had to kill some 4 hours. Bansal worked on his slides till his laptop had no juice left. Also, I discussed my talk with him. He gave me this idea of doing some changes in the code for my demo. I&#8217;ll work on it tonight.</p>
+
+<p>1640 hrs &#8211; Jaipur: Again we reached right on time. Our pickup had arrived already. 10 mins or so after us, Bhushan arrived. We waited for two other speakers. Apparently they were in the same flight as us. Just waiting for their check-in baggage.</p>
+
+<p>1900 hrs &#8211; Jaipur: We reached our guest house. Actually LNMIIT is quite far from Airport. But the sun was setting. And the view was good. Soon as we got pur rooms, we received our WiFi credentials. (Great !) Me and Bansal and a junior from LNMIIT went out to explore the campus. It was really good. We went to the Central Plaza and really liked their innovative idea. We tried scaling &#8220;The Great Wall&#8221; but our first attempt was no good. Will try again later 😉</p>
+
+<p>[EDIT] 2100 hrs &#8211; Jaipur: We had dinner. It was pretty good. Then we went out to see the campus. The whole lot of us. Me, Bansal and Sanjiban, a developer from Marble went out for a stroll and soon we lost the group XD. Anyways, we talked about some stuff. Randa Meetings, KDE again, bootstrap, Marble etc. It was fun.</p>
+
+<p>[EDIT] 0130 hrs &#8211; I just finished my slides. Going to sleep now.</p>
+
+<p>[EDITS &#8211; Day 1]</p>
+
+<p>0800hrs &#8211; I woke up to a start to the knocking outside our door. It was Sagar calling us for breakfast. We rushed and got ready and probably reached the dining area by 10 mins to 9. It was empty so we thought we were early. Actually we were late. LOL</p>
+
+<p>1000hrs &#8211; The conference started with a talk from Sagar. He told us about packaging tools. Midway I was told to install teamviewer on my machine. I did it and guess what, It broke. What caused it, I don&#8217;t know. But Chrome didn&#8217;t run (Aborted). DNF crashed (Aborted). And pretty much every other thing I was gonna use in my talk. I&#8217;ll be honest, for the first few minutes I was like What the f***. But thankfully, I used Bansal&#8217;s laptop. Rest of my time went in configuring his system to my needs. I was really thankful for him. My talk got delayed. (Whew !) and was now at the end. That gave me some little more time to work up.</p>
+
+<p>1615hrs &#8211; I had my talk. I tried to go slow, since I knew I talk fast. I never had any sort of stage fear so after a minute or two I probably made myself at home. Rest of it went smoothly. I tried to explain stuff in as simple terms as possible. Using as simple references as possible. I think it was fun to watch too XD. Some people contacted me after my talk got over. And their reactions were amazing.</p>
+
+<p>1700hrs &#8211; We ended the conference. But we had arranged a Dev Sprint to solve the doubts, that the students had. We tried our best. We still had some time to kill before the sprint and some food to eat. We talked on various stuff. It was all in all a great learning experience.</p>
+
+<p>1900hrs &#8211; The Sprint started. And we tried to solve their issues as much as possible.</p>
+
+<p>2100hrs &#8211; We came back for dinner. The food was good. The company was great.</p>
+
+<p>0040hrs &#8211; I am very sleepy and exhausted right now to write anything else. I&#8217;ll just sleep.</p>
+
+<p>[EDITS &#8211; Day 2]</p>
+
+<p>0800hrs &#8211; Jaipur: We woke up. Got ready and joined everyone for breakfast. Food was good. Bansal had to complete his slides so he stayed back. I went to the conference. On the way I asked Sagar about his internship at Google and took a few points.</p>
+
+<p>1000hrs &#8211; Jaipur: The conference started. Since my talk had already finished the previous day, I was paying much more concentration to other talks. Sanjiban talked about Marble and Bansal gave a talk on KDE Connect. The conference ended at 1600hrs. We were basically free then, so we talked on various things. Me, Bansal and Divyam scaled the &#8220;Great Wall&#8221;. I&#8217;ll post a pic later.</p>
+
+<p>2100hrs &#8211; Jaipur: We had dinner with the faculty of LNMIIT. Me, Bhushan and Bansal started with a bug on PMC. Bhushan started hacking it and finally it was solved. I am still not sure about what the reason was.</p>
+
+<p>2400hrs &#8211; Jaipur: Our WiFi guest accounts expired XD. So with nothing better to do we went to sleep.</p>
+
+<p>[EDITS &#8211; Day 3] &#8211; Jaipur Airport: I&#8217;m writing this from Jaipur Airport since I couldn&#8217;t get WiFi earlier. For some weird reason my data pack doesn&#8217;t seem to work.</p>
+
+<p>[EDITS &#8211; Day 3] &#8211; We reached Delhi right on time. Our next flight is from Terminal 3. We reached there some 3 hours ahead of schedule. My laptop was broken, so I thought I&#8217;d rather log into Windows. I played some Max Payne 3. Bansal worked on his app. Everything from there on was all casual.</p>
+
+<p>So, that was all about my first KDE India Conference. It was great. Had fun. Learnt a lot. Also, I&#8217;d like to especially thank Sagar for all the arrangements and our awesome hospitality. Also, I&#8217;m grateful to KDE eV for sponsoring this trip.</p>
+
+<p>Obligatory Pics.</p>
+
+<p>&nbsp;</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>#16: SoK with PMC – 3</title>
+			<link>https://aditya-dev.xyz/p116/</link>
+			<pubDate>Sun, 17 Jan 2016 11:06:19 +0000</pubDate>
+			
+			<guid>https://aditya-dev.xyz/p116/</guid>
+			<description>A very Happy New Year fellas ! Last time I said, that I&amp;#8217;d be working on Bhushan&amp;#8217;s new UI branch. This post is about it. He started working on it as part of his GSoC. I took the work of finishing it and merging it into master. However, my work&amp;#8217;s still not fully done. So I am for now just working on my branch. I will merge it into master later.</description>
+			<content type="html"><![CDATA[<p style="padding-left:30px;">
+  A very Happy New Year fellas !
+</p>
+
+<p>Last time I said, that I&#8217;d be working on Bhushan&#8217;s new UI branch. This post is about it. He started working on it as part of his GSoC. I took the work of finishing it and merging it into master. However, my work&#8217;s still not fully done. So I am for now just working on my branch. I will merge it into master later.</p>
+
+<p>Have a look at what the old UI looked like :</p>
+
+<p><img class="alignnone size-full wp-image-132" src="https://g33kyaditya.files.wordpress.com/2016/01/oldui_1.png" alt="oldUI_1" width="1366" height="768" /></p>
+
+<p><img class="alignnone size-full wp-image-135" src="https://g33kyaditya.files.wordpress.com/2016/01/oldui_2.png" alt="oldUI_2" width="1366" height="768" /></p>
+
+<p>The new UI has a much more minimalistic design. It features a backend strip with various widget like options. For further options within a particular category, it will have a smaller strip beneath it. However, it&#8217;s still currently in development.</p>
+
+<p>Here&#8217;s how the UI will  somewhat look like after it&#8217;s been merged into master.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>So to start with, I created a backup of Bhushan&#8217;s branch and merged master into it. Since, the more time I took to merge master, the hairier it would become. Next I pushed this branch as my working branch and spent some days analyzing the flow of control for various elements and actions. This was a kind of messy job if not tough since we don&#8217;t have a documentation for it. I added the all so powerful Debug statements everywhere that I could. Ashish and Bhushan were a huge help too, since I didn&#8217;t know what a lot of UI components were doing.</p>
+
+<p>The branch was easily compiled but lacked functionality. So I started with the back button functionality. So that we could go to a previous menu by pressing the backspace button. Now the PMC works in a stack form. Each new page is pushed to the top of the stack and made visible. Every time we press the backspace key, the stack is popped and the previous page is made visible. After this I gave it playback support for Audio and Video. Again figuring out the flow was messy. But finally, it works ! Audio and Video play seamlessly, with the Media Controller and the media controls, both from the controller and keyboard work as expected.</p>
+
+<p>However, there are some issues I am still facing. There is an overlay of different pages during navigation. To be precise, overlay of lists that display the local audio/video content in a list form. I spent some time figuring it out, but then left it aside for now. Also, I&#8217;ll be adding capability to view images as well. They work a bit differently as they don&#8217;t need a Player Engine like Audio/Video but an Image Viewer. Also, we show these images&#8217; thumbnails in a grid so I&#8217;ll have to get that grid browser up and running. If all goes well, we can get at least the current master branch functionality in this new UI. Then I&#8217;ll merge and push. I&#8217;ll stay positive 🙂</p>
+
+<p>&nbsp;</p>
+
+<p>Thanks for reading !</p>
+
+<p>&nbsp;</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>#15: SoK with PMC – 2</title>
+			<link>https://aditya-dev.xyz/p81/</link>
+			<pubDate>Tue, 29 Dec 2015 11:12:37 +0000</pubDate>
+			
+			<guid>https://aditya-dev.xyz/p81/</guid>
+			<description>December was a particularly hectic month. I had my semester exams so could not make time for this project. It was only after 20th of the month that I was back into it.
 Anyways, like I said, I implemented the lastfm image fetcher as a plugin. It has an added advantage that you could turn it off if you want to. It&amp;#8217;s compiled as a different component, and on runtime acts independently of the main application.</description>
-    </item>
-    
-    <item>
-      <title>#14: SoK with PMC – 1</title>
-      <link>https://aditya-dev.xyz/p79/</link>
-      <pubDate>Thu, 12 Nov 2015 20:05:08 +0000</pubDate>
-      
-      <guid>https://aditya-dev.xyz/p79/</guid>
-      <description>Welcome my readers. This one&amp;#8217;s going to be about PMC so you can skip right away if you are not interested in the technicalities.
+			<content type="html"><![CDATA[<p>December was a particularly hectic month. I had my semester exams so could not make time for this project. It was only after 20th of the month that I was back into it.</p>
+
+<p>Anyways, like I said, I implemented the lastfm image fetcher as a plugin. It has an added advantage that you could turn it off if you want to. It&#8217;s compiled as a different component, and on runtime acts independently of the main application. Giving signals out to the main application, for information interchange.</p>
+
+<p>Here are some problems I faced in no particular order.</p>
+
+<p>I had to figure out if at all I needed to create a different function for communicating with the mentioned plugin. Of course it was the easier thing to do. But my job was to improve the architecture and keep it from getting complex. So the first few days, I spent figuring out the gist of the code. The interaction with the API and feeding those images back to the UI. I found a signal there, that was emitting the list of newly found media from the local system. Finding this one particular signal, among others was the difficult thing to do, I agree. Next step was easier. Connecting that signal to a slot in my plugin, that would then iterate over this list of media and fetch the images.</p>
+
+<p>Next step that I did, was to update the application UI and to display those images. This time around finding any sort of update signal was easier since I had done this before. Ack came to the rescue and now I know, why my seniors love it. After finding that signal, it was just a matter of connecting the appropriate signals for feeding those images to the UI.</p>
+
+<p>After doing this, I fell into the classic problem of multi threading. Since, my plugin was  an altogether different component now, it was to be run in a different thread. Sounds about right. But here&#8217;s the catch. Inside my plugin, I was using QNetworkAccessManager for doing the network related stuff. But this QNetworkAccessManager automatically runs into a different thread to avoid clogging the main thread. So, all this time I was thinking I had 2 threads with respect to lastfm plugin but infact there were 3. The main UI, the plugin, and the Network Manager inside the plugin. I gotmmany warnings in the application output that the application was not able to create children for a parent that was in a different thread. Took me some days to figure it out. And in the process I learned about QThread and general multi-threading concepts. Turns out, that my plugin was already creating an instance for Network Manager in the constructor and the so the Network Manager had it&#8217;s thread affinity to that thread. Now during run() , that is what makes a different thread, I was creating children for Network Manager. Once, I had this figured out, all I had to do was direct the run() , to some different slot by emitting a signal. And in that slot, creating instances for everything related to the Network Manager.</p>
+
+<p>So, after this all seemed to work fine. Tested it and everything and was good to go !</p>
+
+<p>Next, I&#8217;ll look into a branch that Bhushan made during his Google Summer of Code. It gives a whole new, crisp UI to the application. I actually like this new one. But still, it&#8217;s not finished. UI is not ready for online services like picasa, flickr and youtube. And we have ported only grid and list browsers so only those models would work. Also, I&#8217;ll have to get those UI components to work. I&#8217;ll be looking into it. The only problem being that I don&#8217;t know about QML that much. And all this UI stuff is written in QML. So it seems unsettling. But I&#8217;ll figure something out 😉</p>
+
+<p>&nbsp;</p>
+
+<p>That&#8217;s all for now.</p>
+
+<p>Thanks for reading.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>#14: SoK with PMC – 1</title>
+			<link>https://aditya-dev.xyz/p79/</link>
+			<pubDate>Thu, 12 Nov 2015 20:05:08 +0000</pubDate>
+			
+			<guid>https://aditya-dev.xyz/p79/</guid>
+			<description>Welcome my readers. This one&amp;#8217;s going to be about PMC so you can skip right away if you are not interested in the technicalities.
 PMC is a &amp;#8216;Media Center&amp;#8217; in essence. A one stop solution for music,pictures and videos. It was recently ported to Qt5/KF5. It&amp;#8217;s based on Model View Controller Concept and its UI is in QML with the complete backend in C++ and Qt.
 My aim is to &amp;#8216;Improve it&amp;#8217;s Architecture&amp;#8217; .</description>
-    </item>
-    
-    <item>
-      <title>#13 : SoK with Plasma Media Center – An Introduction</title>
-      <link>https://aditya-dev.xyz/p77/</link>
-      <pubDate>Thu, 12 Nov 2015 19:42:58 +0000</pubDate>
-      
-      <guid>https://aditya-dev.xyz/p77/</guid>
-      <description>Hello people . Back with another post. This time about Season of KDE . For those who don&amp;#8217;t know, SoK is a Google Summer of Code SpinOff in which students work on a project for an open source organization directly under the guidance of a seaoned mentor.
+			<content type="html"><![CDATA[<p>Welcome my readers. This one&#8217;s going to be about PMC so you can skip right away if you are not interested in the technicalities.</p>
+
+<p>PMC is a &#8216;Media Center&#8217; in essence. A one stop solution for music,pictures and videos. It was recently ported to Qt5/KF5. It&#8217;s based on Model View Controller Concept and its UI is in QML with the complete backend in C++ and Qt.</p>
+
+<p>My aim is to &#8216;Improve it&#8217;s Architecture&#8217; . A lot of functionality and code is lying around in different branches that needs to be pushed to master. So yeah, it&#8217;s my job to make it all fall together nice and crisp.</p>
+
+<p>PMC is a shell. For the sake of simplicity, in the simplest terms, a shell is what the user uses to interact with a program. Your desktop is a shell for example. Now to know about what media you have on your local hard drive, PMC relies on baloo and also does a recursive file system search. This way when you open up PMC, you get a nicely laid out UI with your media contents it has fetched metadata of. Also, among other things is LastFm. PMC uses the lastfm API to get relevant info primarily images in this case and feeds it to PMC. Images such as artist or album art. With the previous architecture, this lastfm functionality was inside the core of PMC. In simple words you could say that, PMC had a function that would search for images. Removing this would mean , in a way crippling PMC. Although it&#8217;s pretty logical that such functionality is not a necessity. Likewise baloo. Suppose you have a 1TB Hard Disk filled to 500GB say, running at 5400RPM. Now imagine how much time would baloo take. For this we simply turned it off to avoid the nuisance. The reason being that baloo is implemented as a plugin. Implementing something as a plugin keeps the core independent of it. At run time, the core may need data from the plugin, in the  case of which it could simply load the plugin at run time. If not needed, it would not load the plugin. Simple 🙂</p>
+
+<p>The first of my many tasks was to do this. Make it possible for PMC to load lastfm as a plugin. In this I learned about Pimpl idiom in C++. About Qt Signals and Slots. Precisely that we could connect a signal to another signal. Pretty neat 😀 . And a lot of other things that I don&#8217;t remember.</p>
+
+<p>My mentor Ashish Bansal and the project&#8217;s maintainer Bhushan Shah have been a huge help.</p>
+
+<p>That&#8217;s all for now.</p>
+
+<p>Thanks for Reading.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>#13 : SoK with Plasma Media Center – An Introduction</title>
+			<link>https://aditya-dev.xyz/p77/</link>
+			<pubDate>Thu, 12 Nov 2015 19:42:58 +0000</pubDate>
+			
+			<guid>https://aditya-dev.xyz/p77/</guid>
+			<description>Hello people . Back with another post. This time about Season of KDE . For those who don&amp;#8217;t know, SoK is a Google Summer of Code SpinOff in which students work on a project for an open source organization directly under the guidance of a seaoned mentor.
 I got selected for my proposed idea of improving the Plasma Media Center Architecture. To be precise, it&amp;#8217;s not just one task but a collection of tasks that I&amp;#8217;ll be doing through my SoK period.</description>
-    </item>
-    
-    <item>
-      <title>#12</title>
-      <link>https://aditya-dev.xyz/p73/</link>
-      <pubDate>Mon, 12 Oct 2015 14:47:40 +0000</pubDate>
-      
-      <guid>https://aditya-dev.xyz/p73/</guid>
-      <description>Welcome my fellow readers !
+			<content type="html"><![CDATA[<p>Hello people . Back with another post. This time about Season of KDE . For those who don&#8217;t know, SoK is a Google Summer of Code SpinOff in which students work on a project for an open source organization directly under the guidance of a seaoned mentor.</p>
+
+<p>I got selected for my proposed idea of improving the Plasma Media Center Architecture. To be precise, it&#8217;s not just one task but a collection of tasks that I&#8217;ll be doing through my SoK period. SoK participants are required to blog about what they do, so I&#8217;ll be telling about it here often.</p>
+
+<p>Apart from it, nothing new. Life&#8217;s usual. Have my Minors 2 right around and as usual I have no idea about anything. Got to finish close to 10 chapters for 2 subjects and finish one massive assignment before Monday, but here I am, your blogger. *slow claps please*</p>
+
+<p>So this was the updates. More posts will follow. Also, I&#8217;ll be blogging thoroughly about SoK so stay tuned to catch up.</p>
+
+<p>Thanks for Reading.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>#12</title>
+			<link>https://aditya-dev.xyz/p73/</link>
+			<pubDate>Mon, 12 Oct 2015 14:47:40 +0000</pubDate>
+			
+			<guid>https://aditya-dev.xyz/p73/</guid>
+			<description>Welcome my fellow readers !
 As you would have seen, I changed the UI of the blog. This looks much more visually appealing. Its been a long time since my last post. It&amp;#8217;s not easy being a blogger. This makes me wonder how do regular bloggers not run out of topics to write ! *sigh* So here goes.
 Life&amp;#8217;s going well. The first fifteen days of September were a complete mess due to some personal issues but everything is back on track.</description>
-    </item>
-    
-    <item>
-      <title>#11</title>
-      <link>https://aditya-dev.xyz/p68/</link>
-      <pubDate>Tue, 18 Aug 2015 21:17:10 +0000</pubDate>
-      
-      <guid>https://aditya-dev.xyz/p68/</guid>
-      <description>While I write this, I am sitting with two of my friends in my University&amp;#8217;s Reading Hall. It&amp;#8217;s already past 2:30 in the AM, and we are just chilling out , talking of an array of things &amp;#8230; for no apparent reason.
+			<content type="html"><![CDATA[<p>Welcome my fellow readers !</p>
+
+<p>As you would have seen, I changed the UI of the blog. This looks much more visually appealing. Its been a long time since my last post. It&#8217;s not easy being a blogger. This makes me wonder how do regular bloggers not run out of topics to write ! *sigh* So here goes.</p>
+
+<p>Life&#8217;s going well. The first fifteen days of September were a complete mess due to some personal issues but everything is back on track. It seems like I am starting out with a new phase in life. Let&#8217;s see what it has to offer.</p>
+
+<p>As for University, things don&#8217;t quite move smoothly. Had my Minors some time back. And I sucked. Well, I didn&#8217;t study for it either but that&#8217;s no excuse. Will score better next time.</p>
+
+<p>As for FOSS, I have news. I am currently working on porting Amarok to Qt5/KF5. More on it in some later post I guess. And I&#8217;m too lazy now to dive into it&#8217;s technicalities. But yeah, everything seems to be going pretty fine. I also got a KDE Developer Account 🙂 . But as the Ksysadmins say, with great power comes great responsibility. Hahaha</p>
+
+<p>In the midst of it all, I learned shell scripting. And believe me, it&#8217;s awesome. Daily tasks like sorting files or renaming a batch of files based on some parameters is a cakewalk , that would perhaps be a nightmare using GUI. I&#8217;ll continue to use it and read about it as much as I can. Also, earlier I used to compile my C++ programs using &#8211;</p>
+
+<blockquote>
+<p>g++ <name of file.cpp> -o <name of file></p>
+</blockquote>
+
+<p>What this does, is that passes the name of the file you want to compile as an argument to g++. We are using the -o flag and then the <name of file> , so after compilation , the file is saved as <name of file> , without the .cpp extension.</p>
+
+<p>I created a 2 line script for it called &#8221; x &#8221;  , so that all I have to do now is &#8211;</p>
+
+<blockquote>
+<p>x <name of file.cpp></p>
+</blockquote>
+
+<p>This does the same thing as earlier and saves the compiled binary. Here&#8217;s the script in case you want it  : <a href="https://github.com/g33kyaditya/Scripts/blob/master/x">x</a></p>
+
+<p>Also, I finally found a stable build &#8211; Fedora 22 with KDE Plasma 5 . There is still an issue with the login manager (SDDM) , but nothing I cannot find a workaround with CLI . So, that&#8217;s not so much as a problem now.</p>
+
+<p>That&#8217;s all for now.</p>
+
+<p>Thanks for Reading</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>#11</title>
+			<link>https://aditya-dev.xyz/p68/</link>
+			<pubDate>Tue, 18 Aug 2015 21:17:10 +0000</pubDate>
+			
+			<guid>https://aditya-dev.xyz/p68/</guid>
+			<description>While I write this, I am sitting with two of my friends in my University&amp;#8217;s Reading Hall. It&amp;#8217;s already past 2:30 in the AM, and we are just chilling out , talking of an array of things &amp;#8230; for no apparent reason.
 University Elections are taking place. This time a bit earlier though. All parties have pulled up their socks and are campaigning vigorously. They wake you up at 3 in the morning.</description>
-    </item>
-    
-    <item>
-      <title>#10 : I moved to Kubuntu 15.04</title>
-      <link>https://aditya-dev.xyz/p62/</link>
-      <pubDate>Sat, 01 Aug 2015 13:23:20 +0000</pubDate>
-      
-      <guid>https://aditya-dev.xyz/p62/</guid>
-      <description>Hey Guys !
+			<content type="html"><![CDATA[<p>While I write this, I am sitting with two of my friends in my University&#8217;s Reading Hall. It&#8217;s already past 2:30 in the AM, and we are just chilling out , talking of an array of things &#8230; for no apparent reason.</p>
+
+<p>University Elections are taking place. This time a bit earlier though. All parties have pulled up their socks and are campaigning vigorously. They wake you up at 3 in the morning. What for ? &#8220;Vote for us !&#8221; . What a pile of crap !</p>
+
+<p>I&#8217;ve been here for an year now, enough to know about the elections.</p>
+
+<p>Parties primarily aim at the Freshers. For the simple reason that they don&#8217;t know shit about the shit happening around. If you are a fresher, they approach you and will do anything for your precious vote. Wait till the election fever goes down. Nobody gives a damn ! Well of course, there are some genuinely nice people but I am talking about the majority of them, I&#8217;ve seen.</p>
+
+<p>So, me and my friends with nothing better to do are discussing about the most hyped topic right now&#8230; Elections. Let&#8217;s see how the night goes, given I&#8217;ll be spending  it outside my hostel.</p>
+
+<p>So yeah ! Just felt like posting here. And to end this one without something geeky would be committing a sin. So here goes, I wrote a patch to Amarok. Currently I am working on it and get it reviewed. Let&#8217;s hope they commit it. Will let you know about it.</p>
+
+<p>Thanks for Reading !</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>#10 : I moved to Kubuntu 15.04</title>
+			<link>https://aditya-dev.xyz/p62/</link>
+			<pubDate>Sat, 01 Aug 2015 13:23:20 +0000</pubDate>
+			
+			<guid>https://aditya-dev.xyz/p62/</guid>
+			<description>Hey Guys !
 Nothing fancy this time. But it seems I am stuck with a problem every week. As if last weekend wasn&amp;#8217;t hectic enough. Last night all was fine. I did what I did and shut down my laptop. All good ! Or so it would seem.
 My WiFi stopped working. I also have a Windows 7 on a separate partition. I logged into it. And the WiFi was working.</description>
-    </item>
-    
-    <item>
-      <title>#9 : KDE Development Platform 4.14.2</title>
-      <link>https://aditya-dev.xyz/p56/</link>
-      <pubDate>Mon, 27 Jul 2015 15:07:30 +0000</pubDate>
-      
-      <guid>https://aditya-dev.xyz/p56/</guid>
-      <description>So here I am as promised. As I write this, I am sitting in my hostel room. One of my friends is playing GTA V. The other is copying GTA V. One is watching Game of Thrones and one is just lying around. And here I am writing this. *Slow claps please :)*
+			<content type="html"><![CDATA[<p>Hey Guys !</p>
+
+<p>Nothing fancy this time. But it seems I am stuck with a problem every week. As if last weekend wasn&#8217;t hectic enough. Last night all was fine. I did what I did and shut down my laptop. All good ! Or so it would seem.</p>
+
+<p>My WiFi stopped working. I also have a Windows 7 on a separate partition. I logged into it. And the WiFi was working. But somehow it was a mess on my Ubuntu Variant. At first I thought of correcting it, and doing some research. But I didn&#8217;t have the patience this time. I had read somewhere that sometimes just re-installing your distro is the fastest solution.</p>
+
+<p>Besides I was thinking of updating to Kubuntu for some time. I grabbed 15.04 . Sadly it&#8217;s not LTS. But it&#8217;s still good for now. I&#8217;ll update to 15.10 as soon as it rolls out in October.</p>
+
+<p>However, I wanted to protect my precious data. Did some research and found out that since Ubuntu Hardy Heron, we have a choice to preserve our Home Directory. Still, to be on the safe side, I backed up my data on a USB. Prepared the live USB and I was good to go.</p>
+
+<p>Standard Installation. Pretty easy. One thing to keep in mind that ensures that you don&#8217;t lose your Home Directory is to <strong>NOT </strong>format your Installation Directory.</p>
+
+<p>If you had earlier installed your root directory and home directory in different partitions, just select the previous root partition for installation of the new stuff. You can format it if you want. Remember the ext4. 🙂</p>
+
+<p>If you didn&#8217;t have different partitions for root and home like me, select the previous ext4 root partition and <strong>UNCHECK</strong> the format option. This would keep your data on home intact. However all applications you installed later in root, would be removed. You need to install them again.</p>
+
+<p><em>Tip : It&#8217;s better to install Root and Home on different partitions. Helps in cases like these. </em></p>
+
+<p>Mind you, an easier option would have been simply upgrading from my previous distribution itself. But my WiFi was not working. Also I tried Ethernet, but that didn&#8217;t work too. USB seemed the obvious choice.</p>
+
+<p>So here I am, on Kubuntu 15.04 . Installing Vim,Google Chrome, VLC etc again. I won&#8217;t deny that I am a bit sad for I lost all my apps and settings but at least I saved a lot of time. Plus every cloud has a silver lining. I have some material to pass time, the next time I am bored. Why my WiFi didn&#8217;t work ? And the Ethernet too.</p>
+
+<p>So, all taken care of. Back to work !</p>
+
+<p>Thanks for reading !</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>#9 : KDE Development Platform 4.14.2</title>
+			<link>https://aditya-dev.xyz/p56/</link>
+			<pubDate>Mon, 27 Jul 2015 15:07:30 +0000</pubDate>
+			
+			<guid>https://aditya-dev.xyz/p56/</guid>
+			<description>So here I am as promised. As I write this, I am sitting in my hostel room. One of my friends is playing GTA V. The other is copying GTA V. One is watching Game of Thrones and one is just lying around. And here I am writing this. *Slow claps please :)*
 KDE Development Platform :
  The KDE Development Platform consists of an integrated set of technologies that help you build applications quickly and efficiently.</description>
-    </item>
-    
-    <item>
-      <title>#8 : Updates !</title>
-      <link>https://aditya-dev.xyz/p48/</link>
-      <pubDate>Sat, 25 Jul 2015 22:54:14 +0000</pubDate>
-      
-      <guid>https://aditya-dev.xyz/p48/</guid>
-      <description>So, I&amp;#8217;m gonna be blogging at a stretch for a day or two. I still can&amp;#8217;t figure out why. Anyways, I am now a Sophomore. It feels good to be. At the same time it&amp;#8217;s freaking me out a bit. I just joined College some time back. There&amp;#8217;s so much to do. But I&amp;#8217;ll calm down in some time.
+			<content type="html"><![CDATA[<p>So here I am as promised. As I write this, I am sitting in my hostel room. One of my friends is playing GTA V. The other is copying GTA V. One is watching Game of Thrones and one is just lying around. And here I am writing this. *Slow claps please :)*</p>
+
+<p>KDE Development Platform :</p>
+
+<blockquote>
+<p>The KDE Development Platform consists of an integrated set of technologies that help you build applications quickly and efficiently.</p>
+</blockquote>
+
+<p>The KDE Development Platform is a way for the application KDE Developers to distribute the workload. The source becomes easy to maintain and write. Consistency and Stability is improved.</p>
+
+<p>So a few days back, I find myself trying to solve a bug, a Junior Job on Amarok. The Podcast Directory was <strong>according to the bug </strong>wasn&#8217;t showing anything. Generally, there&#8217;s a list of Directories like this. Take a look.</p>
+
+<p><a href="https://g33kyaditya.files.wordpress.com/2015/07/snapshot1.png"><img class="alignnone size-medium wp-image-57" src="https://g33kyaditya.files.wordpress.com/2015/07/snapshot1.png?w=300" alt="snapshot1" width="300" height="169" /></a></p>
+
+<p>Now as usual, my first step was to reproduce to the bug. I compiled the source and spent more than a day to do it. But everything was working fine on my build. I went to the IRC. Found out that I had an older version of KDE Development Platform 4.13.3 The newer version was perhaps breaking something. I had to have the newer version.</p>
+
+<p>I spent a weekend trying to update it.</p>
+
+<pre><code>sudo add-apt-repository ppa:kubuntu-ppa/backports
+sudo apt-get update 
+sudo apt-get upgrade  
+</code></pre>
+
+<p>As you might already know, I am running KDE on Unity. Since I don&#8217;t get automatic updates for KDE, things were a mess. The above commands didn&#8217;t seem to work. Still, the KDE Development Platform was 4.13.3 I did some digging and did a</p>
+
+<pre><code> sudo apt-get dist-upgrade
+</code></pre>
+
+<p>This gave me a bunch of output. That showed, that the libraries of some applications were already at 4.14.2 What the hell is that ?  I spent one more day trying to find some work around.</p>
+
+<p>Did a</p>
+
+<pre><code>sudo apt-get -f install 
+</code></pre>
+
+<p>It made all the libraries at Platform 4.13.3</p>
+
+<p>Again ran</p>
+
+<pre><code> sudo apt-get dist-upgrade
+</code></pre>
+
+<p>It worked this time. The KDE Development Platform is 4.14.2</p>
+
+<p>*Happy :)*</p>
+
+<p>Still, I can see the Podcast Directories in Amarok. Time to bug some developers at the IRC. Will update if I find something interesting.</p>
+
+<p>Thanks for Reading</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>#8 : Updates !</title>
+			<link>https://aditya-dev.xyz/p48/</link>
+			<pubDate>Sat, 25 Jul 2015 22:54:14 +0000</pubDate>
+			
+			<guid>https://aditya-dev.xyz/p48/</guid>
+			<description>So, I&amp;#8217;m gonna be blogging at a stretch for a day or two. I still can&amp;#8217;t figure out why. Anyways, I am now a Sophomore. It feels good to be. At the same time it&amp;#8217;s freaking me out a bit. I just joined College some time back. There&amp;#8217;s so much to do. But I&amp;#8217;ll calm down in some time.
 I pretty much spent my summer vacation on my laptop. Hahah. I watched 5 seasons of Breaking Bad.</description>
-    </item>
-    
-    <item>
-      <title>#7</title>
-      <link>https://aditya-dev.xyz/p43/</link>
-      <pubDate>Thu, 18 Dec 2014 18:27:17 +0000</pubDate>
-      
-      <guid>https://aditya-dev.xyz/p43/</guid>
-      <description>Writing a blog post after sometime now. Well don&amp;#8217;t give me those looks ! duh !
+			<content type="html"><![CDATA[<p>So, I&#8217;m gonna be blogging at a stretch for a day or two. I still can&#8217;t figure out why. Anyways, I am now a Sophomore. It feels good to be. At the same time it&#8217;s freaking me out a bit. I just joined College some time back. There&#8217;s so much to do. But I&#8217;ll calm down in some time.</p>
+
+<p>I pretty much spent my summer vacation on my laptop. Hahah. I watched 5 seasons of Breaking Bad. Finished the 3rd season of Arrow and 5th Season of Game of Thrones</p>
+
+<p>*SPOILER* {Jon Snow will be back. He&#8217;s in Belfast now where the shooting for season 6 is taking place. Why else would he be there anyway ?}</p>
+
+<p>I am halfway through Season 9 on Friends. Finished Daredevil and True Detective. Apart from it, I spent a lot of time on Coding. Learnt a lot of new stuff. It was enjoyable. Went to Delhi to meet an old friend.</p>
+
+<p>Owing to the geek I am, this post wouldn&#8217;t be complete without an in depth analysis of something geeky. My Primary OS was Ubuntu. I was running the 14.04 LTS version. Thought of switching to KDE. Why ? I still don&#8217;t know. Anyways, I don&#8217;t regret it. KDE way of doing things is far better than Unity. At least according to me. It takes some time getting used to, but in the end it&#8217;s not so big a deal. I still have to find out what are Activities and Activity Manager. I&#8217;ll update when I know.</p>
+
+<p>I changed my basic Terminal Shell to Yakuake. First because it offers the option of multiple tabs on the terminal and second because it looks really cool, dropping down from the top. You can bring it at the first view in any of the Workspaces. However, one thing I am really disappointed about is the lack of good looking Workspace Navigation. Unity used to split the screen into the number of Workspaces and then you could easily choose one. In KDE it&#8217;s just pure minimal. Or crappy to say. Just an arrow. With bugs sometimes.</p>
+
+<p>Initially I installed KDE alongside Ubuntu, that gave me a choice of choosing the desktop environment at login. But a day later, I realized I no longer needed Unity. So I chose to remove it. This is where things go nasty.</p>
+
+<pre><code>sudo apt-add-repository ppa:kubuntu-ppa/next
+sudo apt update
+sudo apt install kubuntu-plasma5-desktop
+sudo apt full-upgrade
+</code></pre>
+
+<p>Pretty Easy. Now restart and you are good to go. You&#8217;ll be asked to choose either of the two Desktop Environents at startup.</p>
+
+<p>Now, if you have to remove Ubuntu, things get exciting.</p>
+
+<pre><code>sudo apt-get remove --purge unity
+sudo apt-get remove --purge gnome-shell
+sudo apt-get remove --purge lightdm
+sudo apt-get autoremove
+</code></pre>
+
+<p>If you are lucky, the next time you restart, your OS will automatically detect the Desktop Environment. I wasn&#8217;t that lucky. It had the OS, the kernel, everything. But I had ripped off the top layer of my distro. Imagine logging into your laptop and seeing nothing. A blank white screen. Nothing else. No error messages. Not even the godly terminal opens.</p>
+
+<p>I couldn&#8217;t afford to lose my precious data. Spent that day surfing. I finally figured out that I didn&#8217;t completely remove Unity. WTF ? I created a live USB, fired up the terminal and</p>
+
+<pre><code>sudo apt-get autoremove --purge unity-*
+</code></pre>
+
+<p>Restarted and I was good to go.</p>
+
+<p>*Happy*</p>
+
+<p>More blog posts follow.</p>
+
+<p>Thanks for Reading</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>#7</title>
+			<link>https://aditya-dev.xyz/p43/</link>
+			<pubDate>Thu, 18 Dec 2014 18:27:17 +0000</pubDate>
+			
+			<guid>https://aditya-dev.xyz/p43/</guid>
+			<description>Writing a blog post after sometime now. Well don&amp;#8217;t give me those looks ! duh !
 Had my Minors from , If I remember correctly , Dec 08. Not that I study too much for it. Just didn&amp;#8217;t get the time. Also, I am having my semesters now. Already gave two examinations, out which Calculus went awful. Why do they even include these subjects in our course syllabus. Vectors and Algebra were understandable from CS view, but why Calculus ?</description>
-    </item>
-    
-    <item>
-      <title>#6 : Panjab University, my experiences till now.</title>
-      <link>https://aditya-dev.xyz/p38/</link>
-      <pubDate>Fri, 14 Nov 2014 19:10:44 +0000</pubDate>
-      
-      <guid>https://aditya-dev.xyz/p38/</guid>
-      <description>Its going to be roughly 3 months for me at Panjab University, Chandigarh (PU). For those of you , who don&amp;#8217;t know, I am a student of 1st Year CSE at the Dept. of Engineering (UIET). So here&amp;#8217;s a post on my experiences till now.
+			<content type="html"><![CDATA[<p>Writing a blog post after sometime now. Well don&#8217;t give me those looks ! duh !</p>
+
+<p>Had my Minors from , If I remember correctly , Dec 08. Not that I study too much for it. Just didn&#8217;t get the time. Also, I am having my semesters now. Already gave two examinations, out which Calculus went awful. Why do they even include these subjects in our course syllabus. Vectors and Algebra were understandable from CS view, but why Calculus ? And to add to my frustration, we will be having it in the coming semesters too. Also, its not like I hate Calculus. I just like Programming more. Still not happy enough. the Indian Education System has gone nuts. They teach C in the freshman year. (Why the fu**!!!). For people with no experience in Programming, who land into Computer Science branch, it is tough. Not just for them, but C is a tough language to start with. Rather they should have taught some scripting language at first. Maybe Python or even HTML or PHP. Atleast it would help the students with no Programming Experience, get their feet wet. But who cares ! Its India. Nobody gives a shit about you. You have to think of yourself. And they still use TurboC. Couldn&#8217;t have hurt to use Code::Blocks. Its free also. And the teachers don&#8217;t know as much as they brag about. All show and no go. Plus, they are not willing to change. Not willing to learn. Not willing to evolve. I mean , why the hell did they become Computer Science Professors in the first place if they were not willing to learn themselves. Technology is growing at massive rate. You don&#8217;t learn the new tech, you get kicked out. Unless and until you get a job at a Govt. Engineering College that pays you for all your life. I am not referring to anyone in particular. Just the way I see it. Besides all this, still some of the Professors are really very knowledgeable and are some of the best mentors. I am lucky to have them in my college. And as it turns out, I went off-topic. My apologies !!!</p>
+
+<p>Been working the midnight oil for the past 5-6 days (Really ? Not exactly though :p). I don&#8217;t wanna flunk in my 1st semester itself.The past few days were a huge pain in the a**. Had to study Calculus. Much of it was not being able to get my hands on programming. I have some plans made for my Winter Vacations and I can&#8217;t wait for them. Also I finished all 4 seasons of Game of Thrones. And when I say, Its the best TV Series , I mean it. The plot, the twists , the mind blowing acting by the actors , the amazing locations , the nicely crafted story and characters all fit together so well, you are left astounded. And I have become a fan of Peter Dinklage. I also started watching Arrow and already finished Season 1 and more than halfway through Season 2. Its a nice one. Similar to Batman. Also I discovered my fondness for Quora. I have spent hours and hours on Quora. My favourite topics are from Programming and Computer Science. My news feed is filled with such questions. Answering questions from StackOverflow would teach me more , I won&#8217;t lie , but Quora is much more addictive. And to save myself from wasting hours and hours on the internet , I restrain myself from opening Reddit. Although my friends tell me Reddit has some of the best Programming topics and AMA&#8217;s from people coming straight from Harvard and Stanford. BUT , Quora is enough for me to get addicted to , than to add Reddit to the list. And lastly , I downloaded Dungeon Hunter 4 for my Lumia today. Its a good game. Cheers !</p>
+
+<p>And  yes I have my Majors still going. Gave one today, and the next, on Programming Fundamentals is scheduled for day after tomorrow. I know most of it so am a bit loosened up.</p>
+
+<p>Thats all for today</p>
+
+<p>Thanks for reading.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>#6 : Panjab University, my experiences till now.</title>
+			<link>https://aditya-dev.xyz/p38/</link>
+			<pubDate>Fri, 14 Nov 2014 19:10:44 +0000</pubDate>
+			
+			<guid>https://aditya-dev.xyz/p38/</guid>
+			<description>Its going to be roughly 3 months for me at Panjab University, Chandigarh (PU). For those of you , who don&amp;#8217;t know, I am a student of 1st Year CSE at the Dept. of Engineering (UIET). So here&amp;#8217;s a post on my experiences till now.
 My first reaction : What the fuck !!! It&amp;#8217;s hugeeee. There are a ton of Departments here. The list includes even Departments of Mandarin and Russian.</description>
-    </item>
-    
-    <item>
-      <title>#5 : Dual Boot Windows 8(8.1) with Linux</title>
-      <link>https://aditya-dev.xyz/p18/</link>
-      <pubDate>Thu, 06 Nov 2014 15:19:32 +0000</pubDate>
-      
-      <guid>https://aditya-dev.xyz/p18/</guid>
-      <description>In the last PULUG session they taught us how to Dual Boot Windows with Linux. Still, I see many of my classmates messing up their systems. One of them had to do a clean installation of Mint 17 (Cinnamon) after literally destroying both his Windows and Mint bootloaders. Ofcourse, he lost all his movies. We were in much despair.
+			<content type="html"><![CDATA[<p>Its going to be roughly 3 months for me at Panjab University, Chandigarh (PU). For those of you , who don&#8217;t know, I am a student of 1st Year CSE at the Dept. of Engineering (UIET). So here&#8217;s a post on my experiences till now.</p>
+
+<p>My first reaction : What the fuck !!! It&#8217;s hugeeee. There are a ton of Departments here. The list includes even Departments of Mandarin and Russian. It&#8217;s one of the oldest Universities in the country. If my statistics are correct (which usually are !), then PU stands 1st in India (Because of the Research). It was established in 1882 in Lahore (Pakistan). It was moved to Chandigarh after Partition. But enough with the facts. Lets dig in.</p>
+
+<p>Every year the Students&#8217; Election are held in the month of September. Our session started in August. That&#8217;s the high time for Student Elections in PU. All the parties are trying to persuade the freshers for votes. Ofcourse, we the freshers are easy to brainwash. I&#8217;ll rather skip the specifics.</p>
+
+<p>There is a plethora of Student Parties competing for various posts. NSUI (National Students&#8217; Union of India), SOI (Student Organization of India), PUSU (Panjab University Student Union), SOPU (Students of Panjab Uniersity) are among some biggies. Not to mention I have skipped a few like ABVP, HIMSU, GGSU etc.</p>
+
+<p>Since, some parties are high on cash (Again ! I won&#8217;t take any name), we freshers get whatever we ask for. That includes Pen Drives too. Trips to Shimla and Kasauli for freshers, ofcourse as &#8220;a freshers&#8217; treat !&#8221;. &#8220;Fresher&#8217;s  Parties&#8221; at Clubs. And movies too. For us hostelers, its a treat everyday.</p>
+
+<p>Students&#8217; Centre (StuC) is a place filled with shops offering nice food at cheap rates. But the sad part, it closes at 9:30pm. However nights for hostelers starts after 10:00pm. This is when NFS (Night Food Street) comes to rescue. Its outside the University Gate 1. And is open all night. I still don&#8217;t know if they deliver food in our rooms at night. Guess I&#8217;ll find out !!!.</p>
+
+<p>The &#8220;parties&#8221; relied heavily on NFS and StuC those days. It was also the time of &#8220;ragging&#8221;. If it really was &#8220;ragging&#8221; after all. Just &#8220;some&#8221; Introductions with seniors. By that I mean, repeating the same thing over and over again many times a day. Many seniors cramped into those rooms for Intros. It had to be either completely in Hindi or completely in English. LOL !!. Also we had to start from our Foundation Day (Your DOB &#8211; 9 months). I hope you get it. LOL !. Sometimes we did the famous &#8220;Ikki Dukki Tikki Chauki&#8221;. I kind of liked all this. Helped us loosen ourselves with the seniors.</p>
+
+<p>None of it was ragging. We were given an open choice to dance if we liked to, sing if we liked to, or do nothing if we were not in the mood. The days passed with the Election Campaigning gaining an even higher momentum than before. I made friends with many, including seniors. There are many plus points of being friends with a senior. He will tell you what to do or not. He will help you with notes, exam tips and movies. And most of all, if you go out, he pays 😉</p>
+
+<p>Life at hostels is really fun. You get to learn a lot. You become a carpainter, a doctor, a cook and ofcourse an Engineer !!! Plus unlimited high speed internet. Back home I sucked at 60kbps Broadband Line. Now, I get impatient at any speed below 5-6 MBps.</p>
+
+<p>You can almost always kill time by chit-chatting. Youtube becomes a precious gem. Here in Boys&#8217; Hostel, there is no time limit. You could return to your hostel anytime. Even after 1:00 am. There is no fixed time to eat, sleep or study. TV series, Anime and most of all video games are played throughout all Boys&#8217; Hostels. Counter Strike is played all night. Game of Thrones is finished in a couple of days. Not that websites are not banned. We just find our way around things. Torrent is still something I haven&#8217;t found out a solution to. Will write a post on it someday.</p>
+
+<p>Now coming to the &#8220;guy&#8221; part. Going by statistics, 70% of the students at PU are girls. 40% of them (maybe) are good looking according to me, my roomies and friends. There are about 15000 students at PU. That means about 4000 girls are good looking. That may seem as an appreciable figure for many a guys out there. But for people like me, we have trouble becoming friends with even one of these 4000 girls. LOL !!!. Lets just leave this topic here. I&#8217;ll catch you later on this one. (No promises :p)</p>
+
+<p>Unlike other colleges, students at PU are allowed to keep any vehicle at their hostels. May it be a car or a motorbike. This accounts for the large number of cars in the University. Also there is lack of parking space. Sometimes we don&#8217;t get water at the upper floors of hostels. But winter is coming !!!. Who cares ? We seldom bathe.</p>
+
+<p>Also, we have this huge AC Joshi Library or easily the Central Library. I still don&#8217;t know how to issue books from the Central Library. Many of us still have no idea how to do it.</p>
+
+<p>And there&#8217;s the PU Market. Yes ! its inside the University Campus. You can find almost anything here. Literally anything. Just outside PU Market, we have a Pizza Hut and a Dominos. Cheers Again.</p>
+
+<p>So ending here, life at PU till now has been very good. I have some really interesting friends. My roommates are nice. Seniors are good and helping. And again, there&#8217;s PULUG. Here&#8217;s the link of my blog post on PULUG. </p>
+
+<p><a href="http://g33kyaditya.wordpress.com/2014/11/04/4-pulug-the-awesomeest-thing-about-my-college/">#4 : PULUG</a></p>
+
+<p>Thats all for today.</p>
+
+<p>Thanks for Reading</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>#5 : Dual Boot Windows 8(8.1) with Linux</title>
+			<link>https://aditya-dev.xyz/p18/</link>
+			<pubDate>Thu, 06 Nov 2014 15:19:32 +0000</pubDate>
+			
+			<guid>https://aditya-dev.xyz/p18/</guid>
+			<description>In the last PULUG session they taught us how to Dual Boot Windows with Linux. Still, I see many of my classmates messing up their systems. One of them had to do a clean installation of Mint 17 (Cinnamon) after literally destroying both his Windows and Mint bootloaders. Ofcourse, he lost all his movies. We were in much despair.
 I myself have been dualbooting since I was in Grade 8. No big deal!</description>
-    </item>
-    
-    <item>
-      <title>#4 : PULUG</title>
-      <link>https://aditya-dev.xyz/p16/</link>
-      <pubDate>Tue, 04 Nov 2014 18:14:16 +0000</pubDate>
-      
-      <guid>https://aditya-dev.xyz/p16/</guid>
-      <description>I am blogging after a week or two I guess. Well, I hadn&amp;#8217;t promised to be a good blogger either :p.
+			<content type="html"><![CDATA[<p>In the last PULUG session they taught us how to Dual Boot Windows with Linux. Still, I see many of my classmates messing up their systems. One of them had to do a clean installation of Mint 17 (Cinnamon) after literally destroying both his Windows and Mint bootloaders. Ofcourse, he lost all his movies. We were in much despair.</p>
+
+<p>I myself have been dualbooting since I was in Grade 8. No big deal! (is it ?). But that is only till you have Windows 7. Windows 8 and 8.1 that come pre-installed with laptops complicates matters (to a great extent). We lost the movies because of it. 🙁</p>
+
+<p>I myself am running a DualBoot of Windows 7 with an Ubuntu LTS. I had a Windows 7 Ultimate so it was a fairly simple task for me. Just the regular BIOS.</p>
+
+<p>So, lets dig in. But not without some theory. (You can skip this part if you don&#8217;t want to go through the crappy details)</p>
+
+<p>_<strong>_</strong>_<strong>_</strong>_<strong>_</strong>_<strong>_</strong>_<strong>_</strong>_<strong>_</strong>_<strong>_</strong>_<strong>_</strong>_<strong>_</strong>_<strong>_</strong>_<strong>_</strong>_<strong>_</strong>_<strong>_</strong>_<strong>_</strong>_<strong>_</strong>_____</p>
+
+<p>Windows 8 and 8.1 that come pre-loaded with laptops have replaced BIOS with UEFI. This is where the problem lies. UEFI has a &#8220;securemode&#8221; that doesn&#8217;t let us tinker with the bootloader. And even if it does, we won&#8217;t be able to boot through Grub if its not digitally signed into UEFI. And guess what !! It is not. That means we&#8217;ll have to find a way around this.</p>
+
+<p>&#8220;<strong>Unified Extensible Firmware Interface</strong> (UEFI) is a specification for a software program that connects a computer&#8217;s firmware to its operating system (OS). UEFI is expected to eventually replace BIOS.&#8221;</p>
+
+<p>It was originally meant as a security tweak to avoid any potential malware.</p>
+
+<p>_<strong>_</strong>_<strong>_</strong>_<strong>_</strong>_<strong>_</strong>_<strong>_</strong>_<strong>_</strong>_<strong>_</strong>_<strong>_</strong>_<strong>_</strong>_<strong>_</strong>_<strong>_</strong>_<strong>_</strong>_<strong>_</strong>_<strong>_</strong>_<strong>_</strong>_____</p>
+
+<p>Pre-requisites :</p>
+
+<p>&#8211; A Linux Image (.iso) [Whatever flavour you like. I personally like Ubuntu]</p>
+
+<p>&#8211; A compatible laptop/desktop</p>
+
+<p>&#8211; A pen drive (atleast 2 GB)</p>
+
+<p>&#8211; Linux Live USB Creator (LiLi) or Universal USB Installer</p>
+
+<p>Step 1 :</p>
+
+<p>Before starting anything, just to be safe , create a backup of all your important data .</p>
+
+<p>Step 2 :</p>
+
+<p>Create a live USB disk. Fire up LiLi or Universal USB Installer (whatever you have). Select the .iso image and make a live disk.</p>
+
+<p>Step 3:</p>
+
+<p>Make some space for your fresh installation (depending on your need). Make sure not to use the C partition for your distro. It will erase your Windows.</p>
+
+<p>To make a partition in Windows 8, go to Disk Management tool. You can find disk management tool by searching for ‘disk’ in Control Panel.</p>
+
+<p><a href="https://g33kyaditya.files.wordpress.com/2014/11/disk_partition.jpeg"><img class="alignnone size-medium wp-image-19" src="https://g33kyaditya.files.wordpress.com/2014/11/disk_partition.jpeg?w=300" alt="disk_partition" width="300" height="210" /></a></p>
+
+<p>In the Disk Management tool, right click on the drive which you want to partition and select <strong>shrink volume</strong>. Shrink the volumes to free up space.You can leave the free space as it is. We shall use it while installing Ubuntu.</p>
+
+<p>Step 4 :</p>
+
+<p>Disable fast startup for Windows. It&#8217;s optional. But it would be better to have it disabled.</p>
+
+<p>Go to <strong>Control Panel</strong> &gt; <strong>Hardware and Sound</strong> &gt; <strong>Power Options</strong> &gt; <strong>System Settings</strong> &gt; <strong>Choose what the power buttons do</strong> and uncheck the <strong>Turn on fast startup box</strong>.</p>
+
+<p>Step 5 :</p>
+
+<p>Disable Secureboot. This is the most important step. The new <strong>secure boot</strong> feature of Windows 8, originally intended for security feature for rootkit viruses, prevents dual booting of Windows with Linux. To dual boot Windows 8 with Linux, we must disable secure boot in UEFI.</p>
+
+<p>&#8211; Open the settings charms in Windows by pressing <strong>Windows+I</strong> keys. At the bottom, you’ll see the option of <strong>Change PC settings</strong>. Click on it.</p>
+
+<p><a href="https://g33kyaditya.files.wordpress.com/2014/11/disable_secure_boot_1.jpeg"><img class="alignnone size-medium wp-image-20" src="https://g33kyaditya.files.wordpress.com/2014/11/disable_secure_boot_1.jpeg?w=300" alt="Disable_Secure_Boot_1" width="300" height="136" /></a></p>
+
+<p>&#8211; There will be a slight difference in PC settings for Windows 8 and Windows 8.1. Depending upon which one you are using, you can follow the respective procedure described below:</p>
+
+<p><strong>Windows 8:</strong> In Windows 8, you need to go to General PC settings and select <strong>Advanced startup</strong> and then click on <strong>Restart now</strong></p>
+
+<p><strong><a href="https://g33kyaditya.files.wordpress.com/2014/11/change_pc_settings_windows8.jpg"><img class="alignnone size-medium wp-image-21" src="https://g33kyaditya.files.wordpress.com/2014/11/change_pc_settings_windows8.jpg?w=300" alt="Change_PC_Settings_Windows8" width="300" height="200" /></a></strong></p>
+
+<p><strong>Window 8.1:</strong> In Windows 8.1, go to <strong>Update and recovery</strong> from left sidebar. <a href="https://g33kyaditya.files.wordpress.com/2014/11/disable_secure_boot_windows8_2.jpeg"><img class="alignnone size-medium wp-image-22" src="https://g33kyaditya.files.wordpress.com/2014/11/disable_secure_boot_windows8_2.jpeg?w=300" alt="Disable_Secure_Boot_Windows8_2" width="300" height="168" /></a></p>
+
+<p>Then click <strong>Restart now</strong> under <strong>Advanced Startup</strong></p>
+
+<p><a href="https://g33kyaditya.files.wordpress.com/2014/11/disable_secure_boot_windows8_31.jpeg"><img class="alignnone size-medium wp-image-24" src="https://g33kyaditya.files.wordpress.com/2014/11/disable_secure_boot_windows8_31.jpeg?w=300" alt="Disable_Secure_Boot_Windows8_3" width="300" height="168" /></a></p>
+
+<p>&#8211; After you have clicked Restart now button, you will be presented with some options to choose from in the next screen. Select <strong>Troubleshoot</strong> here</p>
+
+<p><a href="https://g33kyaditya.files.wordpress.com/2014/11/troubleshoot_windows8.jpg"><img class="alignnone size-medium wp-image-25" src="https://g33kyaditya.files.wordpress.com/2014/11/troubleshoot_windows8.jpg?w=300" alt="Troubleshoot_Windows8" width="300" height="200" /></a></p>
+
+<p>&#8211; In <strong>Troubleshoot</strong> menu, select <strong>Advanced options</strong></p>
+
+<p>&#8211; In Advanced options menu, choose <strong>UEFI Firmware settings</strong></p>
+
+<p><a href="https://g33kyaditya.files.wordpress.com/2014/11/troubleshoot_windows8_2.jpg"><img class="alignnone size-medium wp-image-26" src="https://g33kyaditya.files.wordpress.com/2014/11/troubleshoot_windows8_2.jpg?w=300" alt="Troubleshoot_Windows8_2" width="300" height="200" /></a></p>
+
+<p>&#8211; Next, click on <strong>Restart</strong> button to reboot your system in UEFI settings.</p>
+
+<p>&#8211; By this time you must have been booted in to UEFI utility. You can change various settings here but all we want to do right now is to disable secure boot option to allow dual booting of Ubuntu or any other Linux</p>
+
+<p>Move to Boot tab, there you’ll find <strong>Secure Boot</strong> option which is set to enabled. Use the arrow key to go to Secure Boot option and then press <strong>enter</strong> to select it. <strong>Use + or – to change its value</strong>. Confirm it when prompted. Press <strong>F10 to save the changes</strong> and exit the UEFI settings.</p>
+
+<p><a href="https://g33kyaditya.files.wordpress.com/2014/11/disable_secure_boot_windows8.jpg"><img class="alignnone size-medium wp-image-27" src="https://g33kyaditya.files.wordpress.com/2014/11/disable_secure_boot_windows8.jpg?w=300" alt="Disable_Secure_Boot_Windows8" width="300" height="225" /></a></p>
+
+<p>Step 6 :</p>
+
+<p>Once you have disabled secure boot, it’s time to install your distro. Plug in the USB and boot the system from it. To boot from USB, will have to choose boot from USB option from within Windows itself. Either with PC Setting (like for UEFI) or pressing shift key while clicking on Restart.</p>
+
+<p>Step 7 :</p>
+
+<p>Once you have booted in the live USB, you will be presented with option to try or install Ubuntu. Click on install. You will be presented with few screen options to choose the language. It will then do some checks on available space, power and internet connection etc. Just click on <strong>Continue</strong>.</p>
+
+<p><a href="https://g33kyaditya.files.wordpress.com/2014/11/installing_windows8_ubuntu.jpeg"><img class="alignnone size-medium wp-image-28" src="https://g33kyaditya.files.wordpress.com/2014/11/installing_windows8_ubuntu.jpeg?w=300" alt="Installing_Windows8_Ubuntu" width="300" height="171" /></a></p>
+
+<p>Step 8 :</p>
+
+<p>Now in the <strong>Installation Type</strong>, select <strong>Something Else</strong>.</p>
+
+<p>Step 9 :</p>
+
+<p>Remember we had created some free space beforehand? We shall use the free space to create Root, Swap and Home. Select the free space and click on the + sign. However its a matter of personal choice. If you have 8GB of RAM, you don&#8217;t need the swap space. Else, I strongly suggest you to create it, equal to the RAM you have. Also, you can have everything on your Root directory like me. Here&#8217;s a comparison.</p>
+
+<p>You can have only one single partiton &copy; in which your Windows Installation resides along with your data such as Music,Downloads etc. This is what happens when you create a single Root (/) Directory.</p>
+
+<p>OR</p>
+
+<p>In Windows you can have a separate partitions. One for the Windows Installation &copy; and others for your data like Videos, Movies etc. This is what happens when you create different partitions for Root(/) and Home Directory. The Linux Installation resides in Root and your data goes into Home.</p>
+
+<p>Step 10 :</p>
+
+<p>Depending on your choice you can either put everything in one partiton or have different partitions for Root and Home. If you chose the latter, the Root Partition could be anything between 10-20 GB. Other Space can be used for your Home.</p>
+
+<p>In any case, select the Mount Point according to your need.</p>
+
+<p>/ : For Root Partition</p>
+
+<p><a href="https://g33kyaditya.files.wordpress.com/2014/11/installing_windows8_ubuntu_3.png"><img class="alignnone size-medium wp-image-29" src="https://g33kyaditya.files.wordpress.com/2014/11/installing_windows8_ubuntu_3.png?w=300" alt="Installing_Windows8_Ubuntu_3" width="300" height="196" /></a></p>
+
+<p>/home : For home Partition</p>
+
+<p><a href="https://g33kyaditya.files.wordpress.com/2014/11/installing_windows8_ubuntu_5.png"><img class="alignnone size-medium wp-image-30" src="https://g33kyaditya.files.wordpress.com/2014/11/installing_windows8_ubuntu_5.png?w=300" alt="Installing_Windows8_Ubuntu_5" width="300" height="196" /></a></p>
+
+<p>If you need a swap space, then select it equal to the amount of RAM you have. (Optional for those with 8GB of RAM)</p>
+
+<p><a href="https://g33kyaditya.files.wordpress.com/2014/11/installing_windows8_ubuntu_4.png"><img class="alignnone size-medium wp-image-31" src="https://g33kyaditya.files.wordpress.com/2014/11/installing_windows8_ubuntu_4.png?w=300" alt="Installing_Windows8_Ubuntu_4" width="300" height="173" /></a></p>
+
+<p>Well, you have almost won the battle. You can smell victory now. Next you will be asked to set username password etc. Basically, you just need to click next now. Select all the details.</p>
+
+<p>And Voila ! You now have a Linux Distro alongside Windows 8. Tested with Ubuntu 14.04. Will work with other distros as well.</p>
+
+<p>That&#8217;s all for now.</p>
+
+<p>Thanks for Reading</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>#4 : PULUG</title>
+			<link>https://aditya-dev.xyz/p16/</link>
+			<pubDate>Tue, 04 Nov 2014 18:14:16 +0000</pubDate>
+			
+			<guid>https://aditya-dev.xyz/p16/</guid>
+			<description>I am blogging after a week or two I guess. Well, I hadn&amp;#8217;t promised to be a good blogger either :p.
 PULUG stands for Panjab University Linux User Group. It was started by my seniors some time back. If I am correct, then maybe in 2012. KP Sir along with Nitin Sir started it. Unlike the other geeks who blabber on and on about Open Source, these guys are really (by that I mean &amp;#8220;really&amp;#8221;) awesome.</description>
-    </item>
-    
-    <item>
-      <title>#3 : a funny comparison between C and C&#43;&#43;</title>
-      <link>https://aditya-dev.xyz/p9/</link>
-      <pubDate>Wed, 22 Oct 2014 14:58:22 +0000</pubDate>
-      
-      <guid>https://aditya-dev.xyz/p9/</guid>
-      <description>So, I was going through Abhinav Badola&amp;#8217;s Google+ profile, and found out this funny comparison between C and C++. Being a geek myself, I was compelled to post it here. So here it goes&amp;#8230;
+			<content type="html"><![CDATA[<p>I am blogging after a week or two I guess. Well, I hadn&#8217;t promised to be a good blogger either :p.</p>
+
+<p>PULUG stands for Panjab University Linux User Group. It was started by my seniors some time back. If I am correct, then maybe in 2012. KP Sir along with Nitin Sir started it. Unlike the other geeks who blabber on and on about Open Source, these guys are really (by that I mean &#8220;really&#8221;) awesome. They are pretty jolly and fun to talk with. I had some interests in FOSS but they brought it out to a different level. These guys are just to good to be nerds. Really fun.</p>
+
+<p>I may be getting off topic as usual. Pardon me. 🙂</p>
+
+<p>So, coming back to PULUG, its a community that comprises of our seniors along (passouts included). To us, ie to the juniors, they provide some really nice advise. They teach us things, that are not taught in classes but are really important (Shitty Syllabus !!!). These guys are really into it. They are frequent contributors. Not just that. They organize UIET CodeChef Campus Classes too. 😀 . For those who are into competitive programming. Its something that is missed out in most of the colleges around India apart from the prestigious ones like IIT&#8217;s and BITS&#8217;s.  Plus, these guys are really COOL.</p>
+
+<p>TBH, the first time I heard about PULUG was at a class promotion event. Not Exactly that. Something similar. And my first thought was &#8220;What the hell. Who Cares&#8221;. Had my thinking not changed, I would not be writing this blog now, nor would I have been learning Vim (which I am doing at the moment). An awesome text editor for Linux, I came to know in today&#8217;s PULUG session. Cheers !</p>
+
+<p>For those who still didn&#8217;t get it (:p), PULUG is all about LINUX. I myself use a 14.04 Trusty Tahr. I like the UI. Maybe, I&#8217;ll update to 14.10 Utopic Unicorn. Who knows !</p>
+
+<p>They have a PULUG mailing list. A facebook page. An IRC. I am posting the Mailing List here. But don&#8217;t Spam. I don&#8217;t hold any responsibility if you are blocked. :p</p>
+
+<p><a href="https://groups.google.com/forum/#!forum/pulug">https://groups.google.com/forum/#!forum/pulug</a></p>
+
+<p>To, sum it up. These guys really do awesome things. (Oops! Did I mention GSoC, JSFoo, KDESoC, ACM ICPC ? ) We&#8217;ll save that for sometime later.</p>
+
+<p>Thats all for now</p>
+
+<p>Thanks for Reading</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>#3 : a funny comparison between C and C&#43;&#43;</title>
+			<link>https://aditya-dev.xyz/p9/</link>
+			<pubDate>Wed, 22 Oct 2014 14:58:22 +0000</pubDate>
+			
+			<guid>https://aditya-dev.xyz/p9/</guid>
+			<description>So, I was going through Abhinav Badola&amp;#8217;s Google+ profile, and found out this funny comparison between C and C++. Being a geek myself, I was compelled to post it here. So here it goes&amp;#8230;
 C is the crotchety old man who lives in the engine room. He is perpetually
 tinkering, occasionally mumbling words that make no sense to anyone,
 but might be old Norse (&amp;#8220;scanfing vastart, strtok div frexping calloc! Err,</description>
-    </item>
-    
-    <item>
-      <title>#2 : half girlfriend review</title>
-      <link>https://aditya-dev.xyz/p8/</link>
-      <pubDate>Wed, 22 Oct 2014 08:08:27 +0000</pubDate>
-      
-      <guid>https://aditya-dev.xyz/p8/</guid>
-      <description>Its been a fortnight, since I read half girlfriend by Chetan Bhagat. At 280 pages, its not a fat book. A sitting or two could do the trick. Besides, it got me glued. With each new chapter, you would be craving for more. I have been following Bhagat since his first book. Its the sixth book by Bhagat, and he seems to have worked on his previous flaws or shortcomings. His style remains pretty much the same as his previous fictional works.</description>
-    </item>
-    
-    <item>
-      <title>#1 : Just some stuff…</title>
-      <link>https://aditya-dev.xyz/p7/</link>
-      <pubDate>Wed, 22 Oct 2014 06:15:55 +0000</pubDate>
-      
-      <guid>https://aditya-dev.xyz/p7/</guid>
-      <description>So, I woke up this morning with this feeling of starting a blog(again). TBH, I am not a very good blogger. This is my 3rd blog. Out of the other 2, I deleted one a couple of weeks ago and the very first one is still active. Although I don&amp;#8217;t maintain it.
+			<content type="html"><![CDATA[<p>So, I was going through Abhinav Badola&#8217;s Google+ profile, and found out this funny comparison between C and C++. Being a geek myself, I was compelled to post it here. So here it goes&#8230;</p>
+
+<p>C is the crotchety old man who lives in the engine room. He is perpetually</p>
+
+<p>tinkering, occasionally mumbling words that make no sense to anyone,</p>
+
+<p>but might be old Norse (&#8220;scanfing vastart, strtok div frexping calloc! Err,</p>
+
+<p>no.&#8221;). When he&#8217;s not mumbling, he&#8217;s waving his little antique pistol in the</p>
+
+<p>air and ranting about how real men take out their own garbage. Despite</p>
+
+<p>this, he&#8217;s a pretty chill teacher; he hands you the tools, points you in the right direction, and gets out of your way. But he&#8217;ll just sit back and cackle</p>
+
+<p>when, as inevitably happens, you turn a wrench the wrong way and</p>
+
+<p>scalding steam erupts into your face. C++ is the mad professor who&#8217;s had this machine for sale in SkyMall</p>
+
+<p>catalogues for years now – it takes up an entire room and provides thirty-</p>
+
+<p>seven hundred different methods of producing delicious home-cooked</p>
+
+<p>meals in just three minutes flat! Really, most of the people buying this</p>
+
+<p>contraption just put it in a back room and limit their use to the juicer</p>
+
+<p>attachment and maybe just maybe the pasta maker. But you&#8217;re sure you can do better! You buy the service manual from the professor and go to</p>
+
+<p>figure the thing out, only to discover that the person who designed the</p>
+
+<p>thing is none other than the crotchety old man who lives in the engine</p>
+
+<p>room. In terms of power:</p>
+
+<p>C is a chainsaw. C++ is a 50-foot tall earthmover that mows down everything in its path,</p>
+
+<p>and has giant chainsaws sticking out of its wheel hubs to boot. Sure, both can clear trees out of your way, but&#8230; In terms of special:</p>
+
+<p>C is a rockstar. C++ is a narco-syndicate collective of superheroes.</p>
+
+<p>I hope this clarifies.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>#2 : half girlfriend review</title>
+			<link>https://aditya-dev.xyz/p8/</link>
+			<pubDate>Wed, 22 Oct 2014 08:08:27 +0000</pubDate>
+			
+			<guid>https://aditya-dev.xyz/p8/</guid>
+			<description>Its been a fortnight, since I read half girlfriend by Chetan Bhagat. At 280 pages, its not a fat book. A sitting or two could do the trick. Besides, it got me glued. With each new chapter, you would be craving for more. I have been following Bhagat since his first book. Its the sixth book by Bhagat, and he seems to have worked on his previous flaws or shortcomings. His style remains pretty much the same as his previous fictional works.</description>
+			<content type="html"><![CDATA[<p>Its been a fortnight, since I read half girlfriend by Chetan Bhagat. At 280 pages, its not a fat book. A sitting or two could do the trick. Besides, it got me glued. With each new chapter, you would be craving for more. I have been following Bhagat since his first book. Its the sixth book by Bhagat, and he seems to have worked on his previous flaws or shortcomings. His style remains pretty much the same as his previous fictional works. So without further ado, lets dig in. Plus, I would try to keep Spoilers at a minimum.</p>
+
+<p>It follows the love story of a guy named Madhav from a small village in Bihar. He falls falls for a rich girl from New Delhi. He doesn&#8217;t know english. She is good at it. He wants her to be his girlfriend. She does not want a relationship. They decide to be in a half-affair (if there could be anything like it). She becomes his half-girlfriend. He is still not content with it. Well thats how far I can stretch out without spoiling your experience. The book has some serious twists, something that I didn&#8217;t notice in his previous works. Most of the chapters end at a high-note, so you would want to read it further. As I said earlier, it got me glued. Like Revolution 2020, the book has a tinge of the social scenario in India. Well, more than just a tinge. Something Bhagat highlights, &#8220;He writes to bring a Change&#8221;. One of Bhagat&#8217;s touch I like the most since his first book is the use of <em>italicised</em> font to tell us what the Protagonist is thinking. Something you can very easily relate to, if you know what I mean. The protagonist comments about situations and the general behaviour of Indian women, which are both amusing and reflect their mindset. If you have ever been rejected by someone you were deeply in love with, you could easily connect to Madhav. Its a well laid out story that answers most of your questions. Also Madhav&#8217;s life from Bihar to New York(oops! sorry ) is well illustrated so you know the reason behind everything.</p>
+
+<p>Ending my <em>sort of</em> review here. Overall its a good read. Not too fancy though or out of the box. Like every love story has to be. Not very much different from his previous works in terms of style.</p>
+
+<p>I may be getting cocky comparing two different genres, but if it were possible in some way, then Half Girlfriend cannot compete with the likes of The Shiva Trilogy by Amish Tripathi. Well, according to me. The reason I mention it, is because both are Indian authors and I enjoyed their works.</p>
+
+<p>Your valuable comments are welcome.</p>
+
+<p>Thanks for reading.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>#1 : Just some stuff…</title>
+			<link>https://aditya-dev.xyz/p7/</link>
+			<pubDate>Wed, 22 Oct 2014 06:15:55 +0000</pubDate>
+			
+			<guid>https://aditya-dev.xyz/p7/</guid>
+			<description>So, I woke up this morning with this feeling of starting a blog(again). TBH, I am not a very good blogger. This is my 3rd blog. Out of the other 2, I deleted one a couple of weeks ago and the very first one is still active. Although I don&amp;#8217;t maintain it.
 This time, i&amp;#8217;ll be a good blogger (maybe), and will try to maintain it to the best of my abilities.</description>
-    </item>
-    
-  </channel>
+			<content type="html"><![CDATA[<p>So, I woke up this morning with this feeling of starting a blog(<em>again)</em>. TBH, I am not a very good blogger. This is my 3rd blog. Out of the other 2, I deleted one a couple of weeks ago and the very first one is still active. Although I don&#8217;t maintain it.</p>
+
+<p>This time, i&#8217;ll be a good blogger (<em>maybe)</em>, and will try to maintain it to the best of my abilities. Still, I don&#8217;t make any promises. I&#8217;ll be blogging about anything to everything, whatever comes to my mind. And maybe sometimes my personal life too. I am not bounded by any word limit, so that means I can go on and on endlessly&#8230;</p>
+]]></content>
+		</item>
+		
+	</channel>
 </rss>

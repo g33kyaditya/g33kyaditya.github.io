@@ -1,75 +1,80 @@
 <!DOCTYPE html>
-<html>
+<html lang="en-gb">
 
-    <head>
-        <title> #26: GSoC with KDE Now – 4 &middot;  </title>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<meta name="theme-color" content="#494f5c">
+	<meta name="msapplication-TileColor" content="#494f5c">
 
-        <meta http-equiv="content-type" content="text/html; charset=utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-<meta name="generator" content="Hugo 0.31" />
-
-
-<script   src="https://code.jquery.com/jquery-3.1.1.min.js"   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="   crossorigin="anonymous"></script>
-
-
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<meta itemprop="name" content="#26: GSoC with KDE Now – 4">
+<meta itemprop="description" content="Hey ! I&#8217;m making KDE Now, an application for the Plasma Desktop. It would help the user see important stuff from his email, on a plasmoid. It&#8217;s similar to what Google Now does on Android. To know more, click here
+&nbsp;
+In the past week, I worked on the code reviews I got. Hence, I changed the classes&#8217; design all over. The way it works now, is that there is a central dispatcher, the daemon, that handles all the jobs.">
 
 
-<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-
-
-<link rel="stylesheet" href="https://aditya-dev.xyz/css/nix.css">
-
-
-<link href="https://fonts.googleapis.com/css?family=Inconsolata%7COpen+Sans%7CConcert+One" rel="stylesheet">
+<meta itemprop="datePublished" content="2016-06-11T14:34:32&#43;00:00" />
+<meta itemprop="dateModified" content="2016-06-11T14:34:32&#43;00:00" />
+<meta itemprop="wordCount" content="628">
 
 
 
+<meta itemprop="keywords" content="gsoc16,kde," />
+<meta property="og:title" content="#26: GSoC with KDE Now – 4" />
+<meta property="og:description" content="Hey ! I&#8217;m making KDE Now, an application for the Plasma Desktop. It would help the user see important stuff from his email, on a plasmoid. It&#8217;s similar to what Google Now does on Android. To know more, click here
+&nbsp;
+In the past week, I worked on the code reviews I got. Hence, I changed the classes&#8217; design all over. The way it works now, is that there is a central dispatcher, the daemon, that handles all the jobs." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://aditya-dev.xyz/p465/" />
+<meta property="article:published_time" content="2016-06-11T14:34:32&#43;00:00"/>
+<meta property="article:modified_time" content="2016-06-11T14:34:32&#43;00:00"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="#26: GSoC with KDE Now – 4"/>
+<meta name="twitter:description" content="Hey ! I&#8217;m making KDE Now, an application for the Plasma Desktop. It would help the user see important stuff from his email, on a plasmoid. It&#8217;s similar to what Google Now does on Android. To know more, click here
+&nbsp;
+In the past week, I worked on the code reviews I got. Hence, I changed the classes&#8217; design all over. The way it works now, is that there is a central dispatcher, the daemon, that handles all the jobs."/>
 
-    </head>
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="">
+	<link rel="shortcut icon" href="/favicon.ico">
 
-    <body>
-        <header>
-<nav class="navbar navbar-default navbar-fixed-top navbar-inverse font-header">
-	<div class="container-fluid">
-		<div class="navbar-header">
-			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
-				<span class="sr-only">Toggle navigation</span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-			</button>
-			<a class="navbar-brand" id="green-terminal" href=https://aditya-dev.xyz>g33kyaditya@aditya-dev.xyz ~ $</a>
+	<title>#26: GSoC with KDE Now – 4</title>
+	<link rel="stylesheet" href="https://aditya-dev.xyz/css/style.min.31706917653d2b9e8410abd431f30ec4359a88a94fc87a63654779d87329edec.css" integrity="sha256-MXBpF2U9K56EEKvUMfMOxDWaiKlPyHpjZUd52HMp7ew=">
+	
+</head>
+
+<body id="page">
+	
+	<header id="site-header" class="animated slideInUp faster">
+		<div class="hdr-wrapper section-inner">
+			<div class="hdr-left">
+				<div class="site-branding">
+					<a href="https://aditya-dev.xyz">Aditya Sharma</a>
+				</div>
+				<nav class="site-nav hide-in-mobile">
+					<a href="https://aditya-dev.xyz/posts/">Posts</a>
+				</nav>
+			</div>
+			<div class="hdr-right hdr-icons">
+				<span class="hdr-social hide-in-mobile"><a href="https://github.com/g33kyaditya" target="_blank" rel="noopener me" title="Github"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-github"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg></a><a href="https://www.linkedin.com/in/aditya-sharma-7b65a010b" target="_blank" rel="noopener me" title="Linkedin"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-linkedin"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path><rect x="2" y="9" width="4" height="12"></rect><circle cx="4" cy="4" r="2"></circle></svg></a><a href="mailto:g33kyaditya@gmail.com" target="_blank" rel="noopener me" title="Email"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-mail"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg></a><a href="https://drive.google.com/file/d/0B2UcOgLtxPKeRGZBX2xnMkp0NFE/view" target="_blank" rel="noopener me" title="Cv"><svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" viewBox="0 0 1024 1024" fill="currentColor" stroke="currentColor" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" class="feather feather-cv"><path d="M809.4 64.2H214.6c-45.9 0-83.3 37.4-83.3 83.3v729c0 45.9 37.4 83.3 83.3 83.3h470c6.9 0 13.5-2.8 18.3-7.7l182.2-184.6c4.8-4.8 7.4-11.3 7.4-18.1V147.5c0.1-45.9-37.2-83.3-83.1-83.3zM703.9 886v-78.2c0-21.3 17.4-38.6 38.7-38.6h76.9L703.9 886z m142.3-159.1H745.7c-46.6 0-84.5 37.9-84.5 84.5v103h-451c-17.8 0-32.3-14.5-32.3-32.3V142c0-17.8 14.5-32.3 32.3-32.3h603.7c17.8 0 32.3 14.5 32.3 32.3v584.9zM689 640H335c-12.6 0-23-10.3-23-23 0-12.6 10.3-23 23-23h354c12.7 0 23 10.4 23 23s-10.3 23-23 23zM489 749.9H335c-12.6 0-23-10.4-23-23s10.3-23 23-23h154c12.6 0 23 10.3 23 23 0 12.6-10.3 23-23 23zM583.5 354.7c15.8-17.3 25.5-40.3 25.5-65.6 0-53.6-43.4-97-97-97s-97 43.4-97 97c0 25.3 9.7 48.3 25.5 65.6C375 382.5 329 447.5 329 523.2c0 12.7 10.3 23 23 23s23-10.3 23-23c0-75.7 61.3-137 137-137s137 61.3 137 137c0 12.7 10.3 23 23 23s23-10.3 23-23c0-75.7-46-140.7-111.5-168.5zM512 238.2c28.2 0 51 22.8 51 51s-22.8 51-51 51-51-22.8-51-51 22.8-51 51-51z" /></svg></a></span><button id="menu-btn" class="hdr-btn" title="Menu"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-menu"><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg></button>
+			</div>
 		</div>
-
-		
-		<div class="collapse navbar-collapse" id="navbar-collapse-1">
-			<ul class="nav navbar-nav navbar-right">
-				<li>
-					<a href="https://aditya-dev.xyz">/home/g33kyaditya</a>
-				</li>
-				
-				
-				<li class="dropdown">
-                    
-            		<a href="https://aditya-dev.xyz/posts">~/posts</a>
-            		
-        		</li>
-        		
-
-			</ul>
-		</div>
+	</header>
+	<div id="mobile-menu" class="animated fast">
+		<ul>
+			<li><a href="https://aditya-dev.xyz/posts/">Posts</a></li>
+		</ul>
 	</div>
-</nav>
-</header>
 
-        <div class="container wrapper">
-            <h1><a href="https://aditya-dev.xyz/p465/">#26: GSoC with KDE Now – 4</a></h1>
-            <span class="post-date">Jun 11, 2016 </span>
-            <div class="post-content">
-                <p>Hey ! I&#8217;m making KDE Now, an application for the Plasma Desktop. It would help the user see important stuff from his email, on a plasmoid. It&#8217;s similar to what Google Now does on Android. To know more, click <a href="https://g33kyaditya.wordpress.com/2016/04/23/21-google-summer-of-code-2016/">here</a></p>
+
+	<main class="site-main section-inner thin animated fadeIn faster">
+		<h1>#26: GSoC with KDE Now – 4</h1>
+		<div class="content">
+			<p>Hey ! I&#8217;m making KDE Now, an application for the Plasma Desktop. It would help the user see important stuff from his email, on a plasmoid. It&#8217;s similar to what Google Now does on Android. To know more, click <a href="https://g33kyaditya.wordpress.com/2016/04/23/21-google-summer-of-code-2016/">here</a></p>
 
 <p>&nbsp;</p>
 
@@ -83,23 +88,19 @@
 
 <p>See you later.</p>
 
-            </div>
-            
-            <div class="post-comments">
-                
-            </div>
-            
-            <div class="push"></div>
-        </div>
-        <footer class="footer text-center">
-<p>Copyright &copy; 2019 Aditya -
-<span class="credit">
-	Powered by
-	<a target="_blank" href="https://gohugo.io">Hugo</a>
-	and
-	<a target="_blank" href="https://github.com/LordMathis/hugo-theme-nix/">Nix</a> theme.
-</span>
-</p>
-</footer>
+		</div>
+	</main>
 
-    </body>
+	<footer id="site-footer" class="section-inner thin animated fadeIn faster">
+		<p>&copy; 2019 <a href="https://aditya-dev.xyz">Aditya Sharma</a> &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a></p>
+		<p>
+			Made with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> &#183; Theme <a href="https://github.com/Track3/hermit" target="_blank" rel="noopener">Hermit</a> &#183; <a href="https://aditya-dev.xyz/posts/index.xml" target="_blank" title="rss"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-rss"><path d="M4 11a9 9 0 0 1 9 9"></path><path d="M4 4a16 16 0 0 1 16 16"></path><circle cx="5" cy="19" r="1"></circle></svg></a>
+		</p>
+	</footer>
+
+
+	<script src="https://aditya-dev.xyz/js/main.min.784417f5847151f848c339cf0acb13a06cbb648b1483435a28ed4556c4ead69b.js" integrity="sha256-eEQX9YRxUfhIwznPCssToGy7ZIsUg0NaKO1FVsTq1ps="></script>
+
+</body>
+
+</html>
