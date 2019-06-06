@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://aditya-dev.xyz/posts/2018-10-10-34-test/</loc>
-    <lastmod>2018-10-10T21:18:02+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://aditya-dev.xyz/p764/</loc>
     <lastmod>2017-10-17T19:39:21+00:00</lastmod>
   </url>
@@ -174,7 +169,7 @@
   
   <url>
     <loc>https://aditya-dev.xyz/</loc>
-    <lastmod>2018-10-10T21:18:02+05:30</lastmod>
+    <lastmod>2017-10-17T19:39:21+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -197,7 +192,7 @@
   
   <url>
     <loc>https://aditya-dev.xyz/posts/</loc>
-    <lastmod>2018-10-10T21:18:02+05:30</lastmod>
+    <lastmod>2017-10-17T19:39:21+00:00</lastmod>
     <priority>0</priority>
   </url>
   
